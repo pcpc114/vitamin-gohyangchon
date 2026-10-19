@@ -1,0 +1,7 @@
+node_modules/
+source-vitamin25.html
+source-assets/
+artifacts/
+*.tar.gz
+*.tar
+.sites-runtime/

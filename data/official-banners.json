@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "url": "https://file.cafe24cos.com/banner-admin-live/upload/bitamin25/ea63ddc3-f67e-433c-dbc3-dbe7c32fb94e.png",
+    "localImage": "/assets/official-banner-1.webp",
+    "originalImage": "source-assets/originals/official-banner-1.png",
+    "width": 1920,
+    "height": 600,
+    "sourceWidth": 1920,
+    "sourceHeight": 600
+  },
+  {
+    "id": 2,
+    "url": "https://file.cafe24cos.com/banner-admin-live/upload/bitamin25/8af380bf-175f-462a-b0b2-da9448010a1c.png",
+    "localImage": "/assets/official-banner-2.webp",
+    "originalImage": "source-assets/originals/official-banner-2.png",
+    "width": 1920,
+    "height": 600,
+    "sourceWidth": 1920,
+    "sourceHeight": 600
+  },
+  {
+    "id": 3,
+    "url": "https://file.cafe24cos.com/banner-admin-live/upload/bitamin25/ecef8249-fdb1-41fe-848d-0c07bb76c0fb.png",
+    "localImage": "/assets/official-banner-3.webp",
+    "originalImage": "source-assets/originals/official-banner-3.png",
+    "width": 1920,
+    "height": 600,
+    "sourceWidth": 1920,
+    "sourceHeight": 600
+  },
+  {
+    "id": 4,
+    "url": "https://file.cafe24cos.com/banner-admin-live/upload/bitamin25/00f08571-b697-4548-9fc0-272f9943a608.png",
+    "localImage": "/assets/official-banner-4.webp",
+    "originalImage": "source-assets/originals/official-banner-4.png",
+    "width": 1230,
+    "height": 500,
+    "sourceWidth": 1230,
+    "sourceHeight": 500
+  }
+]

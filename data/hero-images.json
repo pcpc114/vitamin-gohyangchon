@@ -1,0 +1,28 @@
+[
+  {
+    "id": "hero-food",
+    "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251020/84401f7feaac90c3c05641da60ce0e16.jpg",
+    "localImage": "/assets/hero-food.webp",
+    "originalImage": "source-assets/originals/home-gallery-1.jpg",
+    "width": 546,
+    "height": 650,
+    "treatment": "Original image composition preserved; WebP conversion only.",
+    "description": "Official homepage gallery: gwamegi on a wooden platter with garlic, scallions, gim and sauce."
+  },
+  {
+    "id": "hero-meal",
+    "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/c79a136e77ef99a387ae8dbb6724c6c9.jpg",
+    "localImage": "/assets/hero-meal.webp",
+    "originalImage": "source-assets/details/detail-20.jpg",
+    "width": 860,
+    "height": 648,
+    "crop": [
+      70,
+      0,
+      930,
+      648
+    ],
+    "treatment": "Top photograph selected from official product detail collage. No retouching, no upscaling.",
+    "description": "Official product detail photograph: a gwamegi vegetable meal with dipping sauce, garlic, sprouts and gim."
+  }
+]

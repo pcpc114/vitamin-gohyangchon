@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vitamin-gohyangchon-gwamegi.godqhr12312.chatgpt.site/sitemap.xml
