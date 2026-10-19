@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import {createHash} from 'node:crypto';
 
 // Compare generated HTML with merchant evidence, independently of builder helpers.
 const read = file => JSON.parse(fs.readFileSync(file, 'utf8'));
@@ -7,6 +8,8 @@ const cfg = read('site.config.json');
 const {products} = read('data/catalog.json');
 const report = read('data/import-report.json');
 const seo = read('data/seo-content.json');
+const galleryThumbnails = fs.existsSync('data/gallery-thumbnails.json') ? read('data/gallery-thumbnails.json') : {};
+const imageHashes = new Map();
 const base = new URL((process.env.SITE_URL || cfg.url).replace(/\/$/, '') + '/');
 const root = path.resolve('dist');
 const errors = [];
@@ -60,6 +63,28 @@ function sourceImages(product) {
   // successfully downloaded image must still exist and appear on its own page.
   for (const key of ['detailImages', 'detailBlocks', 'galleryImages', 'exchangeImages']) visit(product[key]);
   return urls;
+}
+function verifiedGallerySources(html, file) {
+  const originals = new Set();
+  for (const button of html.matchAll(/<button\b([^>]*)>([\s\S]*?)<\/button>/gi)) {
+    const source = attrs(button[1])['data-gallery-src'];
+    if (!source) continue;
+    const preview = tags(button[2], 'img')[0]?.src;
+    if (preview === source) continue; // Original-size previews are checked normally.
+    const thumbnail = galleryThumbnails[source];
+    const originalFile = localTarget(new URL(source, base));
+    const previewFile = preview && localTarget(new URL(preview, base));
+    if (!thumbnail || thumbnail.src !== preview || !originalFile || !existsFile(originalFile)
+      || !previewFile || !existsFile(previewFile) || fs.statSync(previewFile).size !== thumbnail.bytes
+      || !(thumbnail.width > 0 && thumbnail.height > 0 && Math.max(thumbnail.width, thumbnail.height) <= 128)) {
+      fail(file, `gallery original is not paired with a valid thumbnail: ${source}`);
+      continue;
+    }
+    if (!imageHashes.has(source)) imageHashes.set(source, createHash('sha256').update(fs.readFileSync(originalFile)).digest('hex'));
+    if (imageHashes.get(source) !== thumbnail.sourceSHA256) fail(file, `gallery original hash changed: ${source}`);
+    else originals.add(source);
+  }
+  return originals;
 }
 
 if (!Array.isArray(products) || !products.length) throw new Error('Imported catalog has no products.');
@@ -154,6 +179,9 @@ for (const source of products) {
       if (offer.availability !== availability) fail(file, `Offer availability differs from source status ${source.status}`);
     }
   }
+  // Small previews still expose the exact merchant original through the gallery
+  // button. Accept that route only after checking its paired preview and hash.
+  for (const src of verifiedGallerySources(html, file)) imageSources.add(src);
   for (const src of sourceImages(source)) {
     sourceImageReferences++;
     if (!imageSources.has(src)) fail(file, `downloaded merchant image omitted: ${src}`);

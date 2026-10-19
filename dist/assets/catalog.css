@@ -126,3 +126,5 @@
 /* Let FAQ text wrap within the available flex width without intrinsic sizing. */
 .faq-list summary>span:first-child{min-width:0;flex:1 1 0%}
 .faq-list .faq-plus{flex:none}
+/* Product photos and information also form one reading column on phones. */
+@media(max-width:780px){.product-detail{display:block}.detail-gallery{display:flow-root;margin-bottom:25px}}

@@ -124,11 +124,11 @@ $env:NAVER_SITE_VERIFICATION = "발급된 content 값"
 $env:BING_SITE_VERIFICATION = "발급된 content 값"
 ```
 
-태그 생성은 외부 계정의 소유권 확인이나 사이트맵 제출을 실행하지 않습니다. **Google Search Console·네이버·Bing 등록, Merchant Center 설정, DNS·호스팅 연결과 실제 도메인 배포는 아직 수행하지 않았습니다.** 현재 사이트의 주문·결제는 외부 공식몰에서 진행되며, Merchant Center 등록이나 검색 노출 자격을 완료했다는 의미도 없습니다. 공개 후에는 실제 URL의 200 응답·canonical·사이트맵·상품 데이터와 모바일 동작을 다시 확인해야 합니다.
+태그 생성은 외부 계정의 소유권 확인이나 사이트맵 제출을 실행하지 않습니다. **Google Search Console·네이버·Bing 등록과 Merchant Center 설정은 아직 수행하지 않았습니다.** GitHub·Cloudflare Pages 연동 배포는 완료했으며, vitamin25.com의 실제 DNS·TLS 연결은 기존 이메일·FTP 사용 여부 확인 후 진행해야 합니다. 현재 사이트의 주문·결제는 외부 공식몰에서 진행되며, Merchant Center 등록이나 검색 노출 자격을 완료했다는 의미도 없습니다. 도메인 연결 후에는 실제 URL의 200 응답·canonical·사이트맵·상품 데이터와 모바일 동작을 다시 확인해야 합니다.
 
 ## GitHub와 Cloudflare Pages 배포
 
-GitHub 저장소를 Pages의 Git 연동 프로젝트에 연결할 때 아래 설정을 사용합니다. 현재 로컬 배포 준비만 작성했으며 계정 연결·배포·DNS·TLS 완료를 뜻하지 않습니다.
+GitHub 비공개 저장소 `godqhr12312-maker/vitamin-gohyangchon`를 Pages 프로젝트 `vitamin-gohyangchon`에 연결했습니다. 임시 주소는 https://vitamin-gohyangchon.pages.dev/ 이며 아래 설정으로 자동 빌드·배포합니다. vitamin25.com의 DNS·TLS 연결은 아직 완료하지 않았습니다.
 
 | 항목 | 설정 |
 | --- | --- |
@@ -146,7 +146,7 @@ Production과 Preview 모두 같은 운영 주소를 canonical로 생성합니�
 
 원본 상품 path와 숫자형 짧은 경로, slash·index 별칭은 301 규칙으로 생성합니다. `_redirects`의 쿼리 조건 제한 때문에 `/product/detail.html?product_no=상품번호`만 `functions/product/detail.html.js`에서 처리합니다. 이 Function은 배포된 경로 맵의 등록 상품번호와 `/products/동일번호/`만 허용하고, 나머지 쿼리는 유지하며 외부 주소를 목적지로 받지 않습니다. Function 응답에도 pages.dev noindex·nosniff를 직접 적용합니다. `_routes.json`은 이 한 경로만 Function에 전달합니다. [Pages 리다이렉트](https://developers.cloudflare.com/pages/configuration/redirects/), [Functions API](https://developers.cloudflare.com/pages/functions/api-reference/)
 
-최상위 `404.html`을 유지하여 실제 없는 경로는 Pages의 404 응답으로 처리합니다. 직접 요청한 오류 페이지에는 noindex 헤더를 추가하며, 없는 경로에 표시되는 오류 HTML도 noindex 메타를 포함합니다. 압축·ETag·304·캐시는 Pages 기본 동작을 사용하고 임의의 장기 캐시 규칙을 추가하지 않습니다. 로컬 `server.mjs`는 Pages에서 실행하지 않습니다. [Pages 기본 제공 동작](https://developers.cloudflare.com/pages/configuration/serving-pages/)
+최상위 `404.html`을 유지하여 실제 없는 경로는 Pages의 404 응답으로 처리합니다. 직접 요청한 오류 페이지에는 noindex 헤더를 추가하며, 없는 경로에 표시되는 오류 HTML도 noindex 메타를 포함합니다. 압축·재검증·캐시는 Pages 기본 동작을 사용하고 임의의 장기 캐시 규칙을 추가하지 않습니다. 실제 임시 주소에서는 HTML에 ETag가 없었고, robots.txt·sitemap.xml의 ETag 조건부 요청은 304 응답을 확인했습니다. 로컬 `server.mjs`는 Pages에서 실행하지 않습니다. [Pages 기본 제공 동작](https://developers.cloudflare.com/pages/configuration/serving-pages/)
 
 배포 후 실제 vitamin25.com과 Pages 미리보기에서 200·301·404 상태, canonical·사이트맵 원점, legacy 상품번호 이동, 쿼리 보존과 미리보기 noindex 헤더를 확인하세요. 계정에서 발급되는 Pages 프로젝트 주소, 도메인 연결 상태와 필요한 DNS 값은 실제 대시보드 값을 사용합니다. `vitamin25.co.kr`의 기존 주문·결제와 DNS는 이 준비 과정에서 변경하지 않습니다.
 
@@ -158,6 +158,8 @@ Production과 Preview 모두 같은 운영 주소를 canonical로 생성합니�
 
 사진은 WebP 크기 변형과 `srcset`·`sizes`를 사용하고 하단 사진은 지연 로딩합니다. 홈 배너는 480px 이하에서 같은 원본 사진을 중앙 기준으로 잘라낸 AVIF **22,412바이트**를 사용하며 WebP **51,810바이트**를 대체 파일로 제공합니다. 기존 데스크톱 배너와 원본 사진은 유지합니다. 화면 크기에 맞는 첫 배너를 preload하고, 슬라이드를 바꿀 때는 첫 배너의 `picture` source를 제거해 다음 사진을 표시합니다. `scripts/optimize-images.py`는 모바일 AVIF 생성도 지원하며, 사진을 다시 생성하려면 Python·Pillow와 사용 가능한 AVIF 인코더가 필요합니다.
 
+상품 갤러리의 작은 미리보기는 최대 128px WebP를 사용하며, 버튼의 `data-gallery-src`에는 원본 사진을 유지합니다. 46개 상품의 257개 미리보기 자리에서 사용하는 고유 이미지 169개의 용량을 7,421,296바이트에서 496,394바이트로 약 93% 줄였습니다. `python scripts/optimize-images.py --thumbnails-only`로 다시 만들 수 있으며 `data/gallery-thumbnails.json`에 원본 SHA와 파생 이미지 정보를 기록합니다. 원본 대표사진·상세사진은 변경하지 않았습니다.
+
 Lighthouse 13.5.0은 Node.js 22.19 이상과 Chrome이 필요합니다. 일반 사이트 빌드용 패키지와 분리하여 도구 폴더에 설치합니다.
 
 ```powershell
@@ -168,7 +170,7 @@ node scripts/render-audit-summary.mjs --dir=artifacts/mobile-100-final
 
 서버 실행 후 검사합니다. 기본 주소는 `http://localhost:52827`이며 필요하면 `--base-url`을 지정합니다. `--all-tabs`는 현재 사이트맵의 상품 상세를 제외한 경로를 선택하므로 질문 모음과 HTML 사이트맵도 포함합니다. 상품 상세는 `--routes=/products/1/ --mode=both`처럼 따로 검사할 수 있습니다. 두 경로 선택 옵션은 함께 쓰지 않습니다. 선택 옵션 `--save-trace`를 추가하면 성능 분석용 Chrome trace도 저장합니다.
 
-2026-10-20(KST) 기준 **25개 탭의 최신 모바일 검사 결과는 모두 성능·접근성·권장사항·SEO 100점**입니다. 최신 결과는 `artifacts/mobile-100-final/summary.json`·`summary.csv`와 실행별 원본 LHR를 기준으로 확인하세요. 모바일 가이드의 단일 열 배치를 block으로 단순화하고 FAQ 텍스트의 불필요한 내재 크기 계산도 줄였습니다. 추가 웹폰트 실험은 최종 결과물에 포함하지 않았습니다. 점수는 측정 환경과 실행 시점에 따라 달라질 수 있습니다.
+2026-10-20(KST) 기준 **25개 탭과 추가 상품 상세 2개(15·32)의 최신 모바일 검사 결과는 모두 성능·접근성·권장사항·SEO 100점**입니다. 최신 결과는 `artifacts/mobile-100-final/summary.json`·`summary.csv`와 실행별 원본 LHR를 기준으로 확인하세요. 모바일 가이드·상품 상세의 단일 열 배치를 block으로 단순화하고 FAQ 텍스트의 불필요한 내재 크기 계산도 줄였습니다. 추가 웹폰트 실험은 최종 결과물에 포함하지 않았습니다. 점수는 측정 환경과 실행 시점에 따라 달라질 수 있으며, 상품 상세 120개 전부를 Lighthouse로 검사했다는 의미는 아닙니다.
 
 이전 측정 원본과 요약은 `artifacts/seo-final-lighthouse/`에 보존하며 현재 변경의 최종 결과와 구분합니다. 보고서 생성기는 저장된 LHR를 공식 Lighthouse 렌더러로 HTML화하고 같은 폴더에 요약 `report.html`을 만들며 점수를 수정하거나 새 검사를 실행하지 않습니다.
 
