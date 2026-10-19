@@ -4,7 +4,7 @@
 
 ## 현재 적용 상태
 
-이번 변경은 로컬 프로젝트에만 적용했습니다. 운영 예정 주소는 **`https://vitamin25.com`**으로 정했으며, 기존 `https://vitamin25.co.kr`는 주문·결제를 담당하는 공식몰로 유지합니다. 현재 생성된 `dist/`는 로컬 주소 기준이며 새 도메인용 공개 빌드·배포·DNS·TLS 연결은 아직 실행하지 않았습니다. 기존 공식몰과 이전 Sites 게시본도 변경하지 않았습니다.
+사이트를 GitHub와 Cloudflare Pages에 배포하고 운영 주소 **`https://vitamin25.com`**을 연결했습니다. Cloudflare 대시보드에서 DNS zone과 Pages 사용자 지정 도메인, SSL 인증서가 모두 활성 상태이며 공개 DNS를 기준으로 전체 운영 페이지와 리디렉션 검증을 통과했습니다. 기존 `https://vitamin25.co.kr`는 주문·결제를 담당하는 공식몰로 유지합니다. 로컬 프로젝트의 `dist/`는 로컬 주소 기준이며 Pages에서는 별도 공개 빌드로 운영 주소의 canonical을 생성합니다. 이 컴퓨터의 기본 DNS 조회 경로에는 이전 주소가 남아 있어 모든 네트워크에서 전파가 완료됐다고 판단하지 않습니다. 기존 공식몰과 이전 Sites 게시본은 변경하지 않았습니다.
 
 `site.config.json`의 현재 설정은 다음과 같습니다.
 
@@ -90,7 +90,7 @@ node scripts/verify-http.mjs
 
 ## 공개 도메인 빌드와 검색 확인 태그
 
-공개 빌드는 다음 명령입니다. `SITE_URL` 재정의가 없으면 설정된 **`https://vitamin25.com`**을 대표 URL로 사용해 `dist/`를 다시 생성합니다. 현재는 로컬 빌드를 유지하며 이 공개 빌드나 실제 배포는 실행하지 않았습니다.
+공개 빌드는 다음 명령입니다. `SITE_URL` 재정의가 없으면 설정된 **`https://vitamin25.com`**을 대표 URL로 사용해 `dist/`를 다시 생성합니다. 공개 빌드와 Cloudflare Pages 배포는 실행했으며, 로컬 작업 폴더의 미리보기 빌드와 구분해 관리합니다.
 
 ```powershell
 npm run build:production
@@ -98,7 +98,7 @@ npm run build:production
 
 빌드의 대표 URL 선택 순서는 `SITE_URL` 환경변수가 가장 먼저이며, 그 값이 없으면 공개 빌드는 `productionUrl`, 일반 빌드는 `url`을 사용합니다. 대표 URL에는 경로·쿼리·인증정보를 넣지 않습니다. 공개 빌드는 HTTPS를 요구하고 localhost·127.0.0.1을 거부합니다. 현재 `separate` 설정에서는 기존 `https://vitamin25.co.kr`와 같은 원점을 새 사이트 주소로 사용할 수 없습니다. 이 검사는 URL 설정을 검사하며 도메인 소유권이나 실제 공개 연결까지 확인하는 기능은 아닙니다.
 
-운영 예정 도메인으로 빌드·검증할 때는 다음처럼 실행합니다. 검증기도 `SITE_URL`을 기준으로 생성 결과를 확인하므로 빌드와 검증에서 같은 환경변수를 유지해야 합니다.
+운영 도메인으로 빌드·검증할 때는 다음처럼 실행합니다. 검증기도 `SITE_URL`을 기준으로 생성 결과를 확인하므로 빌드와 검증에서 같은 환경변수를 유지해야 합니다.
 
 ```powershell
 $env:SITE_URL = "https://vitamin25.com"
@@ -124,11 +124,35 @@ $env:NAVER_SITE_VERIFICATION = "발급된 content 값"
 $env:BING_SITE_VERIFICATION = "발급된 content 값"
 ```
 
-태그 생성은 외부 계정의 소유권 확인이나 사이트맵 제출을 실행하지 않습니다. **Google Search Console·네이버·Bing 등록과 Merchant Center 설정은 아직 수행하지 않았습니다.** GitHub·Cloudflare Pages 연동 배포는 완료했으며, vitamin25.com의 실제 DNS·TLS 연결은 기존 이메일·FTP 사용 여부 확인 후 진행해야 합니다. 현재 사이트의 주문·결제는 외부 공식몰에서 진행되며, Merchant Center 등록이나 검색 노출 자격을 완료했다는 의미도 없습니다. 도메인 연결 후에는 실제 URL의 200 응답·canonical·사이트맵·상품 데이터와 모바일 동작을 다시 확인해야 합니다.
+태그 생성은 외부 계정의 소유권 확인이나 사이트맵 제출을 실행하지 않습니다. **Google Search Console·네이버·Bing 등록과 Merchant Center 설정은 아직 수행하지 않았습니다.** 사용자가 새 도메인에 기존 사이트와 메일을 사용하지 않는다고 확인한 뒤 vitamin25.com의 네임서버와 Pages 도메인 연결, SSL 설정을 완료했습니다. 현재 사이트의 주문·결제는 외부 공식몰에서 진행되며, 도메인 연결이 Merchant Center 등록이나 검색 노출 자격을 완료했다는 의미는 아닙니다. 실제 운영 URL의 200 응답·canonical·사이트맵·상품 데이터와 리디렉션은 공개 DNS 기준의 별도 검사에서 확인했습니다.
 
 ## GitHub와 Cloudflare Pages 배포
 
-GitHub 비공개 저장소 `godqhr12312-maker/vitamin-gohyangchon`를 Pages 프로젝트 `vitamin-gohyangchon`에 연결했습니다. 임시 주소는 https://vitamin-gohyangchon.pages.dev/ 이며 아래 설정으로 자동 빌드·배포합니다. vitamin25.com의 DNS·TLS 연결은 아직 완료하지 않았습니다.
+GitHub 비공개 저장소 `godqhr12312-maker/vitamin-gohyangchon`를 Pages 프로젝트 `vitamin-gohyangchon`에 연결했습니다. 운영 주소는 https://vitamin25.com/ 이며 Pages 기본 주소는 https://vitamin-gohyangchon.pages.dev/ 입니다. 아래 설정으로 자동 빌드·배포합니다.
+
+2026-10-20(KST)에 다음 설정 상태를 대시보드에서 확인했습니다.
+
+- OrangeWebsite의 구매 계정에서 네임서버를 `braelyn.ns.cloudflare.com`, `derek.ns.cloudflare.com`으로 저장했고 Cloudflare zone은 `Active`입니다.
+- 루트 도메인 `vitamin25.com`은 `vitamin-gohyangchon.pages.dev`를 가리키는 Proxied CNAME이며, Pages 사용자 지정 도메인은 `Active`, SSL은 활성 상태입니다.
+- Universal SSL의 `vitamin25.com`과 `*.vitamin25.com` 인증서가 `Active`이며 표시된 만료일은 2027-01-18입니다.
+- Single Redirect 규칙을 활성화해 HTTP 또는 `www.vitamin25.com` 요청을 `https://vitamin25.com`으로 301 이동하도록 설정했습니다. 경로와 쿼리 문자열은 보존합니다.
+
+Google과 Cloudflare의 공개 DNS 조회에서 새 주소 `104.21.18.168`, `172.67.182.194`를 확인했습니다. 이 주소를 사용하되 원래 URL의 호스트 이름과 SNI, 인증서 신뢰 체인을 검증하는 표준 TLS 연결로 2026-10-20 04:54(KST)에 다음 검사를 완료했으며 실패는 0개입니다. 인증서 검증을 끄거나 컴퓨터의 DNS 설정을 변경하지 않았습니다.
+
+| 공개 DNS 기준 검사 | 결과 |
+| --- | --- |
+| 운영 HTML과 canonical·메타·상품 데이터 | 145개 모두 200, 일치 |
+| 원본 상품번호 쿼리 이동 | 120개 모두 301 |
+| 원본 상품명 경로 표본 | 5개 모두 301 |
+| HTTP·www 대표 주소 이동과 경로·쿼리 보존 | 6개 모두 통과 |
+| 루트·www 인증서 신뢰 검증 | 2개 모두 통과 |
+| 정상 페이지의 noindex 누출 | 0개 |
+| 없는 경로의 404·HEAD 응답 | 통과 |
+| robots.txt·sitemap.xml의 ETag 조건부 요청 | 2개 모두 304 |
+
+상세 결과는 `artifacts/vitamin25-production-public-dns-check.json`에 있습니다. HTML에는 실제 응답에 ETag가 없어 HTML의 304 동작을 검증 완료로 표시하지 않습니다.
+
+이 컴퓨터의 기본 DNS 조회 경로는 Windows DNS 클라이언트 캐시를 비운 뒤에도 이전 주소 `82.221.143.1`을 반환했고, 해당 경로의 루트·www TLS 인증서는 `dns.icedns.is`여서 두 연결 모두 호스트 이름 검증을 통과하지 못했습니다. 2026-10-20 04:55:09(KST)의 읽기 전용 후속 조회에서 기존 A 응답의 TTL은 9,558초(약 2시간 39분)였습니다. 이는 그 조회 경로에서 관측한 캐시 값이며 전 세계 DNS 전파 완료 예정 시간이 아닙니다. 기본 DNS 경로의 전체 페이지 검증은 아직 완료하지 않았습니다. 기록은 `artifacts/vitamin25-system-dns-ttl.json`과 공개 DNS 검사 보고서에 보존합니다.
 
 | 항목 | 설정 |
 | --- | --- |
@@ -148,7 +172,7 @@ Production과 Preview 모두 같은 운영 주소를 canonical로 생성합니�
 
 최상위 `404.html`을 유지하여 실제 없는 경로는 Pages의 404 응답으로 처리합니다. 직접 요청한 오류 페이지에는 noindex 헤더를 추가하며, 없는 경로에 표시되는 오류 HTML도 noindex 메타를 포함합니다. 압축·재검증·캐시는 Pages 기본 동작을 사용하고 임의의 장기 캐시 규칙을 추가하지 않습니다. 실제 임시 주소에서는 HTML에 ETag가 없었고, robots.txt·sitemap.xml의 ETag 조건부 요청은 304 응답을 확인했습니다. 로컬 `server.mjs`는 Pages에서 실행하지 않습니다. [Pages 기본 제공 동작](https://developers.cloudflare.com/pages/configuration/serving-pages/)
 
-배포 후 실제 vitamin25.com과 Pages 미리보기에서 200·301·404 상태, canonical·사이트맵 원점, legacy 상품번호 이동, 쿼리 보존과 미리보기 noindex 헤더를 확인하세요. 계정에서 발급되는 Pages 프로젝트 주소, 도메인 연결 상태와 필요한 DNS 값은 실제 대시보드 값을 사용합니다. `vitamin25.co.kr`의 기존 주문·결제와 DNS는 이 준비 과정에서 변경하지 않습니다.
+운영 도메인의 공개 DNS 기준 200·301·404 상태, canonical·사이트맵 원점, legacy 상품번호 이동, 쿼리 보존과 정상 페이지의 noindex 부재를 확인했습니다. Pages 기본 주소의 별도 배포 검사에서는 noindex 헤더를 확인했으며 오류 페이지의 색인 제한도 유지합니다. 공개 DNS 검사 통과와 이 컴퓨터의 기본 DNS 경로에서의 접속 가능 여부는 구분합니다. `vitamin25.co.kr`의 기존 주문·결제와 DNS는 변경하지 않았습니다.
 
 ## 접근성과 성능 검사
 
