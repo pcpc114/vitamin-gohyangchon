@@ -5,3 +5,10 @@ artifacts/
 *.tar.gz
 *.tar
 .sites-runtime/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.wrangler/
+*.log

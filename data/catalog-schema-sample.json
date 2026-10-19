@@ -1,0 +1,734 @@
+{
+  "products": [
+    {
+      "id": 10,
+      "name": "(중) (2~3인분) 완전손질과메기10마리(20쪽)+야채풀세트",
+      "url": "https://vitamin25.co.kr/product/%EC%A4%91-23%EC%9D%B8%EB%B6%84-%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B010%EB%A7%88%EB%A6%AC20%EC%AA%BD%EC%95%BC%EC%B1%84%ED%92%80%EC%84%B8%ED%8A%B8/10/",
+      "sourceUrl": "https://vitamin25.co.kr/product/detail.html?product_no=10",
+      "price": 35000,
+      "priceText": "35,000원",
+      "listPrice": 40000,
+      "listPriceText": "40,000원",
+      "currency": "KRW",
+      "status": "available",
+      "statusEvidence": "Numeric main selling price and visible purchase action; no stock quantity inferred",
+      "categories": [
+        {
+          "id": 4,
+          "name": "꽁치과메기",
+          "url": "https://vitamin25.co.kr/category/%EA%BD%81%EC%B9%98%EA%B3%BC%EB%A9%94%EA%B8%B0/4/",
+          "parentId": 1,
+          "visibleInHomeMenu": true
+        },
+        {
+          "id": 33,
+          "name": "과메기+야채세트",
+          "url": "https://vitamin25.co.kr/category/%EA%B3%BC%EB%A9%94%EA%B8%B0%EC%95%BC%EC%B1%84%EC%84%B8%ED%8A%B8/33/",
+          "parentId": 4,
+          "visibleInHomeMenu": true
+        }
+      ],
+      "featuredOnHome": true,
+      "image": "https://vitamin25.co.kr/web/product/big/202110/9910f6c4ade5caa7bd49a3997992fd49.jpg",
+      "localImage": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "summary": "",
+      "detailText": "리뷰로 보는 활용 가이드\n신선한 미역줄기와 조화로운 초장으로 별미를 제공합니다.\n배송이 빠르고 맛있어 재구매 의사를 밝히는 구매자들이 많습니다.\n신선함\n조화로운 초장\n별미\n빠른 배송\n사용자 유형 — 별미를 찾는 미식가\n구매 이유 — 신선한 재료로 맛있는 요리를 즐기기 위해\n활용 방식 — 초장과 함께 곁들여 먹기\n사용 시점 — 겨울철, 가족 식사 및 손님 초대\n위 내용은 구매자들의 후기를 바탕으로 요약되었습니다.",
+      "detailImages": [
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/80936190f0b3881ed38c33afd0482c04.jpg",
+          "alt": "악세사리 상품 이미지-S1L37",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/6e4771e4bfa954c2f545e6160211dfb7.jpg",
+          "alt": "악세사리 상품 이미지-S1L36",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/2f293d4c13546de901332dd794847704.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L35",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/6f49980a30197a9db5a5831470dce593.jpg",
+          "alt": "악세사리 상품 이미지-S1L34",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/93fbfd07172edbf69be03ae541ea5c23.jpg",
+          "alt": "악세사리 상품 이미지-S1L33",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/88f186087e4505eb662820bdf98ce207.jpg",
+          "alt": "악세사리 상품 이미지-S1L32",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/2691cc50c5f3f5b4dec1c935d7f9347f.jpg",
+          "alt": "악세사리 상품 이미지-S1L31",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/f02d9e18f42829717da15db8044bc9c5.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L30",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/e86b2e548baf44622d65ee183f343b12.jpg",
+          "alt": "악세사리 상품 이미지-S1L29",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/75360856156025054e5f6b399000ee3f.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L28",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/b5cfbdaa9feeecd557f4f03765df25d8.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L27",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/b92e1e4eed82e44793a2bbdf71f3d721.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L26",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/0765aaed4001ba5843e5396fea205cb3.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L25",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/4c0f919efca837220772c45552981602.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L24",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/eca958933455a292efc526026fba45b3.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L23",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/88a5b435c17033553001ca1f36e56a64.jpg",
+          "alt": "악세사리 상품 이미지-S1L22",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/aa8afed73fcc8bc4bef863e85c132b37.jpg",
+          "alt": "악세사리 상품 이미지-S1L21",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/28cfd088da288c5e55b13383ed3d1abf.jpg",
+          "alt": "악세사리 상품 이미지-S1L20",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/b21239bb409587b23d451fd6a3b7f5a2.jpg",
+          "alt": "악세사리 상품 이미지-S1L19",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/c79a136e77ef99a387ae8dbb6724c6c9.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L18",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/cc808928cd7741f6ba89e3381f8928f6.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L17",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/8036bf940d5f5cc190d54aa4afb7ce65.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L16",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/8357a3fad4079db9403d5ebd5ce75283.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L15",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/442aeb1980baf2b305e4843810b3dd6d.jpg",
+          "alt": "악세사리 상품 이미지-S1L14",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/0aab42db686f4af46ff879497b3da3a5.jpg",
+          "alt": "악세사리 상품 이미지-S1L13",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/d14ecb610af6837cced35c095344442d.jpg",
+          "alt": "악세사리 상품 이미지-S1L12",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/3f7cbb5c5a5f70e61d467f9ac0aa81ea.jpg",
+          "alt": "악세사리 상품 이미지-S1L11",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/d1de1faf08cd71432ce9a131ba97d02c.jpg",
+          "alt": "악세사리 상품 이미지-S1L10",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ad3784c8fd7fb38f802f832fcd327351.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L9",
+          "sourceWidth": null,
+          "sourceHeight": null
+        }
+      ],
+      "detailBlocks": [
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/80936190f0b3881ed38c33afd0482c04.jpg",
+          "alt": "악세사리 상품 이미지-S1L37"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/6e4771e4bfa954c2f545e6160211dfb7.jpg",
+          "alt": "악세사리 상품 이미지-S1L36"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/2f293d4c13546de901332dd794847704.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L35"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/6f49980a30197a9db5a5831470dce593.jpg",
+          "alt": "악세사리 상품 이미지-S1L34"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/93fbfd07172edbf69be03ae541ea5c23.jpg",
+          "alt": "악세사리 상품 이미지-S1L33"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/88f186087e4505eb662820bdf98ce207.jpg",
+          "alt": "악세사리 상품 이미지-S1L32"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/2691cc50c5f3f5b4dec1c935d7f9347f.jpg",
+          "alt": "악세사리 상품 이미지-S1L31"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/f02d9e18f42829717da15db8044bc9c5.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L30"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/e86b2e548baf44622d65ee183f343b12.jpg",
+          "alt": "악세사리 상품 이미지-S1L29"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/75360856156025054e5f6b399000ee3f.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L28"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/b5cfbdaa9feeecd557f4f03765df25d8.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L27"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/b92e1e4eed82e44793a2bbdf71f3d721.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L26"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/0765aaed4001ba5843e5396fea205cb3.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L25"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/4c0f919efca837220772c45552981602.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L24"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/eca958933455a292efc526026fba45b3.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L23"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/88a5b435c17033553001ca1f36e56a64.jpg",
+          "alt": "악세사리 상품 이미지-S1L22"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/aa8afed73fcc8bc4bef863e85c132b37.jpg",
+          "alt": "악세사리 상품 이미지-S1L21"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/28cfd088da288c5e55b13383ed3d1abf.jpg",
+          "alt": "악세사리 상품 이미지-S1L20"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/b21239bb409587b23d451fd6a3b7f5a2.jpg",
+          "alt": "악세사리 상품 이미지-S1L19"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/c79a136e77ef99a387ae8dbb6724c6c9.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L18"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/cc808928cd7741f6ba89e3381f8928f6.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L17"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/8036bf940d5f5cc190d54aa4afb7ce65.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L16"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/8357a3fad4079db9403d5ebd5ce75283.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L15"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/442aeb1980baf2b305e4843810b3dd6d.jpg",
+          "alt": "악세사리 상품 이미지-S1L14"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/0aab42db686f4af46ff879497b3da3a5.jpg",
+          "alt": "악세사리 상품 이미지-S1L13"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/d14ecb610af6837cced35c095344442d.jpg",
+          "alt": "악세사리 상품 이미지-S1L12"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/3f7cbb5c5a5f70e61d467f9ac0aa81ea.jpg",
+          "alt": "악세사리 상품 이미지-S1L11"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/d1de1faf08cd71432ce9a131ba97d02c.jpg",
+          "alt": "악세사리 상품 이미지-S1L10"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ad3784c8fd7fb38f802f832fcd327351.jpg",
+          "alt": "악세사리 상품상세 이미지-S1L9"
+        },
+        {
+          "type": "text",
+          "text": "리뷰로 보는 활용 가이드"
+        },
+        {
+          "type": "text",
+          "text": "신선한 미역줄기와 조화로운 초장으로 별미를 제공합니다."
+        },
+        {
+          "type": "text",
+          "text": "배송이 빠르고 맛있어 재구매 의사를 밝히는 구매자들이 많습니다."
+        },
+        {
+          "type": "text",
+          "text": "신선함 조화로운 초장 별미 빠른 배송"
+        },
+        {
+          "type": "text",
+          "text": "사용자 유형 — 별미를 찾는 미식가"
+        },
+        {
+          "type": "text",
+          "text": "구매 이유 — 신선한 재료로 맛있는 요리를 즐기기 위해"
+        },
+        {
+          "type": "text",
+          "text": "활용 방식 — 초장과 함께 곁들여 먹기"
+        },
+        {
+          "type": "text",
+          "text": "사용 시점 — 겨울철, 가족 식사 및 손님 초대"
+        },
+        {
+          "type": "text",
+          "text": "위 내용은 구매자들의 후기를 바탕으로 요약되었습니다."
+        }
+      ],
+      "specs": [
+        {
+          "label": "상품명",
+          "value": "(중) (2~3인분) 완전손질과메기10마리(20쪽)+야채풀세트"
+        },
+        {
+          "label": "제조사",
+          "value": "자체제작"
+        },
+        {
+          "label": "원산지",
+          "value": "원양산"
+        },
+        {
+          "label": "소비자가",
+          "value": "40,000원"
+        },
+        {
+          "label": "판매가",
+          "value": "35,000원"
+        },
+        {
+          "label": "상품코드",
+          "value": "P000000K"
+        }
+      ],
+      "options": [],
+      "galleryImages": [
+        {
+          "src": "https://vitamin25.co.kr/web/product/big/202110/9910f6c4ade5caa7bd49a3997992fd49.jpg",
+          "alt": "완전손질과메기10마리 야채풀세트 이미지"
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/product/extra/big/202106/60d34e609d6e81b3382f0618990b690e.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/product/extra/big/202106/ffc5d7db5d9522de1929152c013e0be1.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/product/extra/big/202106/4a83601b880e5fee79f5e4eaba2a14bc.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/product/extra/big/202106/5157ca588d35456d1dcfc92f47dbaa0a.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/product/extra/big/202106/fb48f0737664c3f4634843e3b28036a0.jpg",
+          "alt": ""
+        }
+      ],
+      "shippingText": "배송 방법 : 택배\n배송 지역 : 전국지역 및 해외지역\n배송 비용 : 3,000원\n배송 기간 : 1일 ~ 3일\n배송 안내 : 배송비는 4,000원 입니다. (단, 도서지역은 도선료가 지역별로 더 추가됩니다.)\n당일 4시 이전 입금완료 시 당일 배송되며 익일 상품을 받아보실 수 있습니다.\n(단, 주말 및 공휴일, 택배사의 사정에 따라 달라질 수도 있으니 참조하시기 바랍니다.)\n100,000원 이상 구매시 배송비는 면제됩니다.",
+      "paymentText": "고액결제의 경우 안전을 위해 카드사에서 확인전화를 드릴 수도 있습니다. 확인과정에서 도난 카드의 사용이나 타인 명의의 주문등 정상적인 주문이 아니라고 판단될 경우 임의로 주문을 보류 또는 취소할 수 있습니다.\n무통장 입금은 상품 구매 대금은 PC뱅킹, 인터넷뱅킹, 텔레뱅킹 혹은 가까운 은행에서 직접 입금하시면 됩니다.\n주문시 입력한 입금자명과 실제입금자의 성명이 반드시 일치하여야 하며, 7일 이내로 입금을 하셔야 하며 입금되지 않은 주문은 자동취소 됩니다.",
+      "exchangeText": "",
+      "exchangeImages": [
+        {
+          "src": "https://vitamin25.co.kr/web/upload/info01.jpg",
+          "alt": "",
+          "sourceWidth": null,
+          "sourceHeight": null
+        }
+      ],
+      "serviceText": "010-2846-6636",
+      "sourceCheckedDate": "2026-10-20",
+      "warnings": [
+        "Source shipping table says 3,000 KRW while its prose says 4,000 KRW; both preserved without choosing a fee"
+      ]
+    },
+    {
+      "id": 193,
+      "name": "국내산 자연산 대하 특대 / 프리미엄 왕새우 급냉 /동해안 산지직송 (1kg-20~23미)",
+      "url": "https://vitamin25.co.kr/product/%EA%B5%AD%EB%82%B4%EC%82%B0-%EC%9E%90%EC%97%B0%EC%82%B0-%EB%8C%80%ED%95%98-%ED%8A%B9%EB%8C%80-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%99%95%EC%83%88%EC%9A%B0-%EA%B8%89%EB%83%89-%EB%8F%99%ED%95%B4%EC%95%88-%EC%82%B0%EC%A7%80%EC%A7%81%EC%86%A1-1kg-2023%EB%AF%B8/193/",
+      "sourceUrl": "https://vitamin25.co.kr/product/detail.html?product_no=193",
+      "price": null,
+      "priceText": "품절",
+      "listPrice": null,
+      "listPriceText": "",
+      "currency": "KRW",
+      "status": "soldout",
+      "statusEvidence": "Visible main selling-price field says 품절",
+      "categories": [
+        {
+          "id": 27,
+          "name": "해산물",
+          "url": "https://vitamin25.co.kr/category/%ED%95%B4%EC%82%B0%EB%AC%BC/27/",
+          "parentId": 1,
+          "visibleInHomeMenu": true
+        }
+      ],
+      "featuredOnHome": true,
+      "image": "https://vitamin25.co.kr/web/product/big/202603/ef990e8eda77079d8625908749eaec42.jpg",
+      "localImage": null,
+      "imageWidth": null,
+      "imageHeight": null,
+      "summary": "",
+      "detailText": "​​\nYOU MAY ALSO LIKE함께 구매하면 좋을 관련상품 모음\n(중대) (4~5인분) 완전손질과메기15마리(30쪽)+야채풀세트\n44,000원\n(한정특가)동해 해풍건조 반건조 임연수 5마리 30cm내외 찜,구이,선물용 특가판매\n32,000원",
+      "detailImages": [
+        {
+          "src": "https://vitamin25.co.kr/%EC%9E%90%EC%97%B0%ED%95%9C%20%EB%8C%80%ED%95%98%EC%83%88%EC%9A%B0%20%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png",
+          "alt": "",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/product/medium/202110/8b006b038f50e7e14151aa40ccb4e6a6.jpg",
+          "alt": "완전손질과메기 15마리 야채 풀세트 - 신선한 구성 이미지",
+          "sourceWidth": null,
+          "sourceHeight": null
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/product/medium/202601/2fe05e93f00722a85aa1dd957dc3f038.jpg",
+          "alt": "해풍건조 임연수 - 5마리 반건조 제품 이미지",
+          "sourceWidth": null,
+          "sourceHeight": null
+        }
+      ],
+      "detailBlocks": [
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/%EC%9E%90%EC%97%B0%ED%95%9C%20%EB%8C%80%ED%95%98%EC%83%88%EC%9A%B0%20%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "​​"
+        },
+        {
+          "type": "text",
+          "text": "YOU MAY ALSO LIKE함께 구매하면 좋을 관련상품 모음"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/product/medium/202110/8b006b038f50e7e14151aa40ccb4e6a6.jpg",
+          "alt": "완전손질과메기 15마리 야채 풀세트 - 신선한 구성 이미지"
+        },
+        {
+          "type": "text",
+          "text": "(중대) (4~5인분) 완전손질과메기15마리(30쪽)+야채풀세트"
+        },
+        {
+          "type": "text",
+          "text": "44,000원"
+        },
+        {
+          "type": "image",
+          "src": "https://vitamin25.co.kr/web/product/medium/202601/2fe05e93f00722a85aa1dd957dc3f038.jpg",
+          "alt": "해풍건조 임연수 - 5마리 반건조 제품 이미지"
+        },
+        {
+          "type": "text",
+          "text": "(한정특가)동해 해풍건조 반건조 임연수 5마리 30cm내외 찜,구이,선물용 특가판매"
+        },
+        {
+          "type": "text",
+          "text": "32,000원"
+        }
+      ],
+      "specs": [
+        {
+          "label": "상품명",
+          "value": "국내산 자연산 대하 특대 / 프리미엄 왕새우 급냉 /동해안 산지직송 (1kg-20~23미)"
+        },
+        {
+          "label": "제조사",
+          "value": "자체제작"
+        },
+        {
+          "label": "원산지",
+          "value": "국내"
+        },
+        {
+          "label": "판매가",
+          "value": "품절"
+        },
+        {
+          "label": "적립금",
+          "value": "300원 (1%)"
+        },
+        {
+          "label": "상품코드",
+          "value": "P00000HL"
+        }
+      ],
+      "options": [],
+      "galleryImages": [
+        {
+          "src": "https://vitamin25.co.kr/web/product/big/202603/ef990e8eda77079d8625908749eaec42.jpg",
+          "alt": "국내산 자연산 대하 특대 - 신선함이 살아있는 프리미엄 왕새우 이미지"
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/product/extra/big/202603/6e9d44df74c8e0be330959b83117d2e0.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/product/extra/big/202603/db6f06f4edf4ce4de9fdb21bdedd4917.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/product/extra/big/202603/455ce5a8083d59b18d55a6260238646c.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/product/extra/big/202603/55d58306f519ad297a017b6decdb4d3b.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://vitamin25.co.kr/web/product/extra/big/202603/50834cfd893b84095d15239a68194c03.jpg",
+          "alt": ""
+        }
+      ],
+      "shippingText": "배송 방법 : 택배\n배송 지역 : 전국지역 및 해외지역\n배송 비용 : 3,000원\n배송 기간 : 1일 ~ 3일\n배송 안내 : 배송비는 4,000원 입니다. (단, 도서지역은 도선료가 지역별로 더 추가됩니다.)\n당일 4시 이전 입금완료 시 당일 배송되며 익일 상품을 받아보실 수 있습니다.\n(단, 주말 및 공휴일, 택배사의 사정에 따라 달라질 수도 있으니 참조하시기 바랍니다.)\n100,000원 이상 구매시 배송비는 면제됩니다.",
+      "paymentText": "고액결제의 경우 안전을 위해 카드사에서 확인전화를 드릴 수도 있습니다. 확인과정에서 도난 카드의 사용이나 타인 명의의 주문등 정상적인 주문이 아니라고 판단될 경우 임의로 주문을 보류 또는 취소할 수 있습니다.\n무통장 입금은 상품 구매 대금은 PC뱅킹, 인터넷뱅킹, 텔레뱅킹 혹은 가까운 은행에서 직접 입금하시면 됩니다.\n주문시 입력한 입금자명과 실제입금자의 성명이 반드시 일치하여야 하며, 7일 이내로 입금을 하셔야 하며 입금되지 않은 주문은 자동취소 됩니다.",
+      "exchangeText": "",
+      "exchangeImages": [
+        {
+          "src": "https://vitamin25.co.kr/web/upload/info01.jpg",
+          "alt": "",
+          "sourceWidth": null,
+          "sourceHeight": null
+        }
+      ],
+      "serviceText": "010-2846-6636",
+      "sourceCheckedDate": "2026-10-20",
+      "warnings": [
+        "Source shipping table says 3,000 KRW while its prose says 4,000 KRW; both preserved without choosing a fee"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "꽁치과메기",
+      "url": "https://vitamin25.co.kr/category/%EA%BD%81%EC%B9%98%EA%B3%BC%EB%A9%94%EA%B8%B0/4/",
+      "parentId": 1,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 7,
+      "name": "오징어",
+      "url": "https://vitamin25.co.kr/category/%EC%98%A4%EC%A7%95%EC%96%B4/7/",
+      "parentId": 1,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 12,
+      "name": "대게",
+      "url": "https://vitamin25.co.kr/category/%EB%8C%80%EA%B2%8C/12/",
+      "parentId": 1,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 24,
+      "name": "건어물",
+      "url": "https://vitamin25.co.kr/category/%EA%B1%B4%EC%96%B4%EB%AC%BC/24/",
+      "parentId": 1,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 26,
+      "name": "가자미",
+      "url": "https://vitamin25.co.kr/category/%EA%B0%80%EC%9E%90%EB%AF%B8/26/",
+      "parentId": 1,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 27,
+      "name": "해산물",
+      "url": "https://vitamin25.co.kr/category/%ED%95%B4%EC%82%B0%EB%AC%BC/27/",
+      "parentId": 1,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 32,
+      "name": "돌문어",
+      "url": "https://vitamin25.co.kr/category/%EB%8F%8C%EB%AC%B8%EC%96%B4/32/",
+      "parentId": 1,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 33,
+      "name": "과메기+야채세트",
+      "url": "https://vitamin25.co.kr/category/%EA%B3%BC%EB%A9%94%EA%B8%B0%EC%95%BC%EC%B1%84%EC%84%B8%ED%8A%B8/33/",
+      "parentId": 4,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 34,
+      "name": "완전손질과메기",
+      "url": "https://vitamin25.co.kr/category/%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B0/34/",
+      "parentId": 4,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 35,
+      "name": "반손질과메기",
+      "url": "https://vitamin25.co.kr/category/%EB%B0%98%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B0/35/",
+      "parentId": 4,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 36,
+      "name": "진공포장과메기",
+      "url": "https://vitamin25.co.kr/category/%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5%EA%B3%BC%EB%A9%94%EA%B8%B0/36/",
+      "parentId": 4,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 37,
+      "name": "통과메기",
+      "url": "https://vitamin25.co.kr/category/%ED%86%B5%EA%B3%BC%EB%A9%94%EA%B8%B0/37/",
+      "parentId": 4,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 38,
+      "name": "청어과메기",
+      "url": "https://vitamin25.co.kr/category/%EC%B2%AD%EC%96%B4%EA%B3%BC%EB%A9%94%EA%B8%B0/38/",
+      "parentId": 1,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 42,
+      "name": "★비타민 신상품★",
+      "url": "https://vitamin25.co.kr/category/%EB%B9%84%ED%83%80%EB%AF%BC-%EC%8B%A0%EC%83%81%ED%92%88/42/",
+      "parentId": 1,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 53,
+      "name": "BEST",
+      "url": "https://vitamin25.co.kr/category/best/53/",
+      "parentId": 1,
+      "visibleInHomeMenu": true
+    }
+  ]
+}

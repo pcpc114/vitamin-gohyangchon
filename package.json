@@ -3,6 +3,23 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "scripts": { "build": "node build.mjs", "start": "node server.mjs", "check": "node verify.mjs" },
-  "engines": { "node": ">=20" }
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "node server.mjs",
+    "check": "node verify.mjs",
+    "check:seo": "node scripts/verify-seo.mjs",
+    "build:production": "node build.mjs --production",
+    "build:cloudflare": "node build.mjs --production && node scripts/prepare-cloudflare.mjs",
+    "prepare:cloudflare": "node scripts/prepare-cloudflare.mjs",
+    "check:cloudflare": "node scripts/prepare-cloudflare.mjs --check"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "purgecss": "7.0.2"
+  },
+  "overrides": {
+    "postcss-selector-parser": "7.1.6"
+  }
 }

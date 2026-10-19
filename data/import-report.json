@@ -1,0 +1,6770 @@
+{
+  "phase": "complete",
+  "sourceCheckedAt": "2026-10-20T01:12:59+09:00",
+  "discoveryCheckedAt": "2026-10-20T01:12:19+09:00",
+  "source": "https://vitamin25.co.kr/",
+  "scope": "Products linked from actual homepage menu categories (including their public subcategories and every advertised pagination page), plus homepage featured products. No unpublished ID scan; disconnected API sample categories excluded.",
+  "publicCategoryCount": 15,
+  "discoveredProductCount": 120,
+  "importedProductCount": 120,
+  "statusCounts": {
+    "available": 87,
+    "inquiry": 9,
+    "preparing": 4,
+    "soldout": 20
+  },
+  "categoryAudits": [
+    {
+      "id": 4,
+      "name": "꽁치과메기",
+      "url": "https://vitamin25.co.kr/category/%EA%BD%81%EC%B9%98%EA%B3%BC%EB%A9%94%EA%B8%B0/4/",
+      "advertisedCount": 28,
+      "discoveredCount": 28,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=4&page=1",
+          "productIds": [
+            112,
+            10,
+            108,
+            1,
+            11,
+            133,
+            134,
+            135,
+            12,
+            109,
+            20,
+            17,
+            18,
+            19,
+            15,
+            16,
+            13,
+            14,
+            49,
+            83
+          ],
+          "count": 20,
+          "advertisedCount": 28,
+          "paginationPages": [
+            1,
+            2
+          ],
+          "usedNormalListing": true
+        },
+        {
+          "page": 2,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=4&page=2",
+          "productIds": [
+            136,
+            27,
+            28,
+            30,
+            29,
+            21,
+            129,
+            121
+          ],
+          "count": 8,
+          "advertisedCount": 28,
+          "paginationPages": [
+            1,
+            2
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "오징어",
+      "url": "https://vitamin25.co.kr/category/%EC%98%A4%EC%A7%95%EC%96%B4/7/",
+      "advertisedCount": 9,
+      "discoveredCount": 9,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=7&page=1",
+          "productIds": [
+            73,
+            72,
+            26,
+            60,
+            2,
+            22,
+            23,
+            153,
+            152
+          ],
+          "count": 9,
+          "advertisedCount": 9,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "대게",
+      "url": "https://vitamin25.co.kr/category/%EB%8C%80%EA%B2%8C/12/",
+      "advertisedCount": 5,
+      "discoveredCount": 5,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=12&page=1",
+          "productIds": [
+            74,
+            32,
+            181,
+            149,
+            3
+          ],
+          "count": 5,
+          "advertisedCount": 5,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "건어물",
+      "url": "https://vitamin25.co.kr/category/%EA%B1%B4%EC%96%B4%EB%AC%BC/24/",
+      "advertisedCount": 40,
+      "discoveredCount": 40,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=24&page=1",
+          "productIds": [
+            75,
+            76,
+            78,
+            89,
+            56,
+            55,
+            54,
+            53,
+            30,
+            29,
+            28,
+            27,
+            197,
+            191,
+            190,
+            189,
+            185,
+            184,
+            183,
+            182
+          ],
+          "count": 20,
+          "advertisedCount": 40,
+          "paginationPages": [
+            1,
+            2
+          ],
+          "usedNormalListing": true
+        },
+        {
+          "page": 2,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=24&page=2",
+          "productIds": [
+            178,
+            177,
+            176,
+            175,
+            163,
+            162,
+            161,
+            160,
+            159,
+            158,
+            157,
+            156,
+            151,
+            150,
+            139,
+            138,
+            137,
+            129,
+            128,
+            126
+          ],
+          "count": 20,
+          "advertisedCount": 40,
+          "paginationPages": [
+            1,
+            2
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "가자미",
+      "url": "https://vitamin25.co.kr/category/%EA%B0%80%EC%9E%90%EB%AF%B8/26/",
+      "advertisedCount": 5,
+      "discoveredCount": 5,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=26&page=1",
+          "productIds": [
+            77,
+            47,
+            48,
+            46,
+            179
+          ],
+          "count": 5,
+          "advertisedCount": 5,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "해산물",
+      "url": "https://vitamin25.co.kr/category/%ED%95%B4%EC%82%B0%EB%AC%BC/27/",
+      "advertisedCount": 8,
+      "discoveredCount": 8,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=27&page=1",
+          "productIds": [
+            85,
+            52,
+            51,
+            50,
+            196,
+            195,
+            193,
+            174
+          ],
+          "count": 8,
+          "advertisedCount": 8,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "돌문어",
+      "url": "https://vitamin25.co.kr/category/%EB%8F%8C%EB%AC%B8%EC%96%B4/32/",
+      "advertisedCount": 10,
+      "discoveredCount": 10,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=32&page=1",
+          "productIds": [
+            50,
+            84,
+            79,
+            91,
+            80,
+            92,
+            81,
+            93,
+            82,
+            64
+          ],
+          "count": 10,
+          "advertisedCount": 10,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "과메기+야채세트",
+      "url": "https://vitamin25.co.kr/category/%EA%B3%BC%EB%A9%94%EA%B8%B0%EC%95%BC%EC%B1%84%EC%84%B8%ED%8A%B8/33/",
+      "advertisedCount": 7,
+      "discoveredCount": 7,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=33&page=1",
+          "productIds": [
+            10,
+            1,
+            11,
+            12,
+            135,
+            134,
+            133
+          ],
+          "count": 7,
+          "advertisedCount": 7,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "완전손질과메기",
+      "url": "https://vitamin25.co.kr/category/%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B0/34/",
+      "advertisedCount": 2,
+      "discoveredCount": 2,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=34&page=1",
+          "productIds": [
+            18,
+            17
+          ],
+          "count": 2,
+          "advertisedCount": 2,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "반손질과메기",
+      "url": "https://vitamin25.co.kr/category/%EB%B0%98%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B0/35/",
+      "advertisedCount": 3,
+      "discoveredCount": 3,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=35&page=1",
+          "productIds": [
+            107,
+            20,
+            19
+          ],
+          "count": 3,
+          "advertisedCount": 3,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "진공포장과메기",
+      "url": "https://vitamin25.co.kr/category/%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5%EA%B3%BC%EB%A9%94%EA%B8%B0/36/",
+      "advertisedCount": 5,
+      "discoveredCount": 5,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=36&page=1",
+          "productIds": [
+            13,
+            14,
+            49,
+            15,
+            16
+          ],
+          "count": 5,
+          "advertisedCount": 5,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "통과메기",
+      "url": "https://vitamin25.co.kr/category/%ED%86%B5%EA%B3%BC%EB%A9%94%EA%B8%B0/37/",
+      "advertisedCount": 1,
+      "discoveredCount": 1,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=37&page=1",
+          "productIds": [
+            21
+          ],
+          "count": 1,
+          "advertisedCount": 1,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "청어과메기",
+      "url": "https://vitamin25.co.kr/category/%EC%B2%AD%EC%96%B4%EA%B3%BC%EB%A9%94%EA%B8%B0/38/",
+      "advertisedCount": 19,
+      "discoveredCount": 19,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=38&page=1",
+          "productIds": [
+            125,
+            95,
+            111,
+            94,
+            96,
+            123,
+            122,
+            124,
+            97,
+            98,
+            100,
+            99,
+            102,
+            101,
+            105,
+            104,
+            103,
+            106,
+            121
+          ],
+          "count": 19,
+          "advertisedCount": 19,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "★비타민 신상품★",
+      "url": "https://vitamin25.co.kr/category/%EB%B9%84%ED%83%80%EB%AF%BC-%EC%8B%A0%EC%83%81%ED%92%88/42/",
+      "advertisedCount": 2,
+      "discoveredCount": 2,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=42&page=1",
+          "productIds": [
+            145,
+            146
+          ],
+          "count": 2,
+          "advertisedCount": 2,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "BEST",
+      "url": "https://vitamin25.co.kr/category/best/53/",
+      "advertisedCount": 11,
+      "discoveredCount": 11,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=53&page=1",
+          "productIds": [
+            191,
+            179,
+            159,
+            157,
+            156,
+            146,
+            129,
+            91,
+            82,
+            29,
+            26
+          ],
+          "count": 11,
+          "advertisedCount": 11,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    }
+  ],
+  "excludedApiCategories": [
+    {
+      "id": 14,
+      "name": "샘플 공동구매",
+      "parentId": 2,
+      "reason": "Not linked from the public homepage menu or its category descendants"
+    },
+    {
+      "id": 40,
+      "name": "샘플 기획전",
+      "parentId": 3,
+      "reason": "Not linked from the public homepage menu or its category descendants"
+    },
+    {
+      "id": 13,
+      "name": "샘플 기획전",
+      "parentId": 40,
+      "reason": "Not linked from the public homepage menu or its category descendants"
+    }
+  ],
+  "homeFeaturedProductIds": [
+    1,
+    10,
+    11,
+    14,
+    17,
+    19,
+    29,
+    50,
+    54,
+    55,
+    64,
+    83,
+    84,
+    94,
+    95,
+    96,
+    99,
+    100,
+    108,
+    111,
+    112,
+    121,
+    122,
+    123,
+    125,
+    129,
+    133,
+    134,
+    146,
+    159,
+    161,
+    176,
+    177,
+    178,
+    179,
+    183,
+    184,
+    191,
+    193,
+    195,
+    196
+  ],
+  "productErrors": [],
+  "sourceImageUrlCount": 755,
+  "downloadedImageUrlCount": 753,
+  "deduplicatedImageFileCount": 548,
+  "compressedImageBytes": 79162444,
+  "missingImages": [
+    {
+      "src": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_1_2.gif",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "src": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_1_1.gif",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "failures": [
+    {
+      "url": "https://static.naver.com/kitchen/090924/h_info.gif",
+      "kind": "image",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'static.naver.com'. (_ssl.c:1010)>",
+      "attempts": 3
+    },
+    {
+      "url": "https://static.naver.com/kitchen/090924/h_info2.gif",
+      "kind": "image",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'static.naver.com'. (_ssl.c:1010)>",
+      "attempts": 3
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_1_2.gif",
+      "kind": "image",
+      "error": "HTTP Error 404: Not Found",
+      "attempts": 3
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_1_1.gif",
+      "kind": "image",
+      "error": "HTTP Error 404: Not Found",
+      "attempts": 3
+    }
+  ],
+  "privacy": {
+    "productBoardsRequested": false,
+    "customerReviewRowsStored": false,
+    "completeSourcePageHtmlStored": false,
+    "merchantDetailImagesPreserved": true
+  },
+  "imageProcessing": "Merchant image contents retained. WebP quality 90, no upscaling or width downscaling. Very tall source images split into contiguous pieces to respect WebP's size limit; SHA-256 deduplication across URLs. Original bytes stored outside dist.",
+  "shippingFee": "Source product shipping-table/prose conflicts are preserved; no fee chosen or invented.",
+  "availability": "Status derives from the visible main price field and non-hidden purchase/sold-out actions; actual stock counts are not inferred.",
+  "fetchAudit": [
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=10",
+      "kind": "product",
+      "status": 200,
+      "bytes": 188695,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=11",
+      "kind": "product",
+      "status": 200,
+      "bytes": 183773,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=3",
+      "kind": "product",
+      "status": 200,
+      "bytes": 152940,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=1",
+      "kind": "product",
+      "status": 200,
+      "bytes": 184819,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=2",
+      "kind": "product",
+      "status": 200,
+      "bytes": 159942,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=12",
+      "kind": "product",
+      "status": 200,
+      "bytes": 162126,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=13",
+      "kind": "product",
+      "status": 200,
+      "bytes": 159822,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=15",
+      "kind": "product",
+      "status": 200,
+      "bytes": 155213,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=16",
+      "kind": "product",
+      "status": 200,
+      "bytes": 160549,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=14",
+      "kind": "product",
+      "status": 200,
+      "bytes": 161419,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=17",
+      "kind": "product",
+      "status": 200,
+      "bytes": 160975,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=18",
+      "kind": "product",
+      "status": 200,
+      "bytes": 165411,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=19",
+      "kind": "product",
+      "status": 200,
+      "bytes": 158757,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=21",
+      "kind": "product",
+      "status": 200,
+      "bytes": 157422,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=20",
+      "kind": "product",
+      "status": 200,
+      "bytes": 163386,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=22",
+      "kind": "product",
+      "status": 200,
+      "bytes": 157918,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=23",
+      "kind": "product",
+      "status": 200,
+      "bytes": 155077,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=27",
+      "kind": "product",
+      "status": 200,
+      "bytes": 160202,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=28",
+      "kind": "product",
+      "status": 200,
+      "bytes": 162199,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=26",
+      "kind": "product",
+      "status": 200,
+      "bytes": 154667,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=29",
+      "kind": "product",
+      "status": 200,
+      "bytes": 169451,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=30",
+      "kind": "product",
+      "status": 200,
+      "bytes": 163180,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=32",
+      "kind": "product",
+      "status": 200,
+      "bytes": 162088,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=47",
+      "kind": "product",
+      "status": 200,
+      "bytes": 152907,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=46",
+      "kind": "product",
+      "status": 200,
+      "bytes": 162629,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=48",
+      "kind": "product",
+      "status": 200,
+      "bytes": 154966,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=49",
+      "kind": "product",
+      "status": 200,
+      "bytes": 165947,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=50",
+      "kind": "product",
+      "status": 200,
+      "bytes": 160799,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=52",
+      "kind": "product",
+      "status": 200,
+      "bytes": 151402,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=51",
+      "kind": "product",
+      "status": 200,
+      "bytes": 152480,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=53",
+      "kind": "product",
+      "status": 200,
+      "bytes": 172311,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=54",
+      "kind": "product",
+      "status": 200,
+      "bytes": 171819,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=55",
+      "kind": "product",
+      "status": 200,
+      "bytes": 172665,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=56",
+      "kind": "product",
+      "status": 200,
+      "bytes": 190267,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=60",
+      "kind": "product",
+      "status": 200,
+      "bytes": 154853,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=64",
+      "kind": "product",
+      "status": 200,
+      "bytes": 153914,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=72",
+      "kind": "product",
+      "status": 200,
+      "bytes": 157734,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=73",
+      "kind": "product",
+      "status": 200,
+      "bytes": 154732,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=74",
+      "kind": "product",
+      "status": 200,
+      "bytes": 164485,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=75",
+      "kind": "product",
+      "status": 200,
+      "bytes": 191400,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=76",
+      "kind": "product",
+      "status": 200,
+      "bytes": 167119,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=77",
+      "kind": "product",
+      "status": 200,
+      "bytes": 155413,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=78",
+      "kind": "product",
+      "status": 200,
+      "bytes": 190281,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=79",
+      "kind": "product",
+      "status": 200,
+      "bytes": 153370,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=80",
+      "kind": "product",
+      "status": 200,
+      "bytes": 153420,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=81",
+      "kind": "product",
+      "status": 200,
+      "bytes": 153423,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=82",
+      "kind": "product",
+      "status": 200,
+      "bytes": 153572,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=83",
+      "kind": "product",
+      "status": 200,
+      "bytes": 155252,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=84",
+      "kind": "product",
+      "status": 200,
+      "bytes": 162167,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=85",
+      "kind": "product",
+      "status": 200,
+      "bytes": 152254,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=89",
+      "kind": "product",
+      "status": 200,
+      "bytes": 155138,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=91",
+      "kind": "product",
+      "status": 200,
+      "bytes": 153383,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=92",
+      "kind": "product",
+      "status": 200,
+      "bytes": 153492,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=93",
+      "kind": "product",
+      "status": 200,
+      "bytes": 153437,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=94",
+      "kind": "product",
+      "status": 200,
+      "bytes": 175893,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=95",
+      "kind": "product",
+      "status": 200,
+      "bytes": 179562,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=97",
+      "kind": "product",
+      "status": 200,
+      "bytes": 158987,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=98",
+      "kind": "product",
+      "status": 200,
+      "bytes": 158390,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=96",
+      "kind": "product",
+      "status": 200,
+      "bytes": 182714,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=99",
+      "kind": "product",
+      "status": 200,
+      "bytes": 161057,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=100",
+      "kind": "product",
+      "status": 200,
+      "bytes": 160732,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=101",
+      "kind": "product",
+      "status": 200,
+      "bytes": 155326,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=102",
+      "kind": "product",
+      "status": 200,
+      "bytes": 152260,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=103",
+      "kind": "product",
+      "status": 200,
+      "bytes": 155454,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=104",
+      "kind": "product",
+      "status": 200,
+      "bytes": 160980,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=105",
+      "kind": "product",
+      "status": 200,
+      "bytes": 158564,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=106",
+      "kind": "product",
+      "status": 200,
+      "bytes": 159731,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=107",
+      "kind": "product",
+      "status": 200,
+      "bytes": 157958,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=111",
+      "kind": "product",
+      "status": 200,
+      "bytes": 180345,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=108",
+      "kind": "product",
+      "status": 200,
+      "bytes": 186545,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=109",
+      "kind": "product",
+      "status": 200,
+      "bytes": 160844,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=112",
+      "kind": "product",
+      "status": 200,
+      "bytes": 190388,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=121",
+      "kind": "product",
+      "status": 200,
+      "bytes": 160060,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=123",
+      "kind": "product",
+      "status": 200,
+      "bytes": 183051,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=122",
+      "kind": "product",
+      "status": 200,
+      "bytes": 178517,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=124",
+      "kind": "product",
+      "status": 200,
+      "bytes": 181839,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=125",
+      "kind": "product",
+      "status": 200,
+      "bytes": 178820,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=126",
+      "kind": "product",
+      "status": 200,
+      "bytes": 154672,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=128",
+      "kind": "product",
+      "status": 200,
+      "bytes": 158579,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=129",
+      "kind": "product",
+      "status": 200,
+      "bytes": 171583,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=133",
+      "kind": "product",
+      "status": 200,
+      "bytes": 183359,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=134",
+      "kind": "product",
+      "status": 200,
+      "bytes": 179742,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=135",
+      "kind": "product",
+      "status": 200,
+      "bytes": 182613,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=136",
+      "kind": "product",
+      "status": 200,
+      "bytes": 156231,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=138",
+      "kind": "product",
+      "status": 200,
+      "bytes": 159184,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=137",
+      "kind": "product",
+      "status": 200,
+      "bytes": 159353,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=139",
+      "kind": "product",
+      "status": 200,
+      "bytes": 192654,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=145",
+      "kind": "product",
+      "status": 200,
+      "bytes": 161705,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=146",
+      "kind": "product",
+      "status": 200,
+      "bytes": 161679,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=150",
+      "kind": "product",
+      "status": 200,
+      "bytes": 152568,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=149",
+      "kind": "product",
+      "status": 200,
+      "bytes": 160992,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=151",
+      "kind": "product",
+      "status": 200,
+      "bytes": 155473,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=152",
+      "kind": "product",
+      "status": 200,
+      "bytes": 154767,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=153",
+      "kind": "product",
+      "status": 200,
+      "bytes": 154671,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=157",
+      "kind": "product",
+      "status": 200,
+      "bytes": 160918,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=156",
+      "kind": "product",
+      "status": 200,
+      "bytes": 166519,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=158",
+      "kind": "product",
+      "status": 200,
+      "bytes": 170682,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=159",
+      "kind": "product",
+      "status": 200,
+      "bytes": 155635,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=160",
+      "kind": "product",
+      "status": 200,
+      "bytes": 161038,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=162",
+      "kind": "product",
+      "status": 200,
+      "bytes": 163084,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=161",
+      "kind": "product",
+      "status": 200,
+      "bytes": 162600,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=163",
+      "kind": "product",
+      "status": 200,
+      "bytes": 173653,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=174",
+      "kind": "product",
+      "status": 200,
+      "bytes": 176415,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=175",
+      "kind": "product",
+      "status": 200,
+      "bytes": 176955,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=176",
+      "kind": "product",
+      "status": 200,
+      "bytes": 164056,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=177",
+      "kind": "product",
+      "status": 200,
+      "bytes": 168068,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=178",
+      "kind": "product",
+      "status": 200,
+      "bytes": 185077,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=179",
+      "kind": "product",
+      "status": 200,
+      "bytes": 166417,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=181",
+      "kind": "product",
+      "status": 200,
+      "bytes": 160784,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=183",
+      "kind": "product",
+      "status": 200,
+      "bytes": 156059,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=182",
+      "kind": "product",
+      "status": 200,
+      "bytes": 159089,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=184",
+      "kind": "product",
+      "status": 200,
+      "bytes": 164999,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=185",
+      "kind": "product",
+      "status": 200,
+      "bytes": 156566,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=189",
+      "kind": "product",
+      "status": 200,
+      "bytes": 160557,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=193",
+      "kind": "product",
+      "status": 200,
+      "bytes": 160877,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=190",
+      "kind": "product",
+      "status": 200,
+      "bytes": 164597,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=191",
+      "kind": "product",
+      "status": 200,
+      "bytes": 164560,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=195",
+      "kind": "product",
+      "status": 200,
+      "bytes": 160233,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=196",
+      "kind": "product",
+      "status": 200,
+      "bytes": 160803,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/product/detail.html?product_no=197",
+      "kind": "product",
+      "status": 200,
+      "bytes": 162692,
+      "attempt": 1
+    },
+    {
+      "url": "https://shop-phinf.pstatic.net/20240326_170/1711439601948caCQV_JPEG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_26-3-2024_13486_sell.smartstore.naver.com.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 115548,
+      "attempt": 1
+    },
+    {
+      "url": "https://shop-phinf.pstatic.net/20240326_12/17114396247289xibH_JPEG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_22-3-2024_165210_smartstore.naver.com.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 158665,
+      "attempt": 1
+    },
+    {
+      "url": "https://shop-phinf.pstatic.net/20240326_209/1711439618786tHnac_JPEG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_22-3-2024_165141_smartstore.naver.com.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 343118,
+      "attempt": 1
+    },
+    {
+      "url": "https://shop-phinf.pstatic.net/20240326_176/1711439661863lXUEq_JPEG/20240326_141153.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 268856,
+      "attempt": 1
+    },
+    {
+      "url": "https://shop-phinf.pstatic.net/20240326_129/17114396822766lfr1_JPEG/%EC%9A%B0%EC%88%98%EA%B3%BC%EB%A9%94%EA%B8%B0.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 557546,
+      "attempt": 1
+    },
+    {
+      "url": "https://shop-phinf.pstatic.net/20240326_290/1711439668737qOdq5_JPEG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_22-3-2024_164515_smartstore.naver.com.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 51658,
+      "attempt": 1
+    },
+    {
+      "url": "https://shop-phinf.pstatic.net/20240326_66/1711439635967fC0mK_JPEG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_22-3-2024_165959_smartstore.naver.com.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 59115,
+      "attempt": 1
+    },
+    {
+      "url": "https://shop-phinf.pstatic.net/20240326_62/1711439675818e4tPO_JPEG/%EC%95%84%EC%9D%B4%EC%8A%A4%ED%8C%A9%EC%82%AC%EC%A7%84.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 175841,
+      "attempt": 1
+    },
+    {
+      "url": "https://shop-phinf.pstatic.net/20240326_32/1711439612630vkTq8_JPEG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_22-3-2024_164848_smartstore.naver.com.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 206795,
+      "attempt": 1
+    },
+    {
+      "url": "https://shop-phinf.pstatic.net/20240326_77/1711439654717Uy3wm_JPEG/20240326_141221.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 201886,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/%EB%B0%98%EA%B1%B4%EC%A1%B0%EB%AF%BC%EC%96%B4220g%20%282%29.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 5542006,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/%EB%B0%94%EB%8B%A4%EC%86%A1%EC%96%B4.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 5190099,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/%EA%B8%89%EB%83%89-%ED%99%9C%EC%98%A4%EC%A7%95%EC%96%B4.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 5785620,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/%EC%86%90%EC%A7%88%EA%B0%80%EC%9E%90%EB%AF%B8%20%EC%A4%915%EB%AF%B8.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 4160274,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/%EC%9E%90%EC%97%B0%ED%95%9C%20%EB%8C%80%ED%95%98%EC%83%88%EC%9A%B0%20%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 4462268,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/%EC%A0%9C%EC%A3%BC-%ED%86%A0%EB%A7%89%EA%B0%88%EC%B9%98.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 7400805,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/1-Hero.webp",
+      "kind": "image",
+      "status": 200,
+      "bytes": 8615782,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/img/about.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 378264,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/img/about_gamagi.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 773090,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/img/gamagi_01.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1349618,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/img/gamagi_02.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1386023,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/img/gamagi_03.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1282295,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/img/gamagi_04.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1392661,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/img/gamagi_05.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1185714,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/img/gamagi_06.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1063902,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/5jingus.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 785241,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/201812/23eb22f0d3126fdae16371969e7c3955.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 33777,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/201911/d29b582505c021673ead00cf96571409.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 45689,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/20200110/41f9618418eafa42227fb249e8951b45.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 49912,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202010/f34b8b2f77e718f9010a9403584b9e6c.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 32794,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202011/a3e6111d50047f1e35f10b6258acaf59.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 44932,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202010/107b21f06c8e221768eadaa75373c0c3.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 46565,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202110/0420ddfaee2338b94cc13a4a9f7eac02.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 86035,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202110/5975afc88cf38f130600d5b698d6bce5.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 86035,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202110/9910f6c4ade5caa7bd49a3997992fd49.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 86035,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202110/b5a549c4f236eafbbaaaebf2261b671f.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 86035,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202111/0c40c6c9108e482942dd33a0d7aba2f0.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 43078,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202110/c60492e8166be52487c47901df43c799.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 86035,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202201/6606793a6c7ae5d20cac627d0e76ca00.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 97868,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202201/1d93aa461eab083f620bffec166b3852.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 108626,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202201/6fc03f33de7f2322398b52062adb226e.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 97868,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202210/1f8cb0c6f1490d18bd9ff3f82e4b833e.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 45369,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202210/322bca45c14c299007559637c9f4e8b7.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 40635,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202210/b2b8089ea97a1b188d039fb5a911370a.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 249012,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202301/e147c19efdfb559c8410aa43bb035f40.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 60648,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202303/0e840338c766978653df9ca17e82cc29.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 49987,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202306/d8f0b1045f5f7e0e5338ddf7e761062d.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 38982,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202310/51b86a7705241c9c045d47c753e0a668.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 58542,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202310/f218ebbd1c13a199626c0e2201816e3c.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 50442,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202310/904d537a27e4a8b9d2815dbe0dcb4dd8.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 80087,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202403/5d149ecd2afa9c81b658586abcbaf111.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 67791,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202403/784597ca71010e86c31cead075066cc9.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 54990,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202403/b0ea6fe02b99811c8167da39299a8580.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 79596,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202404/e75aca572ae26c34fa3a575ded4f4db6.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 86432,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202408/bf2015b9c7ea2dd7244a84da17090805.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 72108,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202403/dd6c9bd0fcfafd3af5991263200dccf5.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 411451,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202509/6302e9695f9fa33edbde034ad43cf5c6.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 475959,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202509/67a3a788de9e3905c46f4bf40c06e348.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 18250,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202509/86de1a535d3611ecca535f6598a4f73f.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 52395,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202509/a8f0314584a57cb023f2738c1a01e608.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 443450,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202509/b6fe28fd2603cf8ce2434f4b2cf3c151.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 38397,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202509/fb6d2187749db6f6803b902ec58e51b5.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 67389,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202510/26474029e3ab9a6c5c9e872018bc4b2b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 87685,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202510/48ef47bb3b48f7ecfb9795093fb005c6.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 45855,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202510/3ab80b26ece439ba86c1b9d5c75f96ba.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 87685,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202510/56a3c5db7f2fd81616c5fa495426c399.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 87685,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202510/fc1aea05be948822fa104d0795c5ff9a.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 87685,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202510/aaf89c14f8f2ad3c86aa1311a9400612.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 87685,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202601/0d2582774ea955156dcdede3c5af1e5f.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 68717,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202601/515fa7e3fa15c84f3288816b9e8f6314.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 74256,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202601/ad4189a14fb5037a1db20801355cda42.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 98348,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202601/ebe22c97a031cb909179acf0d9abb04b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 48587,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202601/d5005c800ef4c4d403bd1360e294b507.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 500935,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202603/b853ff4d78c8e342a501f101acc945a1.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 86645,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202603/ef990e8eda77079d8625908749eaec42.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 75821,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202604/4c9dfefdd6bc5e645f1fd2640b98af04.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 56390,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_1.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 52552,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/202609/fed8817804cb0bd91c439b2732f299e5.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 60899,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_100.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 54388,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_10.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 52552,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_101.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 33602,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_102.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 33602,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_103.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 33259,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_104.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 33259,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_105.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 33259,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_106.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 33259,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_107.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 43564,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_109.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 52459,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_11.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 52552,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_12.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 52552,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_13.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 30313,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_14.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 30313,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_15.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 30858,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_16.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 30858,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_17.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 52553,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_19.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 52459,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_18.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 52553,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_20.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 52459,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_22.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 49844,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_21.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 73411,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_2.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 56112,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_23.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 49844,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_26.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 16466,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_27.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 17376,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_28.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 17376,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_29.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 52729,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_30.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 85747,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_46.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 49371,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_47.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 53637,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_48.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 68098,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_49.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 30313,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_50.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 50209,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_52.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 154822,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_54.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 118128,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_51.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 171162,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_53.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 118128,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_72.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 16466,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_64.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 57819,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_60.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 49844,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_55.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 118128,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_73.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 16466,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_76.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 46953,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_74.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 131836,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_77.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 53637,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_79.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 57819,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_80.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 57819,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_81.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 57819,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_82.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 57819,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_83.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 29978,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_84.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 33632,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_85.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 121871,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_89.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 88569,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_91.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 57819,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_92.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 57819,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_93.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 57819,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_94.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 56330,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_95.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 56330,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_96.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 56330,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_97.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 54273,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_98.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 54273,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/big/bitamin25_99.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 54388,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/201910/2cde973db8741b1a70a8e40ca544bdc1.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 71025,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/201910/601c5152bb8611e527a6a4febea934cc.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 71025,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/201910/a56bdea0face1108432b2e0448e81108.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 71025,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/201910/128244c50ce0709bd23967f782c8f38f.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 71025,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/201910/a9584fa2e0bf5b98f153dc27251c803b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 71025,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/201910/ef3d3c848da7a09bf62a872ec7e09659.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 71025,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/201910/d0c0804de879aca77c9bdadbcda170ac.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 71025,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/007b4e26bc69dba5610c33b2d0eddec4.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 58181,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/06011f9b79e65e690d7c5e28083fc8f1.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 66749,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/35526fcab636bced3b471a44518ffbe3.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 66749,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/38a70b1208864f264a9a448634d6c490.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 62669,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/1f9acc47c1599c62139bc3c53d0ae083.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 66749,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/4056b3b3eedcf9c9be16ffd4618b508d.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 58181,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/48a32f5db19c5ba6c15d691e90ae1217.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 62669,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/4a83601b880e5fee79f5e4eaba2a14bc.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 58181,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/5157ca588d35456d1dcfc92f47dbaa0a.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 66749,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/4ba7200e75f0e4f93cf02962b444bffd.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 58181,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/60d34e609d6e81b3382f0618990b690e.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 62669,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/68b938915c3d09d748710f82fb28a395.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 59720,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/586e77880bf0e10085810666167b27df.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 62669,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/6923d25f6bdcd8c9391ea6e26b86a0f8.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 62669,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/71cd53f69b2b25f53255e4009e04dc06.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 98339,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/8faad4975530b58349bf5263c3360600.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 98339,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/83d9aedf33aaa401cc412c63a4ea0c29.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 98339,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/916b13092758b94fd84f6e30b82f8c3b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 59720,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/9bfc428f652f9fcebb2f061acab31a81.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 58181,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/aaecfff3ecdf9a24aa47c06b9f3ce932.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 59720,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/a7b0813569914a4c50c252ea2f0bb1e5.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 66749,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/c0c0bd701aea7e2bf4e79b14dc3f6bd7.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 59720,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/d9e00c237e681e4b227be896e84c69c2.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 98339,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/fb48f0737664c3f4634843e3b28036a0.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 59720,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202106/ffc5d7db5d9522de1929152c013e0be1.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 98339,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202111/3be4f56f66860150ba64130d965ec63b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 56932,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202111/5d125da0754589c88399b1c3e44b26f7.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 49291,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202111/6305d7ab1a18d7842ce1f4e7396a6cee.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 48034,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202111/7a73e624a035e9efdc8b47f96d9a61a8.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 37778,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202111/8f5be10263d5378c12e7353cfd30f8c5.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 133183,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202111/ee302dcf7b67c69c80e7992ddb390675.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 34363,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202111/ce3b323249c3c4600316d658096f442b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 31811,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202111/9eeb44af4b4e6d36686849d817a91e87.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 55255,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202111/f1ebc9c2adb2a19993897072fa57b020.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 35822,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202111/ffa2706ab13e0e2b3b8b4022a465a829.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 35022,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202111/fece958931efbb944a762a99607a5382.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 56324,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202201/1a782c01ea5715d4b002e188be6ca3c0.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 181622,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202201/462550179bdc305de2272143fba7b746.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 74204,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202201/700e61c231a34131d725737350626dde.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 53551,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202201/90673ebbdd062f46a361b905a3b45de2.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 109162,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202210/19900e3ed6757959896196dead848fdb.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 39849,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202201/4c19858aa13e3074636a0034c92394a6.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 79856,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202201/b2672dba4e6c99509c5ef3ad0627928c.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 81001,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202210/83149bec4501df57516abd3405a31327.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 87352,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202301/1255e168166e1685ca900d8877d189f5.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 41054,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202301/9a25ed6147614ffb322a5d5d493c569b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 57708,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202301/1a10978b4a24d7bee34abf1207ec6ab7.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 65714,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202301/bb6e73ecbdb266d538e961a9311c0f49.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 74195,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202303/5bd8867dad83343dc144e1fdac2256a7.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 59249,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202303/b38ff726f5ac2ebeb7ecf929de2cc647.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 84406,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202303/2778486abc6e753eaff66f35362fb471.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 175597,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202306/27478a34c4eaae8da9ec5740d1f883a1.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 27571,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202306/2b320a63e01f7289813e8a138b4a4c1a.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 26392,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202303/da37ab14a91bea4932a172f912f76c3f.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 73383,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202306/2f081677e23db1bba9c5a4546f7092c9.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 20831,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202306/b97e181bf1077391663a6f6ba09ae133.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 23716,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202310/00b74fbc18bc9280852fd96f0c05fe1a.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 27033,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202310/4e29f71d66d45797f2bac75c38e66ded.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 37639,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202310/4fdf34697fcb222d72005ea801efe9bb.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 31190,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202310/626b1df7fed7ee1314930c8e9cb45083.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 33157,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202310/7932fcd2d703ba5a6195ece09cd79f63.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 47099,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202310/b7694fe0f1d079589f5123442f828f19.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 50668,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202310/c68ac55161b6af57b26a87b3693d0ef0.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 24500,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/0e13ea354c15798c55b13314c0384fef.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 25574,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/0403f7d29080d7d6728100980af6618f.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 34392,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202310/e249056c10f9fe1a75a77600342fcc6c.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 44210,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/189b4a56e991613caf9c66d31719ec25.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 53281,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/3558ebdae0f68a3410e3c54bdcf464d6.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 23831,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/2602dc1cff675fbbd5403124d87beea0.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 50526,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/18f97691c5a5b8db18b45c5314d10a3f.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 58083,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/4a673c2172409df4cdac71b03e1143b5.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 53166,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/4d9953520b19716ac25bd395d4a52f68.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 47555,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/519cdc1239dc6fd227a850eb63d8f049.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 46112,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/638c637c255e85f51320dd1ea74bf12b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 57895,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/79acbbaec975802e65b9786aa2a54d88.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 66052,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/7e14fa08a26272c513f52bcdb7bfdbec.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 48128,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/7edca56e0616c481b5d6f59d9b5e6362.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 42007,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/87be76fd1540688ba274cc800e3c7e82.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 26951,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/a7ea15dde8fc75c2300abb08183a2486.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 35429,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/b629a3babbc478094416200e2545169a.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 30387,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/cc38eaed76419abb9a027dbe8a1487c2.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 44831,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/d3516fcb5876f734035bc8a493536a8d.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 63681,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/eb57fbb1134e678213abc50d4d9c50c7.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 44578,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/eef8b416e99f88dbfccfef9edce4b327.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 40525,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202403/f1a3bb5d97742ac197b1e5a17b485850.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 48145,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/20240405/9da02394dd24a4d85a327e15efeea96c.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 57856,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/20240405/f6f40071921f208cf7a05554ef120a00.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 63323,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/20240405/4180e2a25460a891ab0346a1c012b1f9.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 54067,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202410/3e0d7f0ce6ede656f9c54324f8c866a8.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 62620,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202410/4718babc0e86a95aabffc13f06a40d52.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 86081,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202410/7189b1f13923ae871ab6b04384a23330.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 57187,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202509/247b7fd161beb650a1ec251881a1edad.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 111721,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202509/0f2b54a604fc2725e9505e232bd5d06e.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 175366,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202509/255541d55a9ecb00a6aebfc065d9e256.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 196753,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202509/406e0c675690b2775c503faa64f3223e.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 159935,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202509/2fb1b9499af47c04e78edfc48111b16a.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 145976,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202509/4c2a456c525a7eeadd9659331670b5e3.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 196765,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202509/5e6af40027d1674eebc51c22d4c6e1ac.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 217368,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/1b98b11a9ba49716b05aaf4506b79adc.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 91057,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202509/89608c737decad23582125439eb7de21.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 181753,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202509/a20c5e7fe6726488620d830f882fd280.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 340150,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/208f59c642dd197fbbde074e281eb8fb.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 43450,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/22f802c60197d8c3c1abc8673859a5d0.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 69351,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/231142513a0467ddf97704663460b5a6.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 50886,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/276a61b2d765d8817ff937ab031bb47a.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 46108,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/2c3a051f2c82056bea1f3aed83c432b3.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 82556,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/306692a4da794e88be3c1db7e51ba53d.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 54294,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/343764d2468a405ac2e34a5db913eb5b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 44943,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/3dd3be86c515b7dd6da61db32d69c08d.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 99425,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/40ad137d5efb330c2722368ef0e9115b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 89153,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/4914a0434a693ee8457a39ea8b171294.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 55467,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/49795688a494da65482c253a7968e50a.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 89488,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/51215dcf7200af422bf03adbd167b9ae.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 82556,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/51315d26bfab7a1ba9da0b0ebdb52ec2.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 87322,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/556e94d065fa2269209309873ff0761e.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 55534,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/8636f5374e19ba9e65636068a2656b6e.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 89488,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/61b63fe76f24b49b8367770d9dfe564d.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 82556,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/8c3c7bf9db6ce50eb52b15d563818cc4.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 49558,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/a9e53b9620f25114f962fb29bf87dccf.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 82556,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/8fd1af4dd6937d9586e794e3cc8c8dfc.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 87322,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/9f10523f2538361e80a4c352efb7e4b0.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 87322,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/b1931bf8963d95a815f9041b52e8841d.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 97973,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/de8f03b875f227714ac06ceadf5303b0.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 99425,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/b900eb59332abdf4bbbcee17355a92aa.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 73348,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/c52b5e1ea8452e1c366fb92a701b9c55.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 73348,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/e76c27715c75ac115d72878f569a56a5.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 91057,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/e96dc848df699ac0b5ca89927e816e49.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 46871,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/e98fd6d1018d85768446184efa3c5642.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 99425,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/f49deda29a9661718d005a909bb46f84.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 99425,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202510/fc84ab62bd4b27921b89651a929565dc.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 91057,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202601/191e1ff05bfb37499aa11e6277883ee0.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 44430,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202601/2c2f99e856f5127fb0ee676b892ea508.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 67781,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202601/387e973c5b54c8cf244cafac91dfdebc.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 89578,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202601/403d725e73fedeafdc3669d571eb7c42.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 91963,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202601/3d8b9aece5c3cd544a6d07902ce3ad5e.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 70566,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202601/41788de6d1cb996fa571dfce4d89feef.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 90171,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202601/54b5853ba536ce4b3856f22d35daf136.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 124453,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202601/74156ab5a4cd2d3a6105eef74fee7e3e.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 83433,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202601/8ccdcdac2d9b30d8a4b37e90c5c2f53d.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 50887,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202601/8ba1a6fa989df2fef8fb6e9f07235a06.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 58626,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202601/93a69d1be5b0bd27680e4b854668e57b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 96555,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202601/9658dbb53c5fa1b61229a699ab5e9f57.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 42754,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202601/9d490f9e79123470d8cc0e99b90ffa9a.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 91085,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202601/b1dc6fcd9695583145ccddb49f32958b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 49585,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202601/bccf3d095e6c6832e9e3638e2db514cb.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 73312,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202601/ffbe03d12a9495491ecd8019e80ce8cd.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 54813,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202601/eca6ce06331a6480abe692616a9016f4.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 66409,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202601/cbd4dad06a64e5c7507e0420553feb62.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 86578,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202603/50834cfd893b84095d15239a68194c03.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 131185,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202603/455ce5a8083d59b18d55a6260238646c.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 96328,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202603/684e683d6f15932ba239431f56c2de47.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 69292,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202603/55d58306f519ad297a017b6decdb4d3b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 148525,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202603/6e9d44df74c8e0be330959b83117d2e0.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 134723,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202603/8f69bc9f2a84603791e5d679ed1d7be7.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 68136,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202603/a1a79b1e3bfc3bb0a1ae506adbff1882.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 55063,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202603/a675b3a5f2f301cd53dbcb53c5cf7a61.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 49652,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202604/3349004934199826b53d2b2dd8efc5e6.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 36049,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202604/6cfd58b169425117e8c8dab3f21038db.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 70555,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202604/94dc9b301d4993aae57da3289b9ff3d5.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 76437,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202604/e23ea30bd81a9fb3cf731f7602729c4d.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 80584,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202603/db6f06f4edf4ce4de9fdb21bdedd4917.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 74153,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202609/1f9ba0d286b1381164ffc20166722611.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 48296,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202609/7f9cdadef7fb3e360333d4ba6b4bbc88.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 52692,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202609/005e2c6a40baf79900fd5e00bcd4dbfc.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 62337,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202609/8717bf832d42429e32e547651cee4ee1.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 49666,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202609/d1de25069d3237a764fcfaad5c41fa79.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 43160,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/202609/f5de9ca8107c961ddd2d8d3155d18115.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 69062,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_10_1.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 28770,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_10_2.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 33607,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_10_3.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 32681,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_11_2.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 33607,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_11_1.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 28770,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_12_1.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 28770,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_11_3.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 32681,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_12_2.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 33607,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_12_3.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 32681,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_1_1.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 28770,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_1_2.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 33607,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_1_3.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 32681,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_94_1.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 28770,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_94_2.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 33607,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_95_1.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 28770,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_94_3.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 32681,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_96_1.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 28770,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_95_3.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 32681,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_95_2.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 33607,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_96_2.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 33607,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/extra/big/bitamin25_96_3.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 32681,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/haesam.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 127987,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/gagami.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1150369,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/junbuk.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 106520,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/medium/202010/eb2a9f9da99cf53508b4a8297dffef80.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 14587,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/medium/202110/8b006b038f50e7e14151aa40ccb4e6a6.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 36203,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/medium/202210/e741f9ccb0a10db80228388ca01a1628.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 18039,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/medium/202210/ffbd51c7d346a533d13acaca75084937.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 19829,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/medium/202601/2fe05e93f00722a85aa1dd957dc3f038.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 21221,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/medium/bitamin25_28.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 10865,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/medium/202509/7a04ddc1b85b01645b84e20797306765.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 181091,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/medium/202603/86890da01309b78d2a192a67bc4f4778.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 28592,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/medium/bitamin25_50.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 21646,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/medium/bitamin25_84.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 14996,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/munggae.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 117546,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/product/mun.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1087504,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20201024/2020101910522699_Messages_01073728855_shop1_164243.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 862520,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20201024/20181124_164958_shop1_164254.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 3221728,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20201024/20201024_142339_shop1_164324.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 3130051,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20211028/EAB3BCEBA994EAB8B0EC868CEAB09C.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 2785534,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20211028/copy-1635398946-ECA084EB8BA8ECA780.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 272099,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20211104/01.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 733983,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20211104/02.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 427152,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20211104/03.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 285884,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20211104/04.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 624041,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20211104/05.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 356909,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20211104/06.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 198248,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20211104/07.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 901029,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20211104/08.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 228542,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20211104/09.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 275362,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20211104/copy-1636004175-02.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 247870,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20211104/copy-1636004171-01.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1488879,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20211104/copy-1636004183-05.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 215146,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20211104/copy-1636004179-03.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 559367,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20211104/copy-1636004187-06.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1269992,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20211104/copy-1636004194-07.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 527318,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20220119/EB8C80EAB28CEC8381EC84B8ED8E98EC9DB4ECA780.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1684765,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20220119/EBB984ED8380EBAFBCEAB3A0ED96A5ECB48CECA084EBB288.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 379643,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20220119/EBB095EB8BACEC8381EC84B8ED8E98EC9DB4ECA780_EBB3B5EC82ACEBB3B8.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 2012508,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20220119/copy-1642594551-EBB984ED8380EBAFBCEAB3A0ED96A5ECB48CECA084EBB288.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 379643,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20220119/ED998DEAB28CEC8381EC84B8ED8E98EC9DB4ECA780.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 2029357,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20220119/copy-1642598128-EBB984ED8380EBAFBCEAB3A0ED96A5ECB48CECA084EBB288.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 379643,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20221001/EC9584EAB780ED8FAC.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1099376,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20221001/ECA590ED8FAC.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 3221781,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20221002/copy-1664699582-20201103_140240.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1330167,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20221002/copy-1664699597-1633856276994.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1224914,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20221002/copy-1664699600-1604031495134.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1121765,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230316/EBB984ED8380EBAFBCEC9DB4EBAFB8ECA780.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 5117,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230316/EC9AB0EC8898EAB3BCEBA994EAB8B0.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 337686,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230316/Screenshot_20230308-195700_NAVER.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 226256,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230316/Screenshot_20230308-195732_NAVER.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 179690,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230316/Screenshot_20230308-200039_NAVER.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 459719,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230316/Screenshot_20230308-200405_NAVER.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 59117,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230316/Screenshot_20230308-200525_NAVER.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 173756,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230316/Screenshot_20230308-200604_NAVER.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 143861,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230316/Screenshot_20230308-201316_NAVER.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 192750,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230316/Screenshot_20230308-201926_NAVER.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 162774,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230316/Screenshot_20230308-202034_NAVER.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 111776,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230316/Screenshot_20230308-202124_NAVER.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 101520,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230316/copy-1678946209-EBB984ED8380EBAFBCEC9DB4EBAFB8ECA780.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 5117,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230316/copy-1678946392-EC9AB0EC8898EAB3BCEBA994EAB8B0.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 337686,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230316/copy-1678946403-info01.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 48647,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230321/20201024_142011.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 147507,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230321/EC9AB0EC8898EAB3BCEBA994EAB8B0.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 337686,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230321/Screenshot_20230321-163205_NAVER.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 214123,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230321/copy-1679389727-1635988352590.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 82570,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230316/info01.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 48647,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230321/copy-1679389745-2013-07-1917.10.0561805.55366.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 241089,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230321/copy-1679389755-20201024_141958.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 140882,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230321/copy-1679389771-1635988352590.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 82570,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230321/copy-1679389782-20181124_164825.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 136820,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230321/info01.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 48647,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20230321/copy-1679389797-Screenshot_20230321-162938_NAVER.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 234568,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231010/info01.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 48647,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231013/1697175515556.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 495824,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231013/1697175515704.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 159463,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231013/1697175515591.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 371808,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231013/1697175515645.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 356346,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231013/1697185665000.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 163148,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231013/1697185665188.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 302962,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231013/1697175517199.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1502321,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231013/1697175515755.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 765672,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231013/1697185665233.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 310374,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231013/1697185665318.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 620038,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231013/1697185665402.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 354980,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231013/1697185665349.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 480282,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231013/1697185665654.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 438401,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231013/1697185665715.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 608453,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231013/1697185665753.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 924158,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231013/Screenshot_20230304-204210_NAVER.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 68841,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231013/review_16504413844_20d70.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 383126,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697342571729.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 163148,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231013/review_16504413879_2df84.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 392784,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697342571766.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 302962,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231013/1697185665839.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1460001,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697342573120.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 606536,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697342571862.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1460001,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697342573180.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 580775,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697342573236.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 636805,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697342575011.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 718476,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697342574809.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1233091,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697342575068.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 754663,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697348622616.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 466276,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697348623028.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1115317,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697342575130.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1108756,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697348624028.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 163148,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697348623142.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 700378,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697348623986.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1460001,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697348624082.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 732579,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697348624374.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 302962,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697348624218.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 647254,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697348624143.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1076734,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697348626593.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1350806,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697348627105.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1246349,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697348627517.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1197643,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697348628397.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 995770,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231015/1697348628456.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 502826,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231026/EAB080EC9E90EBAFB8ED8FACEC9EA5.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 86907,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231026/copy-1698286197-EAB080EC9E90EBAFB8ED8FACEC9EA5.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 86907,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20231026/20230404_105510.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 319668,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/20240214_152102.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 206225,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/20240214_152220.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 216785,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/20240217_140527.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 196763,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/20240217_140617.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 268002,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EB8C80EAB5AC1.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 136244,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/20240217_140644.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 276362,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EB8C80EAB5AC2.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 174039,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EB8C80EAB5AC3.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 88042,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EB8C80EAB5AC4.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 181367,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EB8C80EAB5AC5.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 126514,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EBB095EB8C806.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 83256,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EBB095EB8C804.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 279048,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EBB095EB8C805.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 81089,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EBB391EC96B42.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 275104,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EBB095EB8C808.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 556279,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EBB984ED8380EBAFBC20EC8898EC82B0EBACBC.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 83797,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EBB391EC96B43.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 155414,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EC839DEC84A08.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 497219,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EC849CEB8C801.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 76618,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EC849CEB8C803.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 86221,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EC849CEB8C802028329.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 969764,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EC849CEB8C804.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 129295,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EC849CEB8C80EAB1B4ECA1B0.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 223786,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EC97B4EAB8B01.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 300822,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EC97B4EAB8B020EC84A4EBAA85.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 140298,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EC97B4EAB8B02.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 216077,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EC97B4EAB8B03.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 102213,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EC97B4EAB8B04.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 198381,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EC97B4EAB8B06.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 138181,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EC97B4EAB8B08.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 108981,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/EC9BB920ECBAA1ECB298_20-1-2024_123622_sell.smartstore.naver.com.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 88458,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/copy-1709708418-EBB984ED8380EBAFBC20EC8898EC82B0EBACBC.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 81088,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/copy-1709708491-EBB391EC96B41.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 151491,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/copy-1709708530-EC839DEC84A08.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 497219,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/copy-1709708889-EC839DEC84A08.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 497219,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/copy-1709709277-EC839DEC84A08.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 497219,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/copy-1709735061-EC839DEC84A01.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 193133,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/copy-1709736099-EC839DEC84A02.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 166942,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/copy-1709736111-EC839DEC84A03.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 140955,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/copy-1709736122-EC839DEC84A04.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 110755,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/copy-1709736131-EC839DEC84A05.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 125306,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/copy-1709736151-EC839DEC84A07.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 148709,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/copy-1709736140-EC839DEC84A06.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 247344,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/search.pstatic.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 218736,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240306/copy-1709736159-EC839DEC84A08.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 497219,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240824/1724502444124.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 770750,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240824/1724502445050.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1101299,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240824/1724502445126.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1052159,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240824/1724502445625.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1145654,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240824/1724502445756.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1256974,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240824/1724502445689.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1563963,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240824/1724502447600.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 753331,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240824/1724502447639.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 918442,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20240824/1724502448873.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 458084,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20241027/EC9691EBAFB8EBA6AC20EC97ADEAB1B0EBA6AC.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 60898,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20241027/EC9584EC9DB4EC8AA4ED8CA9EC82ACECA784.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 175877,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20241027/EC9691EBAFB8EBA6ACEAB1B4ECA1B0.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 528434,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20241027/EC9691EBAFB8EBA6ACED8A80.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 102173,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20241027/EC9691EBAFB8EBA6ACEAB5ACEC9DB42028229.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 410362,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20241027/EC9AB0EC8898EAB3BCEBA994EAB8B0.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 337686,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250901/EC839DEC84A0EAB5ACEC9DB45ECA285_1.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 99777,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20241027/copy-1730026754-EC9691EBAFB8EBA6AC1.jpeg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 153273,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250901/EC839DEC84A0EAB5ACEC9DB45ECA285_10.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 917803,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250901/EC839DEC84A0EAB5ACEC9DB45ECA285_14.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 207834,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250901/EC839DEC84A0EAB5ACEC9DB45ECA285_12.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 237835,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250901/EC839DEC84A0EAB5ACEC9DB45ECA285_15.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 41247,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250901/EC839DEC84A0EAB5ACEC9DB45ECA285_13.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 818385,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250901/EC839DEC84A0EAB5ACEC9DB45ECA285_16.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 135846,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250901/EC839DEC84A0EAB5ACEC9DB45ECA285_2.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 77674,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250901/EC839DEC84A0EAB5ACEC9DB45ECA285_18.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 308828,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250901/EC839DEC84A0EAB5ACEC9DB45ECA285_11.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1790067,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250901/EC839DEC84A0EAB5ACEC9DB45ECA285_3.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1152885,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250901/EC839DEC84A0EAB5ACEC9DB45ECA285_5.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 642548,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250901/EC839DEC84A0EAB5ACEC9DB45ECA285_9.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1272678,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250901/EC839DEC84A0EAB5ACEC9DB45ECA285_8.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 2389234,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250901/copy-1756710560-EC839DEC84A0EAB5ACEC9DB45ECA285_16.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 135846,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250901/copy-1756710364-EC839DEC84A0EAB5ACEC9DB45ECA285_4.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 653867,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250902/geditor_250806190718_1.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 80314,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250901/copy-1756710571-EC839DEC84A0EAB5ACEC9DB45ECA285_17.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1693191,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250902/geditor_250806190718_10.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1069537,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250902/geditor_250806190718_11.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 450310,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250902/geditor_250806190718_13.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 313364,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250902/geditor_250806190718_12.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 454100,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250902/geditor_250806190718_16.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 105204,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250902/geditor_250806190718_15.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 475439,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250902/geditor_250806190718_14.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 2350788,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250902/geditor_250806190718_17.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 549050,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250902/geditor_250806190718_18.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1118975,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250902/geditor_250806190718_19.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 207941,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250902/geditor_250806190718_2.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 77674,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250902/geditor_250806190718_3.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 98029,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250902/geditor_250806190718_4.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 268517,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250902/geditor_250806190718_6.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 814887,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250902/geditor_250806190718_5.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1547899,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250902/geditor_250806190718_7.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1153841,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250902/geditor_250806190718_8.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1121371,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250902/geditor_250806190718_9.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 891055,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250918/052db45fc026cee6cd8e6e4417b104a7.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 161273,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250918/2f28c793ad1b91a110ae314316c14c11.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 114381,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250918/3dbdd0c11bcbb3aa5106c8782b9a2add.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 150316,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250919/copy-1758292111-geditor_250917213125_1.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 99777,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250918/9a1a363ebf592acf1c280ae3dd85654f.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1336439,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250919/copy-1758292119-geditor_250917213125_3.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 421458,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250919/copy-1758292128-geditor_250917213125_4.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 870961,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250919/copy-1758292144-geditor_250917213125_6.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 963283,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250919/copy-1758292135-geditor_250917213125_5.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 935565,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250919/copy-1758292155-geditor_250917213125_7.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1869354,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250919/copy-1758292211-geditor_250917213125_12.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 84751,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250919/geditor_250917213125_11.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 256581,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250919/geditor_250917213125_10.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1715972,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250919/geditor_250917213125_12.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 84751,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250919/geditor_250917213125_13.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 647224,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250919/geditor_250917213125_14.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 268667,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250919/geditor_250917213125_15.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 637379,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250919/geditor_250917213125_16.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 112340,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250919/geditor_250917213125_17.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 548236,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250919/geditor_250917213125_18.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1145908,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250919/geditor_250917213125_19.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 262344,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251015/geditor_250923181058_1.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 80314,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250919/geditor_250917213125_8.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1572751,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20250919/geditor_250917213125_9.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1444096,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251015/geditor_250923181058_10.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 383696,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251015/geditor_250923181058_11.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 123171,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251015/geditor_250923181058_12.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 106790,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251015/geditor_250923181058_3.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 34465,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251015/geditor_250923181058_2.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 77674,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251015/geditor_250923181058_7.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 54967,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251015/geditor_250923181058_4.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 589927,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251015/geditor_250923181058_5.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1264013,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251015/geditor_250923181058_13.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 2059003,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251015/geditor_250923181058_6.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 817252,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251015/geditor_250923181058_9.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 345546,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251015/geditor_250923181058_8.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 3159751,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/01bf40dbd5dbdf1ee2814e8e55ede540.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 279083,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/0765aaed4001ba5843e5396fea205cb3.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 597664,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/09236c2a29757137cb9c0571a09149a3.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 55466,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/08c6d13bfc4d5e351675fe9d277086fb.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 279083,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/0aab42db686f4af46ff879497b3da3a5.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 150000,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/0b586faf2c3dcc7dbce5bc22daf8fa44.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 240448,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/0b6fa90a792fcacfdea6bb3e48303c8c.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 340139,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/0bf10417e588698c2856d1c681240490.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 240448,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/0f743d25ccc81cb6711d687a16b0dfb2.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 231612,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/1a7c653b5b9488a59739e0cf56b6e65b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 595146,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/1ae8cb00038eff2b80ddfa7e034ca984.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1019039,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/2061867839ec4eaf54c00e72749c825a.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 430808,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/15ca5d36439f2402d745d8d0fc65e057.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 848176,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/26624f78a6d7f21c13866abaffecf63b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 857696,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/2691cc50c5f3f5b4dec1c935d7f9347f.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 439474,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/26ef2640538df3370ea655b1f4470d0b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 595146,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/28cfd088da288c5e55b13383ed3d1abf.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 490091,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/2adbef0d9cba0086336511da6d0e14b1.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 150000,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/2f293d4c13546de901332dd794847704.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 240448,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/2f854bb1034d54e11ab667528302b055.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 443458,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/34935c5c191048ed8ca8fb72406f7d1c.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 513020,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/32a1f004175d9184e866b578fd871756.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 490091,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/379b7def225f30c2843342e4aa0d9f75.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1272768,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/3d565afcb1d1170888ff282744ec3153.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 378975,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/3dcb014f5d8ca31fc69d8c86e8aba1cd.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 443458,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/3f7cbb5c5a5f70e61d467f9ac0aa81ea.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 231612,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/442aeb1980baf2b305e4843810b3dd6d.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 378975,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/41abe7b145be6d6db70650f80ad69048.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 709878,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/45ca5747c20de3edf7fce5165f1f205a.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 385136,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/477069d4c0d9a56db96baafa17a95f16.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 340139,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/47b0ee4377a725a0af231b9d498c87b4.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 340548,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/4c0f919efca837220772c45552981602.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1692994,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/55f9bee911cbdcf91f2acf742c967393.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 231612,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/5d6589a967afb954fbaf0ba5696589f9.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 490091,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/5df2c10148d874330a343501081bb4cb.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 313344,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/6e4771e4bfa954c2f545e6160211dfb7.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 279083,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/6f49980a30197a9db5a5831470dce593.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 580153,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/75360856156025054e5f6b399000ee3f.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 385136,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/7bb60c5f442292c341958c9d3a1a6b41.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 439474,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/7928bcec06c720d2642bb3159b0f125a.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1692994,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/77be574e9079366f5839502b78b1d902.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 2315194,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/8036bf940d5f5cc190d54aa4afb7ce65.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1019039,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/80936190f0b3881ed38c33afd0482c04.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 363212,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/820d5ed4c20bbc95f8341a8bd08bacff.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1140622,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/80ec9da925e892e0f93bc252ae8655cf.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1692994,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/8357a3fad4079db9403d5ebd5ce75283.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 848176,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/8483a3387010b9b507aa4659aa45b6cb.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 439474,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/8497ad792e1594882c7eeda4eee28ec6.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 446230,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/88a5b435c17033553001ca1f36e56a64.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 709878,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/87c985d3cc4e5532b31b1acd5bdaed95.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 363212,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/88f186087e4505eb662820bdf98ce207.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 513020,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/90fb4defdc9ec6015cafbe0bf521cc25.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 848176,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/92905b3e95e218e6a693414feb095ee0.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 378975,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/93fbfd07172edbf69be03ae541ea5c23.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 430808,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/981414b1fae4b5b5c6d42803a5852c32.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 351733,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/9c075f9068427e0585e188665346d932.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 385136,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/9fcea7c7bdbf4d3230979acf1e1f311a.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 313344,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ECB2ADEC96B4EAB3BCEBA994EAB8B0_1.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 397581,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ECB2ADEC96B4EAB3BCEBA994EAB8B0_10.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 561365,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ECB2ADEC96B4EAB3BCEBA994EAB8B0_11.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1402598,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ECB2ADEC96B4EAB3BCEBA994EAB8B0_12.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1325741,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ECB2ADEC96B4EAB3BCEBA994EAB8B0_13.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 2719906,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/EAB3BCEBA994EAB8B0EC95BCECB184EC84B8ED8AB8_13.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1286031,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ECB2ADEC96B4EAB3BCEBA994EAB8B0_14.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1983388,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ECB2ADEC96B4EAB3BCEBA994EAB8B0_16.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 398573,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ECB2ADEC96B4EAB3BCEBA994EAB8B0_15.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1857395,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ECB2ADEC96B4EAB3BCEBA994EAB8B0_17.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 70020,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ECB2ADEC96B4EAB3BCEBA994EAB8B0_18.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 23741,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ECB2ADEC96B4EAB3BCEBA994EAB8B0_19.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 119155,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ECB2ADEC96B4EAB3BCEBA994EAB8B0_3.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 527343,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ECB2ADEC96B4EAB3BCEBA994EAB8B0_5.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 632794,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ECB2ADEC96B4EAB3BCEBA994EAB8B0_4.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 927900,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ECB2ADEC96B4EAB3BCEBA994EAB8B0_6.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 905622,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ECB2ADEC96B4EAB3BCEBA994EAB8B0_8.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 708362,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ECB2ADEC96B4EAB3BCEBA994EAB8B0_9.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 610708,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/a94444d47620502e40989ef540d91561.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 446230,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/aa8afed73fcc8bc4bef863e85c132b37.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 340139,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/b21239bb409587b23d451fd6a3b7f5a2.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 313344,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/b1c934cd2548f828d77ceb9f247480b6.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 597664,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ad3784c8fd7fb38f802f832fcd327351.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 2315194,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/af4e3a8d3bfefb91a0dabd1848e0eb25.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1272233,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/b333f6257cc8d2fdfae77d55e2899b09.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 363212,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/b555ee86c1cac951a1dd36f400fd385d.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 340548,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/b5cfbdaa9feeecd557f4f03765df25d8.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 443458,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/b92e1e4eed82e44793a2bbdf71f3d721.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 340548,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/b7f5300b803311be810a6f16deccda52.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 709878,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/bc4cb14d8d3c3728fa496f2d4ce299e6.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 580153,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/c194f83607ccc129a193e23366fa3248.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 857696,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/c79a136e77ef99a387ae8dbb6724c6c9.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 595146,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/c7de05f142aadc42edfb08e3bffff95b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1272233,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/d14ecb610af6837cced35c095344442d.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 55466,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/cc808928cd7741f6ba89e3381f8928f6.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1140622,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/d53cadfb65594e235ec5efd1a9ca9a3e.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 150000,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/dc0d99766c02535dc176b3f666f2816b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 55466,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/d1de1faf08cd71432ce9a131ba97d02c.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 446230,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/d8861445f57e030c744a448474db2ac3.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1019039,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/e86b2e548baf44622d65ee183f343b12.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 351733,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/dcc21fd6e39adc10e7f3e357b20e13f7.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1140622,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ec7314a5c14bf1048ddd3520005465e8.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 580153,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/eca958933455a292efc526026fba45b3.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1272233,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/f00e6ba203ba8d907115431e04f6dde0.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 351733,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/f02d9e18f42829717da15db8044bc9c5.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 857696,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/f5c21f97be6d633966704d427e27c564.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 2315194,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/fa516ac8d5c6df2fe8eebe1e0cd5c25f.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 597664,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/ff5fbc865c271436f2e63aec728de82b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 430808,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/feccce7c61921128f3446cd81b1ac716.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1693084,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251022/f62fcf697a6d72214c6fceae226ddbc2.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 513020,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/02202c1a6c1f1f397bfa189c4ecac4f0.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 55466,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/0262b798b84418123e0f7e8d6b6faaef.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 279083,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/10597f75a88638c9500a68806ddef0a7.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 150000,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/04a6cc4fbae03ef566dbaab97f44c471.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1141141,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/0506cc8c31d3f34a0198da4b94f58e8e.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 513020,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/19a17f618b3ffbed6d6981cdd3ae4b67.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 848176,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/1f7c97ed78bd93a00c971c8ea4c6c6c6.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 403899,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/24ac988072f994d3365f9aa4f0c370ce.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1693084,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/33f08b00330b85b89c102ca39c0bdd1b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1272768,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/36b36149d7aa49e2f40fd35bf913e90f.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 817988,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/4539b5a3bed0742c11b5af55a1ffd6f4.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 538035,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/525fae3249b3761efd44d8facee35d58.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 501893,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/5350261286520baf1af097d83d344e1e.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 231612,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/57e6bf3bd3b9575b6fa4847702045bac.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1693084,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/5fd3d54d1a553a30ab90fb4a9bdfa638.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 351733,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/69fe458fb437bc3aa605e04e0d307bcf.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1693084,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/824cdfb80191904b5e5d075577759ed5.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 596904,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/788ed3403c01643bbf81bb7c37ab5a1b.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1272768,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/78f2a7e3913d5c9ec0b9f32cfe247a16.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1693084,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/8165428b13356d58cae374c759058f2c.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1693084,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/8bb2ee5cfe4ffa24d6ad8cd8b3ee26c1.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 439474,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/9f274c783882fa94a513532ae90c1e4f.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 363212,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/9e9ab60f89152511d5771c53cb7f5eef.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1019039,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/b58e3e9f90f13cb51fd1a623ad7c723a.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 852773,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/c4237a5aa09b61201dd251bb1a12535a.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 430808,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/bb004928586efa9f69ff03a66cee68f7.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1693084,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/c4436ae257f7a9f96144dc70168ff89d.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 378975,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/bc77540e4a75dadc74c4338b44c8f381.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1272768,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20260114/EC9E84EC97B0EC8898_1.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 45294,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/e42220519e8350064a63e1c166295559.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 295304,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/ea43fee40f99c858241daaa277e79125.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1272768,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/def9195f843fffcbb75af0b5d166ae9a.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1272768,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20251023/ec0f588408c34d3216c8d2805c5ed9f3.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1272768,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20260114/EC9E84EC97B0EC8898_12.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 440291,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20260114/EC9E84EC97B0EC8898_11.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 736362,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20260114/EC9E84EC97B0EC8898_13.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 584288,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20260114/EC9E84EC97B0EC8898_14.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 916428,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20260114/EC9E84EC97B0EC8898_10.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 539621,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20260114/EC9E84EC97B0EC8898_17.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 84468,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20260114/EC9E84EC97B0EC8898_16.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 277226,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20260114/EC9E84EC97B0EC8898_18.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 350736,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20260114/EC9E84EC97B0EC8898_15.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 354670,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20260114/EC9E84EC97B0EC8898_19.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1749569,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20260114/EC9E84EC97B0EC8898_2.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 36315,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20260114/EC9E84EC97B0EC8898_3.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 47009,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20260114/EC9E84EC97B0EC8898_4.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 385199,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20260114/EC9E84EC97B0EC8898_5.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 813061,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20260114/EC9E84EC97B0EC8898_6.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 789199,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20260114/EC9E84EC97B0EC8898_7.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 842887,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20260114/EC9E84EC97B0EC8898_9.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 311067,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20260114/EC9E84EC97B0EC8898_8.png",
+      "kind": "image",
+      "status": 200,
+      "bytes": 320909,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/NNEditor/20260120/EB8C80EC9E84EC97B0EC889820EC8381EC84B8ED8E98EC9DB4ECA780.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1060703,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/chung_03.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1282268,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/chung_02.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1398299,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/chung_04.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1193202,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/chung_05.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1198582,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/info01.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 48647,
+      "attempt": 1
+    },
+    {
+      "url": "https://vitamin25.co.kr/web/upload/gamagi_04.jpg",
+      "kind": "image",
+      "status": 200,
+      "bytes": 1189246,
+      "attempt": 1
+    }
+  ],
+  "excludedDecorativeImages": [
+    {
+      "src": "https://static.naver.com/kitchen/090924/h_info.gif",
+      "reason": "Legacy non-product Naver recipe heading; source TLS hostname mismatch, validation kept enabled"
+    },
+    {
+      "src": "https://static.naver.com/kitchen/090924/h_info2.gif",
+      "reason": "Legacy non-product Naver recipe heading; source TLS hostname mismatch, validation kept enabled"
+    }
+  ],
+  "optionProductCount": 11,
+  "optionChoiceCount": 34,
+  "altText": "Source image pixels unchanged; misleading source alt retained as sourceAlt, final alt uses the exact product name and descriptive image order."
+}

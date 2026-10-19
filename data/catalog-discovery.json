@@ -1,0 +1,2816 @@
+{
+  "source": "https://vitamin25.co.kr/",
+  "sourceCheckedAt": "2026-10-20T01:12:19+09:00",
+  "categories": [
+    {
+      "id": 4,
+      "name": "꽁치과메기",
+      "url": "https://vitamin25.co.kr/category/%EA%BD%81%EC%B9%98%EA%B3%BC%EB%A9%94%EA%B8%B0/4/",
+      "parentId": 1,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 7,
+      "name": "오징어",
+      "url": "https://vitamin25.co.kr/category/%EC%98%A4%EC%A7%95%EC%96%B4/7/",
+      "parentId": 1,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 12,
+      "name": "대게",
+      "url": "https://vitamin25.co.kr/category/%EB%8C%80%EA%B2%8C/12/",
+      "parentId": 1,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 24,
+      "name": "건어물",
+      "url": "https://vitamin25.co.kr/category/%EA%B1%B4%EC%96%B4%EB%AC%BC/24/",
+      "parentId": 1,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 26,
+      "name": "가자미",
+      "url": "https://vitamin25.co.kr/category/%EA%B0%80%EC%9E%90%EB%AF%B8/26/",
+      "parentId": 1,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 27,
+      "name": "해산물",
+      "url": "https://vitamin25.co.kr/category/%ED%95%B4%EC%82%B0%EB%AC%BC/27/",
+      "parentId": 1,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 32,
+      "name": "돌문어",
+      "url": "https://vitamin25.co.kr/category/%EB%8F%8C%EB%AC%B8%EC%96%B4/32/",
+      "parentId": 1,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 33,
+      "name": "과메기+야채세트",
+      "url": "https://vitamin25.co.kr/category/%EA%B3%BC%EB%A9%94%EA%B8%B0%EC%95%BC%EC%B1%84%EC%84%B8%ED%8A%B8/33/",
+      "parentId": 4,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 34,
+      "name": "완전손질과메기",
+      "url": "https://vitamin25.co.kr/category/%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B0/34/",
+      "parentId": 4,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 35,
+      "name": "반손질과메기",
+      "url": "https://vitamin25.co.kr/category/%EB%B0%98%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B0/35/",
+      "parentId": 4,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 36,
+      "name": "진공포장과메기",
+      "url": "https://vitamin25.co.kr/category/%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5%EA%B3%BC%EB%A9%94%EA%B8%B0/36/",
+      "parentId": 4,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 37,
+      "name": "통과메기",
+      "url": "https://vitamin25.co.kr/category/%ED%86%B5%EA%B3%BC%EB%A9%94%EA%B8%B0/37/",
+      "parentId": 4,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 38,
+      "name": "청어과메기",
+      "url": "https://vitamin25.co.kr/category/%EC%B2%AD%EC%96%B4%EA%B3%BC%EB%A9%94%EA%B8%B0/38/",
+      "parentId": 1,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 42,
+      "name": "★비타민 신상품★",
+      "url": "https://vitamin25.co.kr/category/%EB%B9%84%ED%83%80%EB%AF%BC-%EC%8B%A0%EC%83%81%ED%92%88/42/",
+      "parentId": 1,
+      "visibleInHomeMenu": true
+    },
+    {
+      "id": 53,
+      "name": "BEST",
+      "url": "https://vitamin25.co.kr/category/best/53/",
+      "parentId": 1,
+      "visibleInHomeMenu": true
+    }
+  ],
+  "excludedApiCategories": [
+    {
+      "id": 14,
+      "name": "샘플 공동구매",
+      "parentId": 2,
+      "reason": "Not linked from the public homepage menu or its category descendants"
+    },
+    {
+      "id": 40,
+      "name": "샘플 기획전",
+      "parentId": 3,
+      "reason": "Not linked from the public homepage menu or its category descendants"
+    },
+    {
+      "id": 13,
+      "name": "샘플 기획전",
+      "parentId": 40,
+      "reason": "Not linked from the public homepage menu or its category descendants"
+    }
+  ],
+  "categoryAudits": [
+    {
+      "id": 4,
+      "name": "꽁치과메기",
+      "url": "https://vitamin25.co.kr/category/%EA%BD%81%EC%B9%98%EA%B3%BC%EB%A9%94%EA%B8%B0/4/",
+      "advertisedCount": 28,
+      "discoveredCount": 28,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=4&page=1",
+          "productIds": [
+            112,
+            10,
+            108,
+            1,
+            11,
+            133,
+            134,
+            135,
+            12,
+            109,
+            20,
+            17,
+            18,
+            19,
+            15,
+            16,
+            13,
+            14,
+            49,
+            83
+          ],
+          "count": 20,
+          "advertisedCount": 28,
+          "paginationPages": [
+            1,
+            2
+          ],
+          "usedNormalListing": true
+        },
+        {
+          "page": 2,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=4&page=2",
+          "productIds": [
+            136,
+            27,
+            28,
+            30,
+            29,
+            21,
+            129,
+            121
+          ],
+          "count": 8,
+          "advertisedCount": 28,
+          "paginationPages": [
+            1,
+            2
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "오징어",
+      "url": "https://vitamin25.co.kr/category/%EC%98%A4%EC%A7%95%EC%96%B4/7/",
+      "advertisedCount": 9,
+      "discoveredCount": 9,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=7&page=1",
+          "productIds": [
+            73,
+            72,
+            26,
+            60,
+            2,
+            22,
+            23,
+            153,
+            152
+          ],
+          "count": 9,
+          "advertisedCount": 9,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "대게",
+      "url": "https://vitamin25.co.kr/category/%EB%8C%80%EA%B2%8C/12/",
+      "advertisedCount": 5,
+      "discoveredCount": 5,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=12&page=1",
+          "productIds": [
+            74,
+            32,
+            181,
+            149,
+            3
+          ],
+          "count": 5,
+          "advertisedCount": 5,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "건어물",
+      "url": "https://vitamin25.co.kr/category/%EA%B1%B4%EC%96%B4%EB%AC%BC/24/",
+      "advertisedCount": 40,
+      "discoveredCount": 40,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=24&page=1",
+          "productIds": [
+            75,
+            76,
+            78,
+            89,
+            56,
+            55,
+            54,
+            53,
+            30,
+            29,
+            28,
+            27,
+            197,
+            191,
+            190,
+            189,
+            185,
+            184,
+            183,
+            182
+          ],
+          "count": 20,
+          "advertisedCount": 40,
+          "paginationPages": [
+            1,
+            2
+          ],
+          "usedNormalListing": true
+        },
+        {
+          "page": 2,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=24&page=2",
+          "productIds": [
+            178,
+            177,
+            176,
+            175,
+            163,
+            162,
+            161,
+            160,
+            159,
+            158,
+            157,
+            156,
+            151,
+            150,
+            139,
+            138,
+            137,
+            129,
+            128,
+            126
+          ],
+          "count": 20,
+          "advertisedCount": 40,
+          "paginationPages": [
+            1,
+            2
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "가자미",
+      "url": "https://vitamin25.co.kr/category/%EA%B0%80%EC%9E%90%EB%AF%B8/26/",
+      "advertisedCount": 5,
+      "discoveredCount": 5,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=26&page=1",
+          "productIds": [
+            77,
+            47,
+            48,
+            46,
+            179
+          ],
+          "count": 5,
+          "advertisedCount": 5,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "해산물",
+      "url": "https://vitamin25.co.kr/category/%ED%95%B4%EC%82%B0%EB%AC%BC/27/",
+      "advertisedCount": 8,
+      "discoveredCount": 8,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=27&page=1",
+          "productIds": [
+            85,
+            52,
+            51,
+            50,
+            196,
+            195,
+            193,
+            174
+          ],
+          "count": 8,
+          "advertisedCount": 8,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "돌문어",
+      "url": "https://vitamin25.co.kr/category/%EB%8F%8C%EB%AC%B8%EC%96%B4/32/",
+      "advertisedCount": 10,
+      "discoveredCount": 10,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=32&page=1",
+          "productIds": [
+            50,
+            84,
+            79,
+            91,
+            80,
+            92,
+            81,
+            93,
+            82,
+            64
+          ],
+          "count": 10,
+          "advertisedCount": 10,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "과메기+야채세트",
+      "url": "https://vitamin25.co.kr/category/%EA%B3%BC%EB%A9%94%EA%B8%B0%EC%95%BC%EC%B1%84%EC%84%B8%ED%8A%B8/33/",
+      "advertisedCount": 7,
+      "discoveredCount": 7,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=33&page=1",
+          "productIds": [
+            10,
+            1,
+            11,
+            12,
+            135,
+            134,
+            133
+          ],
+          "count": 7,
+          "advertisedCount": 7,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "완전손질과메기",
+      "url": "https://vitamin25.co.kr/category/%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B0/34/",
+      "advertisedCount": 2,
+      "discoveredCount": 2,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=34&page=1",
+          "productIds": [
+            18,
+            17
+          ],
+          "count": 2,
+          "advertisedCount": 2,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "반손질과메기",
+      "url": "https://vitamin25.co.kr/category/%EB%B0%98%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B0/35/",
+      "advertisedCount": 3,
+      "discoveredCount": 3,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=35&page=1",
+          "productIds": [
+            107,
+            20,
+            19
+          ],
+          "count": 3,
+          "advertisedCount": 3,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "진공포장과메기",
+      "url": "https://vitamin25.co.kr/category/%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5%EA%B3%BC%EB%A9%94%EA%B8%B0/36/",
+      "advertisedCount": 5,
+      "discoveredCount": 5,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=36&page=1",
+          "productIds": [
+            13,
+            14,
+            49,
+            15,
+            16
+          ],
+          "count": 5,
+          "advertisedCount": 5,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "통과메기",
+      "url": "https://vitamin25.co.kr/category/%ED%86%B5%EA%B3%BC%EB%A9%94%EA%B8%B0/37/",
+      "advertisedCount": 1,
+      "discoveredCount": 1,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=37&page=1",
+          "productIds": [
+            21
+          ],
+          "count": 1,
+          "advertisedCount": 1,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "청어과메기",
+      "url": "https://vitamin25.co.kr/category/%EC%B2%AD%EC%96%B4%EA%B3%BC%EB%A9%94%EA%B8%B0/38/",
+      "advertisedCount": 19,
+      "discoveredCount": 19,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=38&page=1",
+          "productIds": [
+            125,
+            95,
+            111,
+            94,
+            96,
+            123,
+            122,
+            124,
+            97,
+            98,
+            100,
+            99,
+            102,
+            101,
+            105,
+            104,
+            103,
+            106,
+            121
+          ],
+          "count": 19,
+          "advertisedCount": 19,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "★비타민 신상품★",
+      "url": "https://vitamin25.co.kr/category/%EB%B9%84%ED%83%80%EB%AF%BC-%EC%8B%A0%EC%83%81%ED%92%88/42/",
+      "advertisedCount": 2,
+      "discoveredCount": 2,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=42&page=1",
+          "productIds": [
+            145,
+            146
+          ],
+          "count": 2,
+          "advertisedCount": 2,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "BEST",
+      "url": "https://vitamin25.co.kr/category/best/53/",
+      "advertisedCount": 11,
+      "discoveredCount": 11,
+      "countMatches": true,
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://vitamin25.co.kr/product/list.html?cate_no=53&page=1",
+          "productIds": [
+            191,
+            179,
+            159,
+            157,
+            156,
+            146,
+            129,
+            91,
+            82,
+            29,
+            26
+          ],
+          "count": 11,
+          "advertisedCount": 11,
+          "paginationPages": [
+            1
+          ],
+          "usedNormalListing": true
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "(대) (6~7인분) 완전손질과메기20마리(40쪽)+야채풀세트",
+      "url": "https://vitamin25.co.kr/product/%EB%8C%80-67%EC%9D%B8%EB%B6%84-%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B020%EB%A7%88%EB%A6%AC40%EC%AA%BD%EC%95%BC%EC%B1%84%ED%92%80%EC%84%B8%ED%8A%B8/1/category/33/display/1/",
+      "priceText": "55,000원",
+      "price": 55000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202110/8152614c86107d8b2a857d668734e0cd.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "55,000원"
+      },
+      "categoryIds": [
+        4,
+        33
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 2,
+      "name": "피데기(반건조오징어)10마리 = 1.7~1.9kg",
+      "url": "https://vitamin25.co.kr/product/%ED%94%BC%EB%8D%B0%EA%B8%B0%EB%B0%98%EA%B1%B4%EC%A1%B0%EC%98%A4%EC%A7%95%EC%96%B410%EB%A7%88%EB%A6%AC-1719kg/2/category/7/display/1/",
+      "priceText": "70,000원",
+      "price": 70000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_2.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "70,000원"
+      },
+      "categoryIds": [
+        7
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 3,
+      "name": "박달대게 11~13cm (90%이상)/1마리",
+      "url": "https://vitamin25.co.kr/product/%EB%B0%95%EB%8B%AC%EB%8C%80%EA%B2%8C-1113cm-90%EC%9D%B4%EC%83%811%EB%A7%88%EB%A6%AC/3/category/12/display/1/",
+      "priceText": "준비중",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/202201/ac1465f36d3cfc4dc4f96b3c5d972125.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "준비중"
+      },
+      "categoryIds": [
+        12
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 10,
+      "name": "(중) (2~3인분) 완전손질과메기10마리(20쪽)+야채풀세트",
+      "url": "https://vitamin25.co.kr/product/%EC%A4%91-23%EC%9D%B8%EB%B6%84-%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B010%EB%A7%88%EB%A6%AC20%EC%AA%BD%EC%95%BC%EC%B1%84%ED%92%80%EC%84%B8%ED%8A%B8/10/category/33/display/1/",
+      "priceText": "35,000원",
+      "price": 35000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202110/eb8a877cd64c495dfa6eeb47b6899bad.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "35,000원"
+      },
+      "categoryIds": [
+        4,
+        33
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 11,
+      "name": "(특대) (9~10인분) 완전손질과메기30마리(60쪽)+야채풀세트",
+      "url": "https://vitamin25.co.kr/product/%ED%8A%B9%EB%8C%80-910%EC%9D%B8%EB%B6%84-%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B030%EB%A7%88%EB%A6%AC60%EC%AA%BD%EC%95%BC%EC%B1%84%ED%92%80%EC%84%B8%ED%8A%B8/11/category/33/display/1/",
+      "priceText": "70,000원",
+      "price": 70000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202110/f2021cc2cc3d0bed10798ecdd31c899d.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "70,000원"
+      },
+      "categoryIds": [
+        4,
+        33
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 12,
+      "name": "(행사 셋트)완전손질과메기+야채풀세트-20마리(40쪽)+백고동270g",
+      "url": "https://vitamin25.co.kr/product/%ED%96%89%EC%82%AC-%EC%85%8B%ED%8A%B8%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B0%EC%95%BC%EC%B1%84%ED%92%80%EC%84%B8%ED%8A%B8-20%EB%A7%88%EB%A6%AC40%EC%AA%BD%EB%B0%B1%EA%B3%A0%EB%8F%99270g/12/category/33/display/1/",
+      "priceText": "73,000원",
+      "price": 73000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_12.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "73,000원"
+      },
+      "categoryIds": [
+        4,
+        33
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 13,
+      "name": "완전손질+진공포장*껍질벗긴것-10마리(20쪽)",
+      "url": "https://vitamin25.co.kr/product/%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B4%EA%B2%83-10%EB%A7%88%EB%A6%AC20%EC%AA%BD/13/category/4/display/1/",
+      "priceText": "22,000원",
+      "price": 22000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_13.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "22,000원"
+      },
+      "categoryIds": [
+        4,
+        36
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 14,
+      "name": "완전손질+진공포장*껍질벗긴것(10마리*2팩)-20마리(40쪽)",
+      "url": "https://vitamin25.co.kr/product/%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B4%EA%B2%8310%EB%A7%88%EB%A6%AC2%ED%8C%A9-20%EB%A7%88%EB%A6%AC40%EC%AA%BD/14/category/4/display/1/",
+      "priceText": "36,000원",
+      "price": 36000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_14.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "36,000원"
+      },
+      "categoryIds": [
+        4,
+        36
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 15,
+      "name": "반손질+진공포장*껍질벗기지않은것-10마리(20쪽)",
+      "url": "https://vitamin25.co.kr/product/%EB%B0%98%EC%86%90%EC%A7%88%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B0%EC%A7%80%EC%95%8A%EC%9D%80%EA%B2%83-10%EB%A7%88%EB%A6%AC20%EC%AA%BD/15/category/4/display/1/",
+      "priceText": "21,000원",
+      "price": 21000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_15.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "21,000원"
+      },
+      "categoryIds": [
+        4,
+        36
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 16,
+      "name": "반손질+진공포장*껍질벗기지않은것(10마리*2팩)-20마리(40쪽)",
+      "url": "https://vitamin25.co.kr/product/%EB%B0%98%EC%86%90%EC%A7%88%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B0%EC%A7%80%EC%95%8A%EC%9D%80%EA%B2%8310%EB%A7%88%EB%A6%AC2%ED%8C%A9-20%EB%A7%88%EB%A6%AC40%EC%AA%BD/16/category/4/display/1/",
+      "priceText": "33,000원",
+      "price": 33000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_16.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "33,000원"
+      },
+      "categoryIds": [
+        4,
+        36
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 17,
+      "name": "완전손질+위생도시락*껍질벗긴것-10마리(20쪽)",
+      "url": "https://vitamin25.co.kr/product/%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EC%9C%84%EC%83%9D%EB%8F%84%EC%8B%9C%EB%9D%BD%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B4%EA%B2%83-10%EB%A7%88%EB%A6%AC20%EC%AA%BD/17/category/4/display/1/",
+      "priceText": "20,000원",
+      "price": 20000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_17.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "20,000원"
+      },
+      "categoryIds": [
+        4,
+        34
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 18,
+      "name": "완전손질+위생도시락*껍질벗긴것-20마리(40쪽)",
+      "url": "https://vitamin25.co.kr/product/%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EC%9C%84%EC%83%9D%EB%8F%84%EC%8B%9C%EB%9D%BD%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B4%EA%B2%83-20%EB%A7%88%EB%A6%AC40%EC%AA%BD/18/category/4/display/1/",
+      "priceText": "34,000원",
+      "price": 34000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_18.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "34,000원"
+      },
+      "categoryIds": [
+        4,
+        34
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 19,
+      "name": "*업소용 과메기*반손질+위생지*껍질벗기지않은것-20마리(40쪽)*10드름",
+      "url": "https://vitamin25.co.kr/product/%EC%97%85%EC%86%8C%EC%9A%A9-%EA%B3%BC%EB%A9%94%EA%B8%B0%EB%B0%98%EC%86%90%EC%A7%88%EC%9C%84%EC%83%9D%EC%A7%80%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B0%EC%A7%80%EC%95%8A%EC%9D%80%EA%B2%83-20%EB%A7%88%EB%A6%AC40%EC%AA%BD10%EB%93%9C%EB%A6%84/19/category/4/display/1/",
+      "priceText": "290,000원",
+      "price": 290000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_19.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "290,000원"
+      },
+      "categoryIds": [
+        4,
+        35
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 20,
+      "name": "반손질+위생지*껍질벗기지않은것-20마리(40쪽)",
+      "url": "https://vitamin25.co.kr/product/%EB%B0%98%EC%86%90%EC%A7%88%EC%9C%84%EC%83%9D%EC%A7%80%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B0%EC%A7%80%EC%95%8A%EC%9D%80%EA%B2%83-20%EB%A7%88%EB%A6%AC40%EC%AA%BD/20/category/4/display/1/",
+      "priceText": "32,000원",
+      "price": 32000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_20.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "32,000원"
+      },
+      "categoryIds": [
+        4,
+        35
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 21,
+      "name": "통마리 역거리 20마리(40쪽)",
+      "url": "https://vitamin25.co.kr/product/%ED%86%B5%EB%A7%88%EB%A6%AC-%EC%97%AD%EA%B1%B0%EB%A6%AC-20%EB%A7%88%EB%A6%AC40%EC%AA%BD/21/category/4/display/1/",
+      "priceText": "품절",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_21.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "품절"
+      },
+      "categoryIds": [
+        4,
+        37
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 22,
+      "name": "피데기(반건조오징어)20마리 = 3.3~3.6kg이상",
+      "url": "https://vitamin25.co.kr/product/%ED%94%BC%EB%8D%B0%EA%B8%B0%EB%B0%98%EA%B1%B4%EC%A1%B0%EC%98%A4%EC%A7%95%EC%96%B420%EB%A7%88%EB%A6%AC-3336kg%EC%9D%B4%EC%83%81/22/category/7/display/1/",
+      "priceText": "120,000원",
+      "price": 120000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_22.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "120,000원"
+      },
+      "categoryIds": [
+        7
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 23,
+      "name": "피데기(반건조오징어)20마리 = 2.8~3.1kg이상",
+      "url": "https://vitamin25.co.kr/product/%ED%94%BC%EB%8D%B0%EA%B8%B0%EB%B0%98%EA%B1%B4%EC%A1%B0%EC%98%A4%EC%A7%95%EC%96%B420%EB%A7%88%EB%A6%AC-2831kg%EC%9D%B4%EC%83%81/23/category/7/display/1/",
+      "priceText": "135,000원",
+      "price": 135000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_23.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "135,000원"
+      },
+      "categoryIds": [
+        7
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 26,
+      "name": "건조오징어 20마리 = 2kg이상",
+      "url": "https://vitamin25.co.kr/product/%EA%B1%B4%EC%A1%B0%EC%98%A4%EC%A7%95%EC%96%B4-20%EB%A7%88%EB%A6%AC-2kg%EC%9D%B4%EC%83%81/26/category/7/display/1/",
+      "priceText": "162,000원",
+      "price": 162000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_26.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "162,000원"
+      },
+      "categoryIds": [
+        7,
+        53
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 27,
+      "name": "비타민 비법 수제 초장 310~330g",
+      "url": "https://vitamin25.co.kr/product/%EB%B9%84%ED%83%80%EB%AF%BC-%EB%B9%84%EB%B2%95-%EC%88%98%EC%A0%9C-%EC%B4%88%EC%9E%A5-310330g/27/category/24/display/1/",
+      "priceText": "4,000원",
+      "price": 4000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_27.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "4,000원"
+      },
+      "categoryIds": [
+        4,
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 28,
+      "name": "비타민 비법 수제 초장 520~550g",
+      "url": "https://vitamin25.co.kr/product/%EB%B9%84%ED%83%80%EB%AF%BC-%EB%B9%84%EB%B2%95-%EC%88%98%EC%A0%9C-%EC%B4%88%EC%9E%A5-520550g/28/category/24/display/1/",
+      "priceText": "6,000원",
+      "price": 6000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_28.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "6,000원"
+      },
+      "categoryIds": [
+        4,
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 29,
+      "name": "과메기용 파래김(김밥용 김)-1속(100장)",
+      "url": "https://vitamin25.co.kr/product/%EA%B3%BC%EB%A9%94%EA%B8%B0%EC%9A%A9-%ED%8C%8C%EB%9E%98%EA%B9%80%EA%B9%80%EB%B0%A5%EC%9A%A9-%EA%B9%80-1%EC%86%8D100%EC%9E%A5/29/category/24/display/1/",
+      "priceText": "16,900원",
+      "price": 16900,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_29.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "16,900원"
+      },
+      "categoryIds": [
+        4,
+        24,
+        53
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 30,
+      "name": "자연산 돌물미역 1kg",
+      "url": "https://vitamin25.co.kr/product/%EC%9E%90%EC%97%B0%EC%82%B0-%EB%8F%8C%EB%AC%BC%EB%AF%B8%EC%97%AD-1kg/30/category/24/display/1/",
+      "priceText": "품절",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_30.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "품절"
+      },
+      "categoryIds": [
+        4,
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 32,
+      "name": "알찬홍게 (80%이상) 10~11cm/5마리,10마리",
+      "url": "https://vitamin25.co.kr/product/%EC%95%8C%EC%B0%AC%ED%99%8D%EA%B2%8C-80%EC%9D%B4%EC%83%81-1011cm5%EB%A7%88%EB%A6%AC10%EB%A7%88%EB%A6%AC/32/category/12/display/1/",
+      "priceText": "75,000원",
+      "price": 75000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202201/9822df30698cf24ccdcc47198053ae85.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "75,000원"
+      },
+      "categoryIds": [
+        12
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 46,
+      "name": "동해 참가자미 2마리(머리손질 후 350g내외)",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4-%EC%B0%B8%EA%B0%80%EC%9E%90%EB%AF%B8-2%EB%A7%88%EB%A6%AC%EB%A8%B8%EB%A6%AC%EC%86%90%EC%A7%88-%ED%9B%84-350g%EB%82%B4%EC%99%B8/46/category/26/display/1/",
+      "priceText": "8,500원",
+      "price": 8500,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_46.jpg",
+      "summary": "가자미는 동해청정해역에서 당일 어획한 싱싱한 가자미를 선별하여 깨끗하게 정수한 해수로 씻고 청결하고 오염되지 않은 깨끗한 해풍과 햇볕으로 건조한 최상품의 가자미입니다.",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "8,500원",
+        "상품간략설명": "가자미는 동해청정해역에서 당일 어획한 싱싱한 가자미를 선별하여 깨끗하게 정수한 해수로 씻고 청결하고 오염되지 않은 깨끗한 해풍과 햇볕으로 건조한 최상품의 가자미입니다."
+      },
+      "categoryIds": [
+        26
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 47,
+      "name": "반건조 물가자미 300g~320g(미주구리5미,중)찜,구이용",
+      "url": "https://vitamin25.co.kr/product/%EB%B0%98%EA%B1%B4%EC%A1%B0-%EB%AC%BC%EA%B0%80%EC%9E%90%EB%AF%B8-300g320g%EB%AF%B8%EC%A3%BC%EA%B5%AC%EB%A6%AC5%EB%AF%B8%EC%A4%91%EC%B0%9C%EA%B5%AC%EC%9D%B4%EC%9A%A9/47/category/26/display/1/",
+      "priceText": "품절",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_47.jpg",
+      "summary": "비타민 가자미는 동해청정해역에서 당일 어획한 싱싱한 가자미를 선별하여 깨끗하게 정수한 해수로 씻고 청결하고 오염되지 않은 깨끗한 해풍과 햇볕으로 건조한 최상품의 가자미입니다.",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "품절",
+        "상품간략설명": "비타민 가자미는 동해청정해역에서 당일 어획한 싱싱한 가자미를 선별하여 깨끗하게 정수한 해수로 씻고 청결하고 오염되지 않은 깨끗한 해풍과 햇볕으로 건조한 최상품의 가자미입니다."
+      },
+      "categoryIds": [
+        26
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 48,
+      "name": "참가자미(450g 내외) 중미 2마리",
+      "url": "https://vitamin25.co.kr/product/%EC%B0%B8%EA%B0%80%EC%9E%90%EB%AF%B8450g-%EB%82%B4%EC%99%B8-%EC%A4%91%EB%AF%B8-2%EB%A7%88%EB%A6%AC/48/category/26/display/1/",
+      "priceText": "8,900원",
+      "price": 8900,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_48.jpg",
+      "summary": "비타민 가자미는 동해청정해역에서 당일 어획한 싱싱한 가자미를 선별하여 깨끗하게 정수한 해수로 씻고 청결하고 오염되지 않은 깨끗한 해풍과 햇볕으로 건조한 최상품의 가자미입니다.",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "8,900원",
+        "상품간략설명": "비타민 가자미는 동해청정해역에서 당일 어획한 싱싱한 가자미를 선별하여 깨끗하게 정수한 해수로 씻고 청결하고 오염되지 않은 깨끗한 해풍과 햇볕으로 건조한 최상품의 가자미입니다."
+      },
+      "categoryIds": [
+        26
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 49,
+      "name": "완전손질+진공포장*껍질벗긴것-5마리(10쪽)*4팩-20마리(40쪽)",
+      "url": "https://vitamin25.co.kr/product/%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B4%EA%B2%83-5%EB%A7%88%EB%A6%AC10%EC%AA%BD4%ED%8C%A9-20%EB%A7%88%EB%A6%AC40%EC%AA%BD/49/category/4/display/1/",
+      "priceText": "38,000원",
+      "price": 38000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_49.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "38,000원"
+      },
+      "categoryIds": [
+        4,
+        36
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 50,
+      "name": "동해산 황고동(삶은고동)300g*삶아서 알맹이만 추려 드시기좋게 포장하였습니다*",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4%EC%82%B0-%ED%99%A9%EA%B3%A0%EB%8F%99%EC%82%B6%EC%9D%80%EA%B3%A0%EB%8F%99300g%EC%82%B6%EC%95%84%EC%84%9C-%EC%95%8C%EB%A7%B9%EC%9D%B4%EB%A7%8C-%EC%B6%94%EB%A0%A4-%EB%93%9C%EC%8B%9C%EA%B8%B0%EC%A2%8B%EA%B2%8C-%ED%8F%AC%EC%9E%A5%ED%95%98%EC%98%80%EC%8A%B5%EB%8B%88%EB%8B%A4/50/category/32/display/1/",
+      "priceText": "23,000원",
+      "price": 23000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_50.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "23,000원"
+      },
+      "categoryIds": [
+        27,
+        32
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 51,
+      "name": "멍게 1kg~동해바다에서 다이버가 직접 잡아요~",
+      "url": "https://vitamin25.co.kr/product/%EB%A9%8D%EA%B2%8C-1kg%EB%8F%99%ED%95%B4%EB%B0%94%EB%8B%A4%EC%97%90%EC%84%9C-%EB%8B%A4%EC%9D%B4%EB%B2%84%EA%B0%80-%EC%A7%81%EC%A0%91-%EC%9E%A1%EC%95%84%EC%9A%94/51/category/27/display/1/",
+      "priceText": "품절",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_51.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "품절"
+      },
+      "categoryIds": [
+        27
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 52,
+      "name": "전복 1kg",
+      "url": "https://vitamin25.co.kr/product/%EC%A0%84%EB%B3%B5-1kg/52/category/27/display/1/",
+      "priceText": "전화주문",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_52.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "전화주문"
+      },
+      "categoryIds": [
+        27
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 53,
+      "name": "마른멸치 다시(대)1.5kg이상-육수용",
+      "url": "https://vitamin25.co.kr/product/%EB%A7%88%EB%A5%B8%EB%A9%B8%EC%B9%98-%EB%8B%A4%EC%8B%9C%EB%8C%8015kg%EC%9D%B4%EC%83%81-%EC%9C%A1%EC%88%98%EC%9A%A9/53/category/24/display/1/",
+      "priceText": "25,000원",
+      "price": 25000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_53.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "25,000원"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 54,
+      "name": "마른멸치 고바(중)1.5kg이상-찍어먹는 멸치",
+      "url": "https://vitamin25.co.kr/product/%EB%A7%88%EB%A5%B8%EB%A9%B8%EC%B9%98-%EA%B3%A0%EB%B0%94%EC%A4%9115kg%EC%9D%B4%EC%83%81-%EC%B0%8D%EC%96%B4%EB%A8%B9%EB%8A%94-%EB%A9%B8%EC%B9%98/54/category/24/display/1/",
+      "priceText": "35,000원",
+      "price": 35000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_54.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "35,000원"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 55,
+      "name": "마른멸치 지리(소)1.5kg이상-잔멸치,반찬용",
+      "url": "https://vitamin25.co.kr/product/%EB%A7%88%EB%A5%B8%EB%A9%B8%EC%B9%98-%EC%A7%80%EB%A6%AC%EC%86%8C15kg%EC%9D%B4%EC%83%81-%EC%9E%94%EB%A9%B8%EC%B9%98%EB%B0%98%EC%B0%AC%EC%9A%A9/55/category/24/display/1/",
+      "priceText": "40,000원",
+      "price": 40000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_55.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "40,000원"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 56,
+      "name": "동해 자연산 미역귀(200g)",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4-%EC%9E%90%EC%97%B0%EC%82%B0-%EB%AF%B8%EC%97%AD%EA%B7%80200g/56/category/24/display/1/",
+      "priceText": "7,500원",
+      "price": 7500,
+      "image": "https://vitamin25.co.kr/web/product/medium/202310/28f96b57d4fae4a03aba4ca54835b32b.jpeg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "7,500원"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 60,
+      "name": "피데기(반건조오징어)10마리 = 1.4~1.5kg",
+      "url": "https://vitamin25.co.kr/product/%ED%94%BC%EB%8D%B0%EA%B8%B0%EB%B0%98%EA%B1%B4%EC%A1%B0%EC%98%A4%EC%A7%95%EC%96%B410%EB%A7%88%EB%A6%AC-1415kg/60/category/7/display/1/",
+      "priceText": "62,000원",
+      "price": 62000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_60.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "62,000원"
+      },
+      "categoryIds": [
+        7
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 64,
+      "name": "동해 호미곶 참돌문어 활어 10kg~ 1마리*이바지,단체 회식 모임용* ~삶아서보내드려요~",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4-%ED%98%B8%EB%AF%B8%EA%B3%B6-%EC%B0%B8%EB%8F%8C%EB%AC%B8%EC%96%B4-%ED%99%9C%EC%96%B410kg-1%EB%A7%88%EB%A6%AC%EC%9D%B4%EB%B0%94%EC%A7%80%EB%8B%A8%EC%B2%B4-%ED%9A%8C%EC%8B%9D-%EB%AA%A8%EC%9E%84%EC%9A%A9-%EC%82%B6%EC%95%84%EC%84%9C%EB%B3%B4%EB%82%B4%EB%93%9C%EB%A0%A4%EC%9A%94/64/category/32/display/1/",
+      "priceText": "전화문의",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_64.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "전화문의"
+      },
+      "categoryIds": [
+        32
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 72,
+      "name": "건조오징어 20마리 = 1.7kg이상",
+      "url": "https://vitamin25.co.kr/product/%EA%B1%B4%EC%A1%B0%EC%98%A4%EC%A7%95%EC%96%B4-20%EB%A7%88%EB%A6%AC-17kg%EC%9D%B4%EC%83%81/72/category/7/display/1/",
+      "priceText": "136,000원",
+      "price": 136000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_72.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "136,000원"
+      },
+      "categoryIds": [
+        7
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 73,
+      "name": "건조오징어 20마리 = 1.5kg이상",
+      "url": "https://vitamin25.co.kr/product/%EA%B1%B4%EC%A1%B0%EC%98%A4%EC%A7%95%EC%96%B4-20%EB%A7%88%EB%A6%AC-15kg%EC%9D%B4%EC%83%81/73/category/7/display/1/",
+      "priceText": "112,000원",
+      "price": 112000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_73.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "112,000원"
+      },
+      "categoryIds": [
+        7
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 74,
+      "name": "알찬대게(80%이상) 10~12cm 5마리/10마리",
+      "url": "https://vitamin25.co.kr/product/%EC%95%8C%EC%B0%AC%EB%8C%80%EA%B2%8C80%EC%9D%B4%EC%83%81-1012cm-5%EB%A7%88%EB%A6%AC10%EB%A7%88%EB%A6%AC/74/category/12/display/1/",
+      "priceText": "130,000원",
+      "price": 130000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_74.jpg",
+      "summary": "알찬대게(80%이상) 10~12cm",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "130,000원",
+        "상품간략설명": "알찬대게(80%이상) 10~12cm"
+      },
+      "categoryIds": [
+        12
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 75,
+      "name": "두절 도루묵 500g이상(찌게,조림용,반찬용)",
+      "url": "https://vitamin25.co.kr/product/%EB%91%90%EC%A0%88-%EB%8F%84%EB%A3%A8%EB%AC%B5-500g%EC%9D%B4%EC%83%81%EC%B0%8C%EA%B2%8C%EC%A1%B0%EB%A6%BC%EC%9A%A9%EB%B0%98%EC%B0%AC%EC%9A%A9/75/category/24/display/1/",
+      "priceText": "20,000원",
+      "price": 20000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202310/0dd2cead6ec31cd168f532d328e80d88.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "20,000원"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 76,
+      "name": "양미리20미 ,찌게용,조림용,반찬용(동해산)",
+      "url": "https://vitamin25.co.kr/product/%EC%96%91%EB%AF%B8%EB%A6%AC20%EB%AF%B8-%EC%B0%8C%EA%B2%8C%EC%9A%A9%EC%A1%B0%EB%A6%BC%EC%9A%A9%EB%B0%98%EC%B0%AC%EC%9A%A9%EB%8F%99%ED%95%B4%EC%82%B0/76/category/24/display/1/",
+      "priceText": "13,000원",
+      "price": 13000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_76.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "13,000원"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 77,
+      "name": "반건조 물가자미(미주구리3미,대~구이,제수용)",
+      "url": "https://vitamin25.co.kr/product/%EB%B0%98%EA%B1%B4%EC%A1%B0-%EB%AC%BC%EA%B0%80%EC%9E%90%EB%AF%B8%EB%AF%B8%EC%A3%BC%EA%B5%AC%EB%A6%AC3%EB%AF%B8%EB%8C%80%EA%B5%AC%EC%9D%B4%EC%A0%9C%EC%88%98%EC%9A%A9/77/category/26/display/1/",
+      "priceText": "12,000원",
+      "price": 12000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_77.jpg",
+      "summary": "비타민 가자미는 동해청정해역에서 당일 어획한 싱싱한 가자미를 선별하여 깨끗하게 정수한 해수로 씻고 청결하고 오염되지 않은 깨끗한 해풍과 햇볕으로 건조한 최상품의 가자미입니다.",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "12,000원",
+        "상품간략설명": "비타민 가자미는 동해청정해역에서 당일 어획한 싱싱한 가자미를 선별하여 깨끗하게 정수한 해수로 씻고 청결하고 오염되지 않은 깨끗한 해풍과 햇볕으로 건조한 최상품의 가자미입니다."
+      },
+      "categoryIds": [
+        26
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 78,
+      "name": "반건조 조미노가리 10미(500g이상) ,술안주,조림용,반찬용",
+      "url": "https://vitamin25.co.kr/product/%EB%B0%98%EA%B1%B4%EC%A1%B0-%EC%A1%B0%EB%AF%B8%EB%85%B8%EA%B0%80%EB%A6%AC-10%EB%AF%B8500g%EC%9D%B4%EC%83%81-%EC%88%A0%EC%95%88%EC%A3%BC%EC%A1%B0%EB%A6%BC%EC%9A%A9%EB%B0%98%EC%B0%AC%EC%9A%A9/78/category/24/display/1/",
+      "priceText": "18,000원",
+      "price": 18000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202310/23c8c4dd58bff9aa0a629cf5200eb6e6.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "18,000원"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 79,
+      "name": "동해 호미곶 참돌문어 활어 1kg~1마리*반찬,안주용* ~삶아서보내드려요~",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4-%ED%98%B8%EB%AF%B8%EA%B3%B6-%EC%B0%B8%EB%8F%8C%EB%AC%B8%EC%96%B4-%ED%99%9C%EC%96%B41kg1%EB%A7%88%EB%A6%AC%EB%B0%98%EC%B0%AC%EC%95%88%EC%A3%BC%EC%9A%A9-%EC%82%B6%EC%95%84%EC%84%9C%EB%B3%B4%EB%82%B4%EB%93%9C%EB%A0%A4%EC%9A%94/79/category/32/display/1/",
+      "priceText": "전화상담",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_79.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "전화상담"
+      },
+      "categoryIds": [
+        32
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 80,
+      "name": "동해 호미곶 참돌문어 활어 3kg~1마리*회식,안주용* ~삶아서보내드려요~",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4-%ED%98%B8%EB%AF%B8%EA%B3%B6-%EC%B0%B8%EB%8F%8C%EB%AC%B8%EC%96%B4-%ED%99%9C%EC%96%B43kg1%EB%A7%88%EB%A6%AC%ED%9A%8C%EC%8B%9D%EC%95%88%EC%A3%BC%EC%9A%A9-%EC%82%B6%EC%95%84%EC%84%9C%EB%B3%B4%EB%82%B4%EB%93%9C%EB%A0%A4%EC%9A%94/80/category/32/display/1/",
+      "priceText": "시세(전화상담)",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_80.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "시세(전화상담)"
+      },
+      "categoryIds": [
+        32
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 81,
+      "name": "동해 호미곶 참돌문어 활어 5kg~1마리*회식,제수용* ~삶아서보내드려요~",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4-%ED%98%B8%EB%AF%B8%EA%B3%B6-%EC%B0%B8%EB%8F%8C%EB%AC%B8%EC%96%B4-%ED%99%9C%EC%96%B45kg1%EB%A7%88%EB%A6%AC%ED%9A%8C%EC%8B%9D%EC%A0%9C%EC%88%98%EC%9A%A9-%EC%82%B6%EC%95%84%EC%84%9C%EB%B3%B4%EB%82%B4%EB%93%9C%EB%A0%A4%EC%9A%94/81/category/32/display/1/",
+      "priceText": "시세-전화문의",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_81.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "시세-전화문의"
+      },
+      "categoryIds": [
+        32
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 82,
+      "name": "동해 호미곶 참돌문어 활어 8kg~1마리* 이바지,제수용* ~삶아서보내드려요~",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4-%ED%98%B8%EB%AF%B8%EA%B3%B6-%EC%B0%B8%EB%8F%8C%EB%AC%B8%EC%96%B4-%ED%99%9C%EC%96%B48kg1%EB%A7%88%EB%A6%AC%EC%9D%B4%EB%B0%94%EC%A7%80%EC%A0%9C%EC%88%98%EC%9A%A9-%EC%82%B6%EC%95%84%EC%84%9C%EB%B3%B4%EB%82%B4%EB%93%9C%EB%A0%A4%EC%9A%94/82/category/32/display/1/",
+      "priceText": "전화문의",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_82.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "전화문의"
+      },
+      "categoryIds": [
+        32,
+        53
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 83,
+      "name": "완전손질+진공포장*껍질벗긴것-5마리*1팩(10쪽)",
+      "url": "https://vitamin25.co.kr/product/%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B4%EA%B2%83-5%EB%A7%88%EB%A6%AC1%ED%8C%A910%EC%AA%BD/83/category/4/display/1/",
+      "priceText": "11,000원",
+      "price": 11000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_83.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "11,000원"
+      },
+      "categoryIds": [
+        4
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 84,
+      "name": "동해호미곶참돌문어절편(삶은문어)310g~330g",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4%ED%98%B8%EB%AF%B8%EA%B3%B6%EC%B0%B8%EB%8F%8C%EB%AC%B8%EC%96%B4%EC%A0%88%ED%8E%B8%EC%82%B6%EC%9D%80%EB%AC%B8%EC%96%B4310g330g/84/category/32/display/1/",
+      "priceText": "25,000원",
+      "price": 25000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_84.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "25,000원"
+      },
+      "categoryIds": [
+        32
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 85,
+      "name": "해삼 1kg~동해에서 다이버가 직접잡아요~",
+      "url": "https://vitamin25.co.kr/product/%ED%95%B4%EC%82%BC-1kg%EB%8F%99%ED%95%B4%EC%97%90%EC%84%9C-%EB%8B%A4%EC%9D%B4%EB%B2%84%EA%B0%80-%EC%A7%81%EC%A0%91%EC%9E%A1%EC%95%84%EC%9A%94/85/category/27/display/1/",
+      "priceText": "품절",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_85.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "품절"
+      },
+      "categoryIds": [
+        27
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 89,
+      "name": "맛있는 명태역거리(대)10마리(3.2kg)",
+      "url": "https://vitamin25.co.kr/product/%EB%A7%9B%EC%9E%88%EB%8A%94-%EB%AA%85%ED%83%9C%EC%97%AD%EA%B1%B0%EB%A6%AC%EB%8C%8010%EB%A7%88%EB%A6%AC32kg/89/category/24/display/1/",
+      "priceText": "22,000원",
+      "price": 22000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_89.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "22,000원"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 91,
+      "name": "동해 호미곶 참돌문어 활어 2kg~1마리*반찬,안주용* ~삶아서보내드려요~",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4-%ED%98%B8%EB%AF%B8%EA%B3%B6-%EC%B0%B8%EB%8F%8C%EB%AC%B8%EC%96%B4-%ED%99%9C%EC%96%B42kg1%EB%A7%88%EB%A6%AC%EB%B0%98%EC%B0%AC%EC%95%88%EC%A3%BC%EC%9A%A9-%EC%82%B6%EC%95%84%EC%84%9C%EB%B3%B4%EB%82%B4%EB%93%9C%EB%A0%A4%EC%9A%94/91/category/32/display/1/",
+      "priceText": "시세(전화상담)",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_91.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "시세(전화상담)"
+      },
+      "categoryIds": [
+        32,
+        53
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 92,
+      "name": "동해 호미곶 참돌문어 활어 4kg~1마리*반찬,안주용* ~삶아서보내드려요~",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4-%ED%98%B8%EB%AF%B8%EA%B3%B6-%EC%B0%B8%EB%8F%8C%EB%AC%B8%EC%96%B4-%ED%99%9C%EC%96%B44kg1%EB%A7%88%EB%A6%AC%EB%B0%98%EC%B0%AC%EC%95%88%EC%A3%BC%EC%9A%A9-%EC%82%B6%EC%95%84%EC%84%9C%EB%B3%B4%EB%82%B4%EB%93%9C%EB%A0%A4%EC%9A%94/92/category/32/display/1/",
+      "priceText": "시세(전화상담)",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_92.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "시세(전화상담)"
+      },
+      "categoryIds": [
+        32
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 93,
+      "name": "동해 호미곶 참돌문어 활어 6kg~1마리*반찬,안주용* ~삶아서보내드려요~",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4-%ED%98%B8%EB%AF%B8%EA%B3%B6-%EC%B0%B8%EB%8F%8C%EB%AC%B8%EC%96%B4-%ED%99%9C%EC%96%B46kg1%EB%A7%88%EB%A6%AC%EB%B0%98%EC%B0%AC%EC%95%88%EC%A3%BC%EC%9A%A9-%EC%82%B6%EC%95%84%EC%84%9C%EB%B3%B4%EB%82%B4%EB%93%9C%EB%A0%A4%EC%9A%94/93/category/32/display/1/",
+      "priceText": "전화문의",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_93.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "전화문의"
+      },
+      "categoryIds": [
+        32
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 94,
+      "name": "(청어-대)완전손질과메기20마리(40쪽)+야채풀세트",
+      "url": "https://vitamin25.co.kr/product/%EC%B2%AD%EC%96%B4-%EB%8C%80%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B020%EB%A7%88%EB%A6%AC40%EC%AA%BD%EC%95%BC%EC%B1%84%ED%92%80%EC%84%B8%ED%8A%B8/94/category/38/display/1/",
+      "priceText": "55,000원",
+      "price": 55000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202510/692e2eb0f83b8966e6029a578657d536.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "55,000원"
+      },
+      "categoryIds": [
+        38
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 95,
+      "name": "(청어-중)완전손질과메기10마리(20쪽)+야채풀세트",
+      "url": "https://vitamin25.co.kr/product/%EC%B2%AD%EC%96%B4-%EC%A4%91%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B010%EB%A7%88%EB%A6%AC20%EC%AA%BD%EC%95%BC%EC%B1%84%ED%92%80%EC%84%B8%ED%8A%B8/95/category/38/display/1/",
+      "priceText": "36,000원",
+      "price": 36000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202510/3bee117d22b28266479e68d7103db7e9.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "36,000원"
+      },
+      "categoryIds": [
+        38
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 96,
+      "name": "(청어-특대)완전손질과메기30마리(60쪽)+야채풀세트",
+      "url": "https://vitamin25.co.kr/product/%EC%B2%AD%EC%96%B4-%ED%8A%B9%EB%8C%80%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B030%EB%A7%88%EB%A6%AC60%EC%AA%BD%EC%95%BC%EC%B1%84%ED%92%80%EC%84%B8%ED%8A%B8/96/category/38/display/1/",
+      "priceText": "70,000원",
+      "price": 70000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202510/bb79a12945026d610cb60d0089ea5771.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "70,000원"
+      },
+      "categoryIds": [
+        38
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 97,
+      "name": "(청어) 반손질+위생지*껍질벗기지않은것-10마리(20쪽)",
+      "url": "https://vitamin25.co.kr/product/%EC%B2%AD%EC%96%B4-%EB%B0%98%EC%86%90%EC%A7%88%EC%9C%84%EC%83%9D%EC%A7%80%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B0%EC%A7%80%EC%95%8A%EC%9D%80%EA%B2%83-10%EB%A7%88%EB%A6%AC20%EC%AA%BD/97/category/38/display/1/",
+      "priceText": "품절",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_97.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "품절"
+      },
+      "categoryIds": [
+        38
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 98,
+      "name": "(청어) 반손질+위생지*껍질벗기지않은것大-20마리(40쪽)",
+      "url": "https://vitamin25.co.kr/product/%EC%B2%AD%EC%96%B4-%EB%B0%98%EC%86%90%EC%A7%88%EC%9C%84%EC%83%9D%EC%A7%80%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B0%EC%A7%80%EC%95%8A%EC%9D%80%EA%B2%83%E5%A4%A7-20%EB%A7%88%EB%A6%AC40%EC%AA%BD/98/category/38/display/1/",
+      "priceText": "품절",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_98.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "품절"
+      },
+      "categoryIds": [
+        38
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 99,
+      "name": "(청어) 완전손질+위생도시락*껍질벗긴것大-20마리(40쪽)",
+      "url": "https://vitamin25.co.kr/product/%EC%B2%AD%EC%96%B4-%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EC%9C%84%EC%83%9D%EB%8F%84%EC%8B%9C%EB%9D%BD%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B4%EA%B2%83%E5%A4%A7-20%EB%A7%88%EB%A6%AC40%EC%AA%BD/99/category/38/display/1/",
+      "priceText": "34,000원",
+      "price": 34000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_99.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "34,000원"
+      },
+      "categoryIds": [
+        38
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 100,
+      "name": "(청어) 완전손질+위생도시락*껍질벗긴것大-10마리(20쪽)",
+      "url": "https://vitamin25.co.kr/product/%EC%B2%AD%EC%96%B4-%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EC%9C%84%EC%83%9D%EB%8F%84%EC%8B%9C%EB%9D%BD%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B4%EA%B2%83%E5%A4%A7-10%EB%A7%88%EB%A6%AC20%EC%AA%BD/100/category/38/display/1/",
+      "priceText": "20,000원",
+      "price": 20000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_100.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "20,000원"
+      },
+      "categoryIds": [
+        38
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 101,
+      "name": "(청어) 반손질+진공포장*껍질벗기지않은것(10마리*2개)-20마리(40쪽)",
+      "url": "https://vitamin25.co.kr/product/%EC%B2%AD%EC%96%B4-%EB%B0%98%EC%86%90%EC%A7%88%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B0%EC%A7%80%EC%95%8A%EC%9D%80%EA%B2%8310%EB%A7%88%EB%A6%AC2%EA%B0%9C-20%EB%A7%88%EB%A6%AC40%EC%AA%BD/101/category/38/display/1/",
+      "priceText": "품절",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_101.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "품절"
+      },
+      "categoryIds": [
+        38
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 102,
+      "name": "(청어) 반손질+진공포장*껍질벗기지않은것-10마리(20쪽)",
+      "url": "https://vitamin25.co.kr/product/%EC%B2%AD%EC%96%B4-%EB%B0%98%EC%86%90%EC%A7%88%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B0%EC%A7%80%EC%95%8A%EC%9D%80%EA%B2%83-10%EB%A7%88%EB%A6%AC20%EC%AA%BD/102/category/38/display/1/",
+      "priceText": "품절",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_102.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "품절"
+      },
+      "categoryIds": [
+        38
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 103,
+      "name": "(청어) 완전손질+진공포장*껍질벗긴것-5마리*1팩(10쪽)",
+      "url": "https://vitamin25.co.kr/product/%EC%B2%AD%EC%96%B4-%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B4%EA%B2%83-5%EB%A7%88%EB%A6%AC1%ED%8C%A910%EC%AA%BD/103/category/38/display/1/",
+      "priceText": "11,000원",
+      "price": 11000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_103.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "11,000원"
+      },
+      "categoryIds": [
+        38
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 104,
+      "name": "(청어) 완전손질+진공포장*껍질벗긴것大(10마리*2개)-20마리(40쪽)",
+      "url": "https://vitamin25.co.kr/product/%EC%B2%AD%EC%96%B4-%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B4%EA%B2%83%E5%A4%A710%EB%A7%88%EB%A6%AC2%EA%B0%9C-20%EB%A7%88%EB%A6%AC40%EC%AA%BD/104/category/38/display/1/",
+      "priceText": "36,000원",
+      "price": 36000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_104.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "36,000원"
+      },
+      "categoryIds": [
+        38
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 105,
+      "name": "(청어) 완전손질+진공포장*껍질벗긴것大-10마리(20쪽)",
+      "url": "https://vitamin25.co.kr/product/%EC%B2%AD%EC%96%B4-%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B4%EA%B2%83%E5%A4%A7-10%EB%A7%88%EB%A6%AC20%EC%AA%BD/105/category/38/display/1/",
+      "priceText": "21,000원",
+      "price": 21000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_105.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "21,000원"
+      },
+      "categoryIds": [
+        38
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 106,
+      "name": "(청어) 완전손질+진공포장*껍질벗긴것-5마리*4팩=20마리(40쪽)",
+      "url": "https://vitamin25.co.kr/product/%EC%B2%AD%EC%96%B4-%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B4%EA%B2%83-5%EB%A7%88%EB%A6%AC4%ED%8C%A920%EB%A7%88%EB%A6%AC40%EC%AA%BD/106/category/38/display/1/",
+      "priceText": "38,000원",
+      "price": 38000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_106.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "38,000원"
+      },
+      "categoryIds": [
+        38
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 107,
+      "name": "반손질+위생지*껍질벗기지않은것-10마리(20쪽)",
+      "url": "https://vitamin25.co.kr/product/%EB%B0%98%EC%86%90%EC%A7%88%EC%9C%84%EC%83%9D%EC%A7%80%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B0%EC%A7%80%EC%95%8A%EC%9D%80%EA%B2%83-10%EB%A7%88%EB%A6%AC20%EC%AA%BD/107/category/35/display/1/",
+      "priceText": "19,000원",
+      "price": 19000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_107.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "19,000원"
+      },
+      "categoryIds": [
+        35
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 108,
+      "name": "(중대) (4~5인분) 완전손질과메기15마리(30쪽)+야채풀세트",
+      "url": "https://vitamin25.co.kr/product/%EC%A4%91%EB%8C%80-45%EC%9D%B8%EB%B6%84-%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B015%EB%A7%88%EB%A6%AC30%EC%AA%BD%EC%95%BC%EC%B1%84%ED%92%80%EC%84%B8%ED%8A%B8/108/category/4/display/1/",
+      "priceText": "44,000원",
+      "price": 44000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202110/8b006b038f50e7e14151aa40ccb4e6a6.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "44,000원"
+      },
+      "categoryIds": [
+        4
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 109,
+      "name": "반손질+위생지*껍질벗기지않은것-10마리(20쪽)",
+      "url": "https://vitamin25.co.kr/product/%EB%B0%98%EC%86%90%EC%A7%88%EC%9C%84%EC%83%9D%EC%A7%80%EA%BB%8D%EC%A7%88%EB%B2%97%EA%B8%B0%EC%A7%80%EC%95%8A%EC%9D%80%EA%B2%83-10%EB%A7%88%EB%A6%AC20%EC%AA%BD/109/category/4/display/1/",
+      "priceText": "19,000원",
+      "price": 19000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_109.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "19,000원"
+      },
+      "categoryIds": [
+        4
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 111,
+      "name": "(청어-중대)완전손질과메기15마리(30쪽)+야채풀세트",
+      "url": "https://vitamin25.co.kr/product/%EC%B2%AD%EC%96%B4-%EC%A4%91%EB%8C%80%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B015%EB%A7%88%EB%A6%AC30%EC%AA%BD%EC%95%BC%EC%B1%84%ED%92%80%EC%84%B8%ED%8A%B8/111/category/38/display/1/",
+      "priceText": "44,000원",
+      "price": 44000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202510/34c5e3c2bc333c039619e79957c12fdf.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "44,000원"
+      },
+      "categoryIds": [
+        38
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 112,
+      "name": "(소) (1~2인분) 완전손질과메기5마리(10쪽)+야채풀세트",
+      "url": "https://vitamin25.co.kr/product/%EC%86%8C-12%EC%9D%B8%EB%B6%84-%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B05%EB%A7%88%EB%A6%AC10%EC%AA%BD%EC%95%BC%EC%B1%84%ED%92%80%EC%84%B8%ED%8A%B8/112/category/4/display/1/",
+      "priceText": "26,000원",
+      "price": 26000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202110/cb09aa069c2b7d4b234f50e7ba25500c.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "26,000원"
+      },
+      "categoryIds": [
+        4
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 121,
+      "name": "야채셋트 구성(쌈채소5종+고추+마늘+쪽파+다시마+초장300g)",
+      "url": "https://vitamin25.co.kr/product/%EC%95%BC%EC%B1%84%EC%85%8B%ED%8A%B8-%EA%B5%AC%EC%84%B1%EC%8C%88%EC%B1%84%EC%86%8C5%EC%A2%85%EA%B3%A0%EC%B6%94%EB%A7%88%EB%8A%98%EC%AA%BD%ED%8C%8C%EB%8B%A4%EC%8B%9C%EB%A7%88%EC%B4%88%EC%9E%A5300g/121/category/4/display/1/",
+      "priceText": "15,000원",
+      "price": 15000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202210/e551b2840281b2e329edabc4aff6da3a.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "15,000원",
+        "적립금": "100원 (1%)"
+      },
+      "categoryIds": [
+        4,
+        38
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 122,
+      "name": "반반세트 대(청어10+꽁치10)완전손질과메기20마리(40쪽)+야채풀세트",
+      "url": "https://vitamin25.co.kr/product/%EB%B0%98%EB%B0%98%EC%84%B8%ED%8A%B8-%EB%8C%80%EC%B2%AD%EC%96%B410%EA%BD%81%EC%B9%9810%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B020%EB%A7%88%EB%A6%AC40%EC%AA%BD%EC%95%BC%EC%B1%84%ED%92%80%EC%84%B8%ED%8A%B8/122/category/38/display/1/",
+      "priceText": "57,000원",
+      "price": 57000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_94.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "57,000원"
+      },
+      "categoryIds": [
+        38
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 123,
+      "name": "반반세트 중(청어5+꽁치5)완전손질과메기10마리(20쪽)+야채풀세트",
+      "url": "https://vitamin25.co.kr/product/%EB%B0%98%EB%B0%98%EC%84%B8%ED%8A%B8-%EC%A4%91%EC%B2%AD%EC%96%B45%EA%BD%81%EC%B9%985%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B010%EB%A7%88%EB%A6%AC20%EC%AA%BD%EC%95%BC%EC%B1%84%ED%92%80%EC%84%B8%ED%8A%B8/123/category/38/display/1/",
+      "priceText": "38,000원",
+      "price": 38000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_95.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "38,000원"
+      },
+      "categoryIds": [
+        38
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 124,
+      "name": "반반세트 특대(청어15+꽁치15)완전손질과메기30마리(60쪽)+야채풀세트",
+      "url": "https://vitamin25.co.kr/product/%EB%B0%98%EB%B0%98%EC%84%B8%ED%8A%B8-%ED%8A%B9%EB%8C%80%EC%B2%AD%EC%96%B415%EA%BD%81%EC%B9%9815%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B030%EB%A7%88%EB%A6%AC60%EC%AA%BD%EC%95%BC%EC%B1%84%ED%92%80%EC%84%B8%ED%8A%B8/124/category/38/display/1/",
+      "priceText": "72,000원",
+      "price": 72000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_96.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "72,000원"
+      },
+      "categoryIds": [
+        38
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 125,
+      "name": "(청어-소) (1~2인분)완전손질과메기5마리(10쪽)+야채풀세트",
+      "url": "https://vitamin25.co.kr/product/%EC%B2%AD%EC%96%B4-%EC%86%8C-12%EC%9D%B8%EB%B6%84%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B05%EB%A7%88%EB%A6%AC10%EC%AA%BD%EC%95%BC%EC%B1%84%ED%92%80%EC%84%B8%ED%8A%B8/125/category/38/display/1/",
+      "priceText": "28,000원",
+      "price": 28000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202510/aa1448fa8b4ac770dbe47eecb524e219.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "28,000원"
+      },
+      "categoryIds": [
+        38
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 126,
+      "name": "고소한 흑보리새우(150g)",
+      "url": "https://vitamin25.co.kr/product/%EA%B3%A0%EC%86%8C%ED%95%9C-%ED%9D%91%EB%B3%B4%EB%A6%AC%EC%83%88%EC%9A%B0150g/126/category/24/display/1/",
+      "priceText": "품절",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/201911/a4bbaa48db59674532969945594dd232.jpg",
+      "summary": "최고의 보리새우를 정성껏 포장하였습니다",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "품절",
+        "적립금": "0원 (1%)",
+        "상품간략설명": "최고의 보리새우를 정성껏 포장하였습니다"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 128,
+      "name": "쫄깃한 쥐포(5미/250g)=뚜께감있고,딱딱하지않고 부드러움",
+      "url": "https://vitamin25.co.kr/product/%EC%AB%84%EA%B9%83%ED%95%9C-%EC%A5%90%ED%8F%AC5%EB%AF%B8250g%EB%9A%9C%EA%BB%98%EA%B0%90%EC%9E%88%EA%B3%A0%EB%94%B1%EB%94%B1%ED%95%98%EC%A7%80%EC%95%8A%EA%B3%A0-%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9B%80/128/category/24/display/1/",
+      "priceText": "15,000원",
+      "price": 15000,
+      "image": "https://vitamin25.co.kr/web/product/medium/201812/33e5d59407fafa71262db2f907bc5ac3.jpg",
+      "summary": "최고의 쥐포를 정성껏 포장하였습니다 구우후 시간이 지나도 딱딱해지지 않는 쥐포",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "15,000원",
+        "적립금": "100원 (1%)",
+        "상품간략설명": "최고의 쥐포를 정성껏 포장하였습니다 구우후 시간이 지나도 딱딱해지지 않는 쥐포"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 129,
+      "name": "곱창김 !! 자연이 만든 최고의 김",
+      "url": "https://vitamin25.co.kr/product/%EA%B3%B1%EC%B0%BD%EA%B9%80-%EC%9E%90%EC%97%B0%EC%9D%B4-%EB%A7%8C%EB%93%A0-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EA%B9%80/129/category/24/display/1/",
+      "priceText": "36,000원",
+      "price": 36000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202301/faf8a4c5bc3f7c881b54cc8455d6c279.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "36,000원"
+      },
+      "categoryIds": [
+        4,
+        24,
+        53
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 133,
+      "name": "반반세트 중 (청어5+꽁치5)완전손질과메기10마리(20쪽)+야채풀세트",
+      "url": "https://vitamin25.co.kr/product/%EB%B0%98%EB%B0%98%EC%84%B8%ED%8A%B8-%EC%A4%91-%EC%B2%AD%EC%96%B45%EA%BD%81%EC%B9%985%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B010%EB%A7%88%EB%A6%AC20%EC%AA%BD%EC%95%BC%EC%B1%84%ED%92%80%EC%84%B8%ED%8A%B8/133/category/33/display/1/",
+      "priceText": "38,000원",
+      "price": 38000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_10.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "38,000원"
+      },
+      "categoryIds": [
+        4,
+        33
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 134,
+      "name": "반반세트 대 (청어10+꽁치10)완전손질과메기20마리(40쪽)+야채풀세트",
+      "url": "https://vitamin25.co.kr/product/%EB%B0%98%EB%B0%98%EC%84%B8%ED%8A%B8-%EB%8C%80-%EC%B2%AD%EC%96%B410%EA%BD%81%EC%B9%9810%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B020%EB%A7%88%EB%A6%AC40%EC%AA%BD%EC%95%BC%EC%B1%84%ED%92%80%EC%84%B8%ED%8A%B8/134/category/33/display/1/",
+      "priceText": "57,000원",
+      "price": 57000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_1.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "57,000원"
+      },
+      "categoryIds": [
+        4,
+        33
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 135,
+      "name": "반반세트 특대 (청어15+꽁치15)완전손질과메기30마리(60쪽)+야채풀세트",
+      "url": "https://vitamin25.co.kr/product/%EB%B0%98%EB%B0%98%EC%84%B8%ED%8A%B8-%ED%8A%B9%EB%8C%80-%EC%B2%AD%EC%96%B415%EA%BD%81%EC%B9%9815%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EA%B3%BC%EB%A9%94%EA%B8%B030%EB%A7%88%EB%A6%AC60%EC%AA%BD%EC%95%BC%EC%B1%84%ED%92%80%EC%84%B8%ED%8A%B8/135/category/33/display/1/",
+      "priceText": "72,000원",
+      "price": 72000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_11.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "72,000원"
+      },
+      "categoryIds": [
+        4,
+        33
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 136,
+      "name": "완전손질+진공포장*잘게썰어놓은 과메기 (무침용,튀김용,반찬용)300g",
+      "url": "https://vitamin25.co.kr/product/%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5%EC%9E%98%EA%B2%8C%EC%8D%B0%EC%96%B4%EB%86%93%EC%9D%80-%EA%B3%BC%EB%A9%94%EA%B8%B0-%EB%AC%B4%EC%B9%A8%EC%9A%A9%ED%8A%80%EA%B9%80%EC%9A%A9%EB%B0%98%EC%B0%AC%EC%9A%A9300g/136/category/4/display/1/",
+      "priceText": "11,000원",
+      "price": 11000,
+      "image": "https://vitamin25.co.kr/web/product/medium/20200110/90e7ee064055e7b1765b6f1e1ad48ef0.jpg",
+      "summary": "과메기를 잘게 썰어놓아서 무침, 튀김용으로 좋으며 각종 야채와 무쳐드시면 아주 좋습니다 튀김가루에 버무려서 튀기셔도 좋고 반찬용으로도 인기 최고입니다",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "11,000원",
+        "상품간략설명": "과메기를 잘게 썰어놓아서 무침, 튀김용으로 좋으며 각종 야채와 무쳐드시면 아주 좋습니다 튀김가루에 버무려서 튀기셔도 좋고 반찬용으로도 인기 최고입니다"
+      },
+      "categoryIds": [
+        4
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 137,
+      "name": "동해안 도루묵(두절후 손질됨)500g",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4%EC%95%88-%EB%8F%84%EB%A3%A8%EB%AC%B5%EB%91%90%EC%A0%88%ED%9B%84-%EC%86%90%EC%A7%88%EB%90%A8500g/137/category/24/display/1/",
+      "priceText": "품절",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/202010/2f5313f42e77470e06d0c39dfc753460.jpg",
+      "summary": "동해안 도루묵을 손질후 반건조하여 진공포장 하였습니다",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "품절",
+        "적립금": "100원 (1%)",
+        "상품간략설명": "동해안 도루묵을 손질후 반건조하여 진공포장 하였습니다"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 138,
+      "name": "깔끔 코다리 4마리 ~46cm",
+      "url": "https://vitamin25.co.kr/product/%EA%B9%94%EB%81%94-%EC%BD%94%EB%8B%A4%EB%A6%AC-4%EB%A7%88%EB%A6%AC-46cm/138/category/24/display/1/",
+      "priceText": "준비중",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/202010/eb2a9f9da99cf53508b4a8297dffef80.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "준비중",
+        "적립금": "100원 (1%)"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 139,
+      "name": "자연산돌미역 600g-육수,반찬용(동해산)",
+      "url": "https://vitamin25.co.kr/product/%EC%9E%90%EC%97%B0%EC%82%B0%EB%8F%8C%EB%AF%B8%EC%97%AD-600g-%EC%9C%A1%EC%88%98%EB%B0%98%EC%B0%AC%EC%9A%A9%EB%8F%99%ED%95%B4%EC%82%B0/139/category/24/display/1/",
+      "priceText": "35,000원",
+      "price": 35000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202011/f19564e27c6234c68ce307b65bf5a511.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "35,000원"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 145,
+      "name": "울릉도 맛간장 독도홍게맛간장",
+      "url": "https://vitamin25.co.kr/product/%EC%9A%B8%EB%A6%89%EB%8F%84-%EB%A7%9B%EA%B0%84%EC%9E%A5-%EB%8F%85%EB%8F%84%ED%99%8D%EA%B2%8C%EB%A7%9B%EA%B0%84%EC%9E%A5/145/category/42/display/1/",
+      "priceText": "준비중",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/202111/3cede163ab406004ec95584b5f519dc4.jpg",
+      "summary": "독도 근해에서 잡은 홍게로 만든 맛간장입니다.",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "준비중",
+        "적립금": "0원 (1%)",
+        "상품간략설명": "독도 근해에서 잡은 홍게로 만든 맛간장입니다."
+      },
+      "categoryIds": [
+        42
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 146,
+      "name": "울릉도 홍합.명이 맛간장",
+      "url": "https://vitamin25.co.kr/product/%EC%9A%B8%EB%A6%89%EB%8F%84-%ED%99%8D%ED%95%A9%EB%AA%85%EC%9D%B4-%EB%A7%9B%EA%B0%84%EC%9E%A5/146/category/42/display/1/",
+      "priceText": "준비중",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/202509/ad1932b95f1797565175f3602baba909.jpg",
+      "summary": "울릉도에서 자란 홍합,명이,더덕,미역을 넣어 정성스레 담근 맛있고 건강한 맛간장",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "준비중",
+        "적립금": "0원 (1%)",
+        "상품간략설명": "울릉도에서 자란 홍합,명이,더덕,미역을 넣어 정성스레 담근 맛있고 건강한 맛간장"
+      },
+      "categoryIds": [
+        42,
+        53
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 149,
+      "name": "비타민 한정 특가 알찬 홍게 (80%이상) 3kg내외(10~15미)",
+      "url": "https://vitamin25.co.kr/product/%EB%B9%84%ED%83%80%EB%AF%BC-%ED%95%9C%EC%A0%95-%ED%8A%B9%EA%B0%80-%EC%95%8C%EC%B0%AC-%ED%99%8D%EA%B2%8C-80%EC%9D%B4%EC%83%81-3kg%EB%82%B4%EC%99%B81015%EB%AF%B8/149/category/12/display/1/",
+      "priceText": "59,000원",
+      "price": 59000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202201/16fad7590a81d58345aa6221591959ef.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "59,000원"
+      },
+      "categoryIds": [
+        12
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 150,
+      "name": "구수한 아귀포",
+      "url": "https://vitamin25.co.kr/product/%EA%B5%AC%EC%88%98%ED%95%9C-%EC%95%84%EA%B7%80%ED%8F%AC/150/category/24/display/1/",
+      "priceText": "품절",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/202210/e741f9ccb0a10db80228388ca01a1628.jpg",
+      "summary": "아귀를 자연그대로 건조한 구수하고 맛난 아귀포",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "품절",
+        "적립금": "100원 (1%)",
+        "상품간략설명": "아귀를 자연그대로 건조한 구수하고 맛난 아귀포"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 151,
+      "name": "진정한 쥐포의 강자(국산)",
+      "url": "https://vitamin25.co.kr/product/%EC%A7%84%EC%A0%95%ED%95%9C-%EC%A5%90%ED%8F%AC%EC%9D%98-%EA%B0%95%EC%9E%90%EA%B5%AD%EC%82%B0/151/category/24/display/1/",
+      "priceText": "품절",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/202210/ffbd51c7d346a533d13acaca75084937.jpg",
+      "summary": "국산 쥐포 입니다 비싼만큼 맛과 품질 인증",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "품절",
+        "적립금": "200원 (1%)",
+        "상품간략설명": "국산 쥐포 입니다 비싼만큼 맛과 품질 인증"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 152,
+      "name": "건조오징어 5마리 = 350g 내외",
+      "url": "https://vitamin25.co.kr/product/%EA%B1%B4%EC%A1%B0%EC%98%A4%EC%A7%95%EC%96%B4-5%EB%A7%88%EB%A6%AC-350g-%EB%82%B4%EC%99%B8/152/category/7/display/1/",
+      "priceText": "33,000원",
+      "price": 33000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_73.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "33,000원"
+      },
+      "categoryIds": [
+        7
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 153,
+      "name": "건조오징어 10마리 = 700~750g",
+      "url": "https://vitamin25.co.kr/product/%EA%B1%B4%EC%A1%B0%EC%98%A4%EC%A7%95%EC%96%B4-10%EB%A7%88%EB%A6%AC-700750g/153/category/7/display/1/",
+      "priceText": "60,000원",
+      "price": 60000,
+      "image": "https://vitamin25.co.kr/web/product/medium/bitamin25_73.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "60,000원"
+      },
+      "categoryIds": [
+        7
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 156,
+      "name": "쫄깃, 촉촉, 구수한 바베큐진미채(250g)",
+      "url": "https://vitamin25.co.kr/product/%EC%AB%84%EA%B9%83-%EC%B4%89%EC%B4%89-%EA%B5%AC%EC%88%98%ED%95%9C-%EB%B0%94%EB%B2%A0%ED%81%90%EC%A7%84%EB%AF%B8%EC%B1%84250g/156/category/24/display/1/",
+      "priceText": "12,000원",
+      "price": 12000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202509/11efba9e758875cf648ef96a8d60c27d.jpg",
+      "summary": "두툼한 살과 진한 바베큐 맛의 오징어채 비타민이 자신있게 권하는 진미채",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "12,000원",
+        "적립금": "100원 (1%)",
+        "상품간략설명": "두툼한 살과 진한 바베큐 맛의 오징어채 비타민이 자신있게 권하는 진미채"
+      },
+      "categoryIds": [
+        24,
+        53
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 157,
+      "name": "도톰이 쥐포 5마리",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%84%ED%86%B0%EC%9D%B4-%EC%A5%90%ED%8F%AC-5%EB%A7%88%EB%A6%AC/157/category/24/display/1/",
+      "priceText": "15,000원",
+      "price": 15000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202303/6645d052fd6c5f4c478ca8433d5c41d1.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "15,000원",
+        "적립금": "100원 (1%)"
+      },
+      "categoryIds": [
+        24,
+        53
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 158,
+      "name": "자연산돌다시마 600g이상-육수,반찬용(동해산)",
+      "url": "https://vitamin25.co.kr/product/%EC%9E%90%EC%97%B0%EC%82%B0%EB%8F%8C%EB%8B%A4%EC%8B%9C%EB%A7%88-600g%EC%9D%B4%EC%83%81-%EC%9C%A1%EC%88%98%EB%B0%98%EC%B0%AC%EC%9A%A9%EB%8F%99%ED%95%B4%EC%82%B0/158/category/24/display/1/",
+      "priceText": "26,000원",
+      "price": 26000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202306/fb28373cfacfefaf241914b75cc114f3.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "26,000원"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 159,
+      "name": "동해 해풍건조 반건조 생선 대구 40cm내외 찜,구이,선물용 특가판매",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4-%ED%95%B4%ED%92%8D%EA%B1%B4%EC%A1%B0-%EB%B0%98%EA%B1%B4%EC%A1%B0-%EC%83%9D%EC%84%A0-%EB%8C%80%EA%B5%AC-40cm%EB%82%B4%EC%99%B8-%EC%B0%9C%EA%B5%AC%EC%9D%B4%EC%84%A0%EB%AC%BC%EC%9A%A9-%ED%8A%B9%EA%B0%80%ED%8C%90%EB%A7%A4/159/category/24/display/1/",
+      "priceText": "품절",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/202403/ca760e9c7f3a2f531999f9a761d02152.jpg",
+      "summary": "싱싱한 대구를 손질 세척 과정을 거쳐 동해바다 해풍으로 자연 건조한 상품",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "품절",
+        "적립금": "100원 (1%)",
+        "상품간략설명": "싱싱한 대구를 손질 세척 과정을 거쳐 동해바다 해풍으로 자연 건조한 상품"
+      },
+      "categoryIds": [
+        24,
+        53
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 160,
+      "name": "(특가)국내산 자연산 병어 손질 세척 병어 대용량15마리(3마리씩진공) (마리당150~200g내외) 싱싱 깔끔한 진공포장",
+      "url": "https://vitamin25.co.kr/product/%ED%8A%B9%EA%B0%80%EA%B5%AD%EB%82%B4%EC%82%B0-%EC%9E%90%EC%97%B0%EC%82%B0-%EB%B3%91%EC%96%B4-%EC%86%90%EC%A7%88-%EC%84%B8%EC%B2%99-%EB%B3%91%EC%96%B4-%EB%8C%80%EC%9A%A9%EB%9F%8915%EB%A7%88%EB%A6%AC3%EB%A7%88%EB%A6%AC%EC%94%A9%EC%A7%84%EA%B3%B5-%EB%A7%88%EB%A6%AC%EB%8B%B9150200g%EB%82%B4%EC%99%B8-%EC%8B%B1%EC%8B%B1-%EA%B9%94%EB%81%94%ED%95%9C-%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5/160/category/24/display/1/",
+      "priceText": "품절",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/202403/60f087360326523a440a574d0af0b6a8.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "품절",
+        "적립금": "400원 (1%)"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 161,
+      "name": "동해바다 손질 열기 적어 볼락 빨간생선 5마리(1kg 내외)(개별포장)",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4%EB%B0%94%EB%8B%A4-%EC%86%90%EC%A7%88-%EC%97%B4%EA%B8%B0-%EC%A0%81%EC%96%B4-%EB%B3%BC%EB%9D%BD-%EB%B9%A8%EA%B0%84%EC%83%9D%EC%84%A0-5%EB%A7%88%EB%A6%AC1kg-%EB%82%B4%EC%99%B8%EA%B0%9C%EB%B3%84%ED%8F%AC%EC%9E%A5/161/category/24/display/1/",
+      "priceText": "23,000원",
+      "price": 23000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202403/0a75c3f63b886528fa888758dc979111.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "23,000원",
+        "적립금": "200원 (1%)"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 162,
+      "name": "동해바다 해풍건조 서대,박대(4미) 대방출",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4%EB%B0%94%EB%8B%A4-%ED%95%B4%ED%92%8D%EA%B1%B4%EC%A1%B0-%EC%84%9C%EB%8C%80%EB%B0%95%EB%8C%804%EB%AF%B8-%EB%8C%80%EB%B0%A9%EC%B6%9C/162/category/24/display/1/",
+      "priceText": "18,000원",
+      "price": 18000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202509/b1169fffefec404f61cfb7734bb25e8a.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "18,000원",
+        "적립금": "100원 (1%)"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 163,
+      "name": "동해바다 해풍으로 건조한 반건조 생선(제수용,선물용)행사장",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4%EB%B0%94%EB%8B%A4-%ED%95%B4%ED%92%8D%EC%9C%BC%EB%A1%9C-%EA%B1%B4%EC%A1%B0%ED%95%9C-%EB%B0%98%EA%B1%B4%EC%A1%B0-%EC%83%9D%EC%84%A0%EC%A0%9C%EC%88%98%EC%9A%A9%EC%84%A0%EB%AC%BC%EC%9A%A9%ED%96%89%EC%82%AC%EC%9E%A5/163/category/24/display/1/",
+      "priceText": "16,000원",
+      "price": 16000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202403/582df72fa592abc3883cf236cd54225b.jpeg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "16,000원",
+        "적립금": "100원 (1%)"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 174,
+      "name": "국내산 방어 손질 방어 필렛 (개별 진공포장)",
+      "url": "https://vitamin25.co.kr/product/%EA%B5%AD%EB%82%B4%EC%82%B0-%EB%B0%A9%EC%96%B4-%EC%86%90%EC%A7%88-%EB%B0%A9%EC%96%B4-%ED%95%84%EB%A0%9B-%EA%B0%9C%EB%B3%84-%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5/174/category/27/display/1/",
+      "priceText": "20,000원",
+      "price": 20000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202404/212a0dacb039c64a17b4061d1b0f03c6.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "20,000원",
+        "적립금": "200원 (1%)"
+      },
+      "categoryIds": [
+        27
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 175,
+      "name": "건어물도매 국내가공 오징어 진미채 홍진미채(250g)",
+      "url": "https://vitamin25.co.kr/product/%EA%B1%B4%EC%96%B4%EB%AC%BC%EB%8F%84%EB%A7%A4-%EA%B5%AD%EB%82%B4%EA%B0%80%EA%B3%B5-%EC%98%A4%EC%A7%95%EC%96%B4-%EC%A7%84%EB%AF%B8%EC%B1%84-%ED%99%8D%EC%A7%84%EB%AF%B8%EC%B1%84250g/175/category/24/display/1/",
+      "priceText": "16,000원",
+      "price": 16000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202408/69264a6094eb86b51180303ae6790c48.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "16,000원",
+        "적립금": "100원 (1%)"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 176,
+      "name": "동해안 해풍건조 생선구이5종세트,(고등어,삼치,방어,열기,가자미)",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4%EC%95%88-%ED%95%B4%ED%92%8D%EA%B1%B4%EC%A1%B0-%EC%83%9D%EC%84%A0%EA%B5%AC%EC%9D%B45%EC%A2%85%EC%84%B8%ED%8A%B8%EA%B3%A0%EB%93%B1%EC%96%B4%EC%82%BC%EC%B9%98%EB%B0%A9%EC%96%B4%EC%97%B4%EA%B8%B0%EA%B0%80%EC%9E%90%EB%AF%B8/176/category/24/display/1/",
+      "priceText": "55,000원",
+      "price": 55000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202509/5d3ea9df4dbcdf9d0a750ac5b5b749f9.png",
+      "summary": "각종 생선을 손질하여 바로 먹을수있는 생선구이 모듬 세트",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "55,000원",
+        "적립금": "500원 (1%)",
+        "상품간략설명": "각종 생선을 손질하여 바로 먹을수있는 생선구이 모듬 세트"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 177,
+      "name": "동해바다 해풍건조 반건조생선세트(제수용,선물용)참가자미,미주구리,참돔,코다리,방어,열기 생선모듬 행사장",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4%EB%B0%94%EB%8B%A4-%ED%95%B4%ED%92%8D%EA%B1%B4%EC%A1%B0-%EB%B0%98%EA%B1%B4%EC%A1%B0%EC%83%9D%EC%84%A0%EC%84%B8%ED%8A%B8%EC%A0%9C%EC%88%98%EC%9A%A9%EC%84%A0%EB%AC%BC%EC%9A%A9%EC%B0%B8%EA%B0%80%EC%9E%90%EB%AF%B8%EB%AF%B8%EC%A3%BC%EA%B5%AC%EB%A6%AC%EC%B0%B8%EB%8F%94%EC%BD%94%EB%8B%A4%EB%A6%AC%EB%B0%A9%EC%96%B4%EC%97%B4%EA%B8%B0-%EC%83%9D%EC%84%A0%EB%AA%A8%EB%93%AC-%ED%96%89%EC%82%AC%EC%9E%A5/177/category/24/display/1/",
+      "priceText": "65,000원",
+      "price": 65000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202509/7a04ddc1b85b01645b84e20797306765.png",
+      "summary": "다양한 생선 8종을 완전 손질하여 바로 드실수 있게 작업한 제품입니다 저렴하고 손질후 진공포장되어 보관도 용이합니다",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "65,000원",
+        "적립금": "600원 (1%)",
+        "상품간략설명": "다양한 생선 8종을 완전 손질하여 바로 드실수 있게 작업한 제품입니다 저렴하고 손질후 진공포장되어 보관도 용이합니다"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 178,
+      "name": "동해 해풍건조 국내산 반건조 참돔 완전손질 참돔3마리 (특대30cm내외/450g내외)",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4-%ED%95%B4%ED%92%8D%EA%B1%B4%EC%A1%B0-%EA%B5%AD%EB%82%B4%EC%82%B0-%EB%B0%98%EA%B1%B4%EC%A1%B0-%EC%B0%B8%EB%8F%94-%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88-%EC%B0%B8%EB%8F%943%EB%A7%88%EB%A6%AC-%ED%8A%B9%EB%8C%8030cm%EB%82%B4%EC%99%B8450g%EB%82%B4%EC%99%B8/178/category/24/display/1/",
+      "priceText": "45,000원",
+      "price": 45000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202509/6185c6ad74c09842e9dd5847a60571e9.png",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "45,000원",
+        "적립금": "400원 (1%)"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 179,
+      "name": "동해 해풍건조 참가자미 특대 완전손질 가자미 2마리(마리당30cm)",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4-%ED%95%B4%ED%92%8D%EA%B1%B4%EC%A1%B0-%EC%B0%B8%EA%B0%80%EC%9E%90%EB%AF%B8-%ED%8A%B9%EB%8C%80-%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88-%EA%B0%80%EC%9E%90%EB%AF%B8-2%EB%A7%88%EB%A6%AC%EB%A7%88%EB%A6%AC%EB%8B%B930cm/179/category/26/display/1/",
+      "priceText": "15,000원",
+      "price": 15000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202510/a8d5a192d40270c1564333687139d1bc.jpg",
+      "summary": "가자미는 동해청정해역에서 당일 어획한 싱싱한 가자미를 선별하여 깨끗하게 정수한 해수로 씻고 청결하고 오염되지 않은 깨끗한 해풍과 햇볕으로 건조한 최상품의 가자미입니다.",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "15,000원",
+        "상품간략설명": "가자미는 동해청정해역에서 당일 어획한 싱싱한 가자미를 선별하여 깨끗하게 정수한 해수로 씻고 청결하고 오염되지 않은 깨끗한 해풍과 햇볕으로 건조한 최상품의 가자미입니다."
+      },
+      "categoryIds": [
+        26,
+        53
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 181,
+      "name": "비타민 한정 특가 알찬 홍게 (80%이상) 6kg내외(20~25미)",
+      "url": "https://vitamin25.co.kr/product/%EB%B9%84%ED%83%80%EB%AF%BC-%ED%95%9C%EC%A0%95-%ED%8A%B9%EA%B0%80-%EC%95%8C%EC%B0%AC-%ED%99%8D%EA%B2%8C-80%EC%9D%B4%EC%83%81-6kg%EB%82%B4%EC%99%B82025%EB%AF%B8/181/category/12/display/1/",
+      "priceText": "89,000원",
+      "price": 89000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202201/9822df30698cf24ccdcc47198053ae85.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "89,000원"
+      },
+      "categoryIds": [
+        12
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 182,
+      "name": "동해 해풍건조 반건조 생선 병어(3마리) 20cm내외 찜,구이,선물용 특가판매",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4-%ED%95%B4%ED%92%8D%EA%B1%B4%EC%A1%B0-%EB%B0%98%EA%B1%B4%EC%A1%B0-%EC%83%9D%EC%84%A0-%EB%B3%91%EC%96%B43%EB%A7%88%EB%A6%AC-20cm%EB%82%B4%EC%99%B8-%EC%B0%9C%EA%B5%AC%EC%9D%B4%EC%84%A0%EB%AC%BC%EC%9A%A9-%ED%8A%B9%EA%B0%80%ED%8C%90%EB%A7%A4/182/category/24/display/1/",
+      "priceText": "품절",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/202403/60f087360326523a440a574d0af0b6a8.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "품절",
+        "적립금": "100원 (1%)"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 183,
+      "name": "(한정특가)동해 해풍건조 반건조 생선 대구 3마리 40cm내외 찜,구이,선물용 특가판매",
+      "url": "https://vitamin25.co.kr/product/%ED%95%9C%EC%A0%95%ED%8A%B9%EA%B0%80%EB%8F%99%ED%95%B4-%ED%95%B4%ED%92%8D%EA%B1%B4%EC%A1%B0-%EB%B0%98%EA%B1%B4%EC%A1%B0-%EC%83%9D%EC%84%A0-%EB%8C%80%EA%B5%AC-3%EB%A7%88%EB%A6%AC-40cm%EB%82%B4%EC%99%B8-%EC%B0%9C%EA%B5%AC%EC%9D%B4%EC%84%A0%EB%AC%BC%EC%9A%A9-%ED%8A%B9%EA%B0%80%ED%8C%90%EB%A7%A4/183/category/24/display/1/",
+      "priceText": "품절",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/202403/ca760e9c7f3a2f531999f9a761d02152.jpg",
+      "summary": "싱싱한 대구를 손질 세척 과정을 거쳐 동해바다 해풍으로 자연 건조한 상품",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "품절",
+        "적립금": "400원 (1%)",
+        "상품간략설명": "싱싱한 대구를 손질 세척 과정을 거쳐 동해바다 해풍으로 자연 건조한 상품"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 184,
+      "name": "(한정특가)동해 해풍건조 반건조 임연수 5마리 30cm내외 찜,구이,선물용 특가판매",
+      "url": "https://vitamin25.co.kr/product/%ED%95%9C%EC%A0%95%ED%8A%B9%EA%B0%80%EB%8F%99%ED%95%B4-%ED%95%B4%ED%92%8D%EA%B1%B4%EC%A1%B0-%EB%B0%98%EA%B1%B4%EC%A1%B0-%EC%9E%84%EC%97%B0%EC%88%98-5%EB%A7%88%EB%A6%AC-30cm%EB%82%B4%EC%99%B8-%EC%B0%9C%EA%B5%AC%EC%9D%B4%EC%84%A0%EB%AC%BC%EC%9A%A9-%ED%8A%B9%EA%B0%80%ED%8C%90%EB%A7%A4/184/category/24/display/1/",
+      "priceText": "32,000원",
+      "price": 32000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202601/2fe05e93f00722a85aa1dd957dc3f038.jpg",
+      "summary": "싱싱한 임연수를 손질 세척 과정을 거쳐 동해바다 해풍으로 자연 건조한 상품",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "32,000원",
+        "적립금": "300원 (1%)",
+        "상품간략설명": "싱싱한 임연수를 손질 세척 과정을 거쳐 동해바다 해풍으로 자연 건조한 상품"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 185,
+      "name": "(행사)국내산 자연산 임연수 손질 세척 대용량 5마리(1마리씩진공 마리당30cm내외)",
+      "url": "https://vitamin25.co.kr/product/%ED%96%89%EC%82%AC%EA%B5%AD%EB%82%B4%EC%82%B0-%EC%9E%90%EC%97%B0%EC%82%B0-%EC%9E%84%EC%97%B0%EC%88%98-%EC%86%90%EC%A7%88-%EC%84%B8%EC%B2%99-%EB%8C%80%EC%9A%A9%EB%9F%89-5%EB%A7%88%EB%A6%AC1%EB%A7%88%EB%A6%AC%EC%94%A9%EC%A7%84%EA%B3%B5-%EB%A7%88%EB%A6%AC%EB%8B%B930cm%EB%82%B4%EC%99%B8/185/category/24/display/1/",
+      "priceText": "32,000원",
+      "price": 32000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202601/3e45d557cd72ae92003279302932bc0b.png",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "32,000원",
+        "적립금": "300원 (1%)"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 189,
+      "name": "국내산 참가자미 두절 가자미 손질가자미(팩당5마리 500g내외)10마리 대용량 특별할인행사",
+      "url": "https://vitamin25.co.kr/product/%EA%B5%AD%EB%82%B4%EC%82%B0-%EC%B0%B8%EA%B0%80%EC%9E%90%EB%AF%B8-%EB%91%90%EC%A0%88-%EA%B0%80%EC%9E%90%EB%AF%B8-%EC%86%90%EC%A7%88%EA%B0%80%EC%9E%90%EB%AF%B8%ED%8C%A9%EB%8B%B95%EB%A7%88%EB%A6%AC-500g%EB%82%B4%EC%99%B810%EB%A7%88%EB%A6%AC-%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B9%EB%B3%84%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC/189/category/24/display/1/",
+      "priceText": "16,900원",
+      "price": 16900,
+      "image": "https://vitamin25.co.kr/web/product/medium/202601/92fb957a07ad387cbcb64bd872035d85.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "16,900원",
+        "적립금": "100원 (1%)"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 190,
+      "name": "청정바다 국내 제주산 갈치 손질 갈치 토막 갈치(팩당400g이상 6~7토막)",
+      "url": "https://vitamin25.co.kr/product/%EC%B2%AD%EC%A0%95%EB%B0%94%EB%8B%A4-%EA%B5%AD%EB%82%B4-%EC%A0%9C%EC%A3%BC%EC%82%B0-%EA%B0%88%EC%B9%98-%EC%86%90%EC%A7%88-%EA%B0%88%EC%B9%98-%ED%86%A0%EB%A7%89-%EA%B0%88%EC%B9%98%ED%8C%A9%EB%8B%B9400g%EC%9D%B4%EC%83%81-67%ED%86%A0%EB%A7%89/190/category/24/display/1/",
+      "priceText": "16,900원",
+      "price": 16900,
+      "image": "https://vitamin25.co.kr/web/product/medium/202601/5c14f01c01e9656d1e75980bbac60b65.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "16,900원"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    },
+    {
+      "id": 191,
+      "name": "국내산 민어 동해바다 해풍건조 손질 민어(제수용,선물용)5마리 대용량 특별 할인행사",
+      "url": "https://vitamin25.co.kr/product/%EA%B5%AD%EB%82%B4%EC%82%B0-%EB%AF%BC%EC%96%B4-%EB%8F%99%ED%95%B4%EB%B0%94%EB%8B%A4-%ED%95%B4%ED%92%8D%EA%B1%B4%EC%A1%B0-%EC%86%90%EC%A7%88-%EB%AF%BC%EC%96%B4%EC%A0%9C%EC%88%98%EC%9A%A9%EC%84%A0%EB%AC%BC%EC%9A%A95%EB%A7%88%EB%A6%AC-%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B9%EB%B3%84-%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC/191/category/24/display/1/",
+      "priceText": "39,900원",
+      "price": 39900,
+      "image": "https://vitamin25.co.kr/web/product/medium/202601/ea4f3f53d21c79877de29427e3c53919.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "39,900원"
+      },
+      "categoryIds": [
+        24,
+        53
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 193,
+      "name": "국내산 자연산 대하 특대 / 프리미엄 왕새우 급냉 /동해안 산지직송 (1kg-20~23미)",
+      "url": "https://vitamin25.co.kr/product/%EA%B5%AD%EB%82%B4%EC%82%B0-%EC%9E%90%EC%97%B0%EC%82%B0-%EB%8C%80%ED%95%98-%ED%8A%B9%EB%8C%80-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-%EC%99%95%EC%83%88%EC%9A%B0-%EA%B8%89%EB%83%89-%EB%8F%99%ED%95%B4%EC%95%88-%EC%82%B0%EC%A7%80%EC%A7%81%EC%86%A1-1kg-2023%EB%AF%B8/193/category/27/display/1/",
+      "priceText": "품절",
+      "price": null,
+      "image": "https://vitamin25.co.kr/web/product/medium/202603/86890da01309b78d2a192a67bc4f4778.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "품절",
+        "적립금": "300원 (1%)"
+      },
+      "categoryIds": [
+        27
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 195,
+      "name": "동해안 생물 오징어/ 생물급냉/ 활오징어/ 5마리(750g내외)/급냉 진공포장",
+      "url": "https://vitamin25.co.kr/product/%EB%8F%99%ED%95%B4%EC%95%88-%EC%83%9D%EB%AC%BC-%EC%98%A4%EC%A7%95%EC%96%B4-%EC%83%9D%EB%AC%BC%EA%B8%89%EB%83%89-%ED%99%9C%EC%98%A4%EC%A7%95%EC%96%B4-5%EB%A7%88%EB%A6%AC750g%EB%82%B4%EC%99%B8%EA%B8%89%EB%83%89-%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5/195/category/27/display/1/",
+      "priceText": "27,900원",
+      "price": 27900,
+      "image": "https://vitamin25.co.kr/web/product/medium/202603/f743043c56c77410dc2e22487d59b405.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "27,900원",
+        "적립금": "200원 (1%)"
+      },
+      "categoryIds": [
+        27
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 196,
+      "name": "청정바다 국내산 완전손질 반건조 바다 송어 행사 대잔치 5마리(1마리당 400g)한정 특별행사",
+      "url": "https://vitamin25.co.kr/product/%EC%B2%AD%EC%A0%95%EB%B0%94%EB%8B%A4-%EA%B5%AD%EB%82%B4%EC%82%B0-%EC%99%84%EC%A0%84%EC%86%90%EC%A7%88-%EB%B0%98%EA%B1%B4%EC%A1%B0-%EB%B0%94%EB%8B%A4-%EC%86%A1%EC%96%B4-%ED%96%89%EC%82%AC-%EB%8C%80%EC%9E%94%EC%B9%98-5%EB%A7%88%EB%A6%AC1%EB%A7%88%EB%A6%AC%EB%8B%B9-400g%ED%95%9C%EC%A0%95-%ED%8A%B9%EB%B3%84%ED%96%89%EC%82%AC/196/category/27/display/1/",
+      "priceText": "29,900원",
+      "price": 29900,
+      "image": "https://vitamin25.co.kr/web/product/medium/202604/0737fe8347d716df1f5e69953e0eba8b.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "29,900원",
+        "적립금": "200원 (1%)"
+      },
+      "categoryIds": [
+        27
+      ],
+      "featuredOnHome": true
+    },
+    {
+      "id": 197,
+      "name": "반건조 생선 선물세트 해풍건조, 진공포장, 제수용 선물세트 최고, 5종20마리로 풍부함, 구이 찜으로 최고, 최다 구성 최저 가격, 아이스박스 선물 포장,",
+      "url": "https://vitamin25.co.kr/product/%EB%B0%98%EA%B1%B4%EC%A1%B0-%EC%83%9D%EC%84%A0-%EC%84%A0%EB%AC%BC%EC%84%B8%ED%8A%B8-%ED%95%B4%ED%92%8D%EA%B1%B4%EC%A1%B0-%EC%A7%84%EA%B3%B5%ED%8F%AC%EC%9E%A5-%EC%A0%9C%EC%88%98%EC%9A%A9-%EC%84%A0%EB%AC%BC%EC%84%B8%ED%8A%B8-%EC%B5%9C%EA%B3%A0-5%EC%A2%8520%EB%A7%88%EB%A6%AC%EB%A1%9C-%ED%92%8D%EB%B6%80%ED%95%A8-%EA%B5%AC%EC%9D%B4-%EC%B0%9C%EC%9C%BC%EB%A1%9C-%EC%B5%9C%EA%B3%A0-%EC%B5%9C%EB%8B%A4-%EA%B5%AC%EC%84%B1-%EC%B5%9C%EC%A0%80-%EA%B0%80%EA%B2%A9-%EC%95%84%EC%9D%B4/197/category/24/display/1/",
+      "priceText": "76,000원",
+      "price": 76000,
+      "image": "https://vitamin25.co.kr/web/product/medium/202609/46f60756cd17aba4e52c9bf2df8ec59d.jpg",
+      "summary": "",
+      "listingSpecs": {
+        "제조사": "자체제작",
+        "판매가": "76,000원",
+        "적립금": "700원 (1%)"
+      },
+      "categoryIds": [
+        24
+      ],
+      "featuredOnHome": false
+    }
+  ],
+  "homeProductIds": [
+    1,
+    10,
+    11,
+    14,
+    17,
+    19,
+    29,
+    50,
+    54,
+    55,
+    64,
+    83,
+    84,
+    94,
+    95,
+    96,
+    99,
+    100,
+    108,
+    111,
+    112,
+    121,
+    122,
+    123,
+    125,
+    129,
+    133,
+    134,
+    146,
+    159,
+    161,
+    176,
+    177,
+    178,
+    179,
+    183,
+    184,
+    191,
+    193,
+    195,
+    196
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "url": "https://vitamin-gohyangchon-gwamegi.godqhr12312.chatgpt.site",
+  "url": "http://localhost:52827",
   "brand": "비타민고향촌과메기",
   "storeUrl": "https://vitamin25.co.kr",
   "phone": "010-2846-6636",
@@ -11,5 +11,12 @@
   "businessNumber": "506-17-35043",
   "commerceNumber": "2009-경북포항-168",
   "hours": "연중 09:00 – 18:00",
-  "sourceCheckedDate": "2026-10-20"
+  "sourceCheckedDate": "2026-10-20",
+  "productionUrl": "https://vitamin25.com",
+  "domainStrategy": "separate",
+  "searchVerification": {
+    "google": "",
+    "naver": "",
+    "bing": ""
+  }
 }
